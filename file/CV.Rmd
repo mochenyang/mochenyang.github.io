@@ -13,7 +13,7 @@ address: "4-365 Carlson School of Management, Minneapolis, MN, 55455"
 #fontawesome: yes
 email: yang3653@umn.edu
 #github: mochenyang
-phone: "612-481-8074"
+#phone: "612-481-8074"
 web: mochenyang.github.io
 
 #fontfamily: mathpazo
@@ -49,7 +49,7 @@ Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measureme
 
 Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Prepare for 3rd round review, **_Information Systems Research_**
 
-Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic Inventory Liquidation. Prepare for 2nd round revision, **_Information Systems Research_**
+Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic Inventory Liquidation. Prepare for 2nd round review, **_Information Systems Research_**
 
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Under 1st round review, **_Management Information Systems Quaterly_**
 
