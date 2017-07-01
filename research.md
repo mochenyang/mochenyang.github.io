@@ -5,7 +5,7 @@ title: Research
 
 # Journal Publications
 
-* __Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning__{: style="color:gray;"}  
+* __Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining__{: style="color:gray;"}  
   Mochen Yang, Gediminas Adomavicius, Gordon Burtch, Yuqing Ren  
   _Information Systems Research_, forthcoming <a href="https://ssrn.com/abstract=2960258" target="_blank">[SSRN]</a>
 
