@@ -43,7 +43,7 @@ Topics: user-generated content, social media, design science
 
 # JOURNAL PUBLICATION
 
-Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning. **_Information Systems Research_**, _forthcoming_
+Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, _forthcoming_
 
 # PAPER UNDER REVIEW
 
