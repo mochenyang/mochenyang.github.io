@@ -42,7 +42,7 @@ title: Research
   * European Journal of Information System
   * Journal of Strategic Information Systems
   * ICIS (2014, 2015, 2016, 2017)
-  * CIST (2015)
+  * CIST (2015, 2017)
   * PACIS (2017)
 
 * PC Member
