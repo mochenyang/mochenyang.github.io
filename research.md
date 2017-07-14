@@ -39,6 +39,7 @@ title: Research
   * Management Science
   * Information Systems Research
   * Management Information Systems Quarterly
+  * Organization Science
   * European Journal of Information System
   * Journal of Strategic Information Systems
   * ICIS (2014, 2015, 2016, 2017)
