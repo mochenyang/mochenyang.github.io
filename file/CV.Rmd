@@ -37,13 +37,19 @@ urlcolor: blue
 
 > Exchange Student
 
+\hrulefill
+
 # RESEARCH INTEREST
 
 Topics: user-generated content, social media, design science
 
+\hrulefill
+
 # JOURNAL PUBLICATION
 
 Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, _forthcoming_
+
+\hrulefill
 
 # PAPER UNDER REVIEW
 
@@ -53,11 +59,15 @@ Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic
 
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Under 1st round review, **_Management Information Systems Quaterly_**
 
+\hrulefill
+
 # WORK IN PROGRESS
 
 Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages
 
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions
+
+\hrulefill
 
 # CONFERENCE PAPER
 
@@ -71,6 +81,8 @@ Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquida
 
 Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. **_CIST_**, 2014, San Francisco
 
+\hrulefill
+
 # TEACHING
 
 **IDSc 4444 Descriptive and Predictive Analytics**, Fall 2016 (Term A)
@@ -81,6 +93,8 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 > Instructor Rating: 5.70/6.00; Enrollment: 52
 
+\hrulefill
+
 # HONORS AND AWARDS
 
 Graduate School Dissertation Fellowship, University of Minnesota, 2017 - 2018
@@ -90,6 +104,8 @@ Best Reviewer Award, Workshop on Information Technology and Systems (_WITS_), Du
 Graduated with Honor, Tsinghua University, 2013
 
 National Scholarship, Ministry of Education, China, 2010
+
+\hrulefill
 
 # SERVICE
 
