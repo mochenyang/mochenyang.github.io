@@ -41,7 +41,7 @@ urlcolor: blue
 
 # RESEARCH INTEREST
 
-Topics: user-generated content, social media, design science
+Topics: user-generated content, social media, mechanism design
 
 \hrulefill
 
