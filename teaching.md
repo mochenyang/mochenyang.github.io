@@ -20,4 +20,4 @@ title: Teaching
 
 # Other Teaching/Speaking Experiences
 * MSBA 6410 __Exploratory Data Analytics and Visualization__, Fall 2015, 2 sessions on Clustering Analysis for Professor Ravi Bapna
-* __Analyzing User-Generated Content on Firm-Hosted Social Media Pages__, [FARCON 2017](http://minneanalytics.org/farcon-2017/), MinneAnalytics [Instruction Blog Post](/_posts/2016-09-28-welcome-to-jekyll.markdown)
+* __Analyzing User-Generated Content on Firm-Hosted Social Media Pages__, [FARCON 2017](http://minneanalytics.org/farcon-2017/){:target="_blank"}, MinneAnalytics [Instruction Blog Post]({{ site.baseurl }}{% link _posts/2016-09-28-welcome-to-jekyll.markdown %}){:target="_blank"}
