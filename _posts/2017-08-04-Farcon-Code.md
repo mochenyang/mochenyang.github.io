@@ -57,6 +57,22 @@ It is important to collect data in an ethical way. Specifically, one should be m
 2. Protect privacy. Take measures to anonymize your data and never use it for unintended purposes.
 3. Do not bypass restriction and try to collect personal, non-public information without consent.
 
+## Topic Modeling: LDA
+
+Latent Dirichlet Allocation (LDA) is a machine learning technique for topic modeling, i.e., discovering salient topics from textual data. The original LDA paper is [here](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf), and _Communication of ACM_ has a nice summary article [here](https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext).
+
+The python package `gensim` offers easy-to-use functions to do LDA analysis. The following code snippet shows how to run LDA and display topics with `gensim`:
+
+```python
+from gensim.models import ldamodel
+
+# “corpus” is a list of documents compatible with gensim format requirement
+lda = ldamodel.LdaModel(corpus, num_topics = 5)
+# display the top 10 words of each topic
+for topic in lda.show_topics(num_words = 10):
+    print topic
+```
+
 ## Amazon Mechanical Turk
 
 
