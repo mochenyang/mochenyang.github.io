@@ -75,7 +75,30 @@ for topic in lda.show_topics(num_words = 10):
 
 ## Amazon Mechanical Turk
 
+[Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) is an online platform for scalable on-demand workforce that you can leverage to complete a series of "human intelligence tasks", ranging from data labeling, imaging tagging, to running experiments, to crowdsourcing product ideas.
 
+### Turker Demographics
+
+To understand turker demographics, I highly recommend the [mturk-tracker](http://demographics.mturk-tracker.com) website built by NYU professor Panos Ipeirotis, as well as his [blog post](http://www.behind-the-enemy-lines.com/2015/04/demographics-of-mechanical-turk-now.html).
+
+### MTurkR: R Package to Manage MTurk tasks
+
+The R package `MTurkR` provides full fledged capability to make API calls to AMT. Here is its [CRAN page](https://cloud.r-project.org/web/packages/MTurkR/index.html). Below is an example code snippet that shows how you can (1) create a `qualification type` and (2) contact workers in batch
+
+```r
+library(MTurkR)
+# set your AWS credentials
+Sys.setenv(AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY)
+
+# create a qualification type
+# "test" parameter can take a qualification test, in XML format
+# "test_duration" specifies how long the test lasts
+# "retry_delay" specifies how long one can retry the test after a failure
+CreateQualificationType(name = "foo", description = "bar", keywords = "a,b,c", retry_delay = 3600, test, test_duration = 1800)
+
+# contact workers in batch
+Contactworker(subject = "Hi", msgs = "Welcome to work on my HITs!", workers = workerIDs, batch = TRUE)
+```
 
 ## Word Embedding
 
