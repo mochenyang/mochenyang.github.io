@@ -100,8 +100,53 @@ CreateQualificationType(name = "foo", description = "bar", keywords = "a,b,c", r
 Contactworker(subject = "Hi", msgs = "Welcome to work on my HITs!", workers = workerIDs, batch = TRUE)
 ```
 
-## Word Embedding
+## Word Embedding with `Word2Vec`
 
+The `Word2Vec` model was developed by researchers at Google. You can find the original paper [here](https://arxiv.org/abs/1301.3781).
 
+The Python library `gensim` provides the capability to train Word2Vec models. Note that you might need additional libraries such as `cython` and `OpenBLAS` to achieve computational efficiency.
+
+Before training the `Word2Vec` model, some text pre-processing steps may be necessary, such as parsing a post into individual sentences, removing/transforming certain words etc., depending on the specific need of your task.
+
+The following code snippet shows how to train a `Word2Vec` model:
+
+```python
+import gensim
+# "sg" specifies whether to use skip gram or continuous bag-of-words algorithm
+# "size" specifies dimension of word embeddings
+# "window" specifies number of surrounding words to take into account
+model = gensim.models.Word2Vec(sentences, sg = 1, size = 300, window = 10)
+
+# model persistence
+model.save("DIRECTORY-TO-SAVE")
+
+# use model to get word similarity
+# 1. get most similar words to "pet"
+model.most_similar("pet")
+# 2. get similarity score between two words
+model.similarity('dog', 'cat')
+```
 
 ## Recurrent Neural Network
+
+`TensorFlow` is a popular and sophisticated Python library to train neural network models. Specifically, we can use `TensorFlowRNNClassifier` to train a recurrent neural network to predict post content categories.
+
+The following code snippet shows how to initialize a classifier, train it, and use it to make predictions:
+
+```python
+from tensorflow.contrib import learn
+
+# RNN has a lot of hyperparameters, here are just a few
+# 1. rnn_size - typically the size of your embedding
+# 2. n_classes: how many categories
+# 3. cell_type: type of neural cells
+# 4. num_layers: depth of the network
+# 5. optimizer: which optimization algorithm to use
+classifier = learn.TensorFlowRNNClassifier(rnn_size = EMBEDDING_SIZE, n_classes, cell_type, num_layers, optimizer)
+
+# train the classifier on training data
+classifier.fit(X_train, y_train)
+
+# make predictions
+classifier.predict(X_unlabeled)
+```
