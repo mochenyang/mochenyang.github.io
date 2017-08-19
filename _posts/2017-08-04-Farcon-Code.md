@@ -35,7 +35,7 @@ The function call would return a long-term token and the timestamp when the toke
 
 Now, we can actually make requests for data using Facebook API. We do so via a python package called `facebook`, which provides easy-to-use functions to make API calls. The `facebook` package [documentation](https://facebook-sdk.readthedocs.io) provides in-depth descriptions of its various functions.
 
-Here is an example of how you can obtain a sample of posts from Walmart's business page:
+Here is an example of how you can obtain a sample of posts from [Walmart's business page](https://www.facebook.com/walmart/):
 
 ```python
 import facebook
@@ -47,7 +47,14 @@ feed = graph.get_object('/Walmart/feed/', until = '2017-08-23')
 
 The output of API requests is usually a `JSON` object, which is structurally similar to a python `dictionary`. One can parse the returned object and get various information.
 
-One intricacy of getting a large amount of data in a continuous fashion is to properly handle `paging`. Suppose you want to collect 1000 posts from Walmart's Facebook page, but Facebook API returns posts in a batch of 100. Then you need to send consecutive requests and specify the position of the next batch. Using the above example, the paging information in the `feed` object is usually in `feed['paging']['next']`, which contains the position of the "next" batch of posts.
+One intricacy of getting a large amount of data in a continuous fashion is to properly handle `paging`. Suppose you want to collect 1000 posts from Walmart's Facebook page, but Facebook API returns posts in a batch of 100. Then you need to send consecutive requests and specify the position of the next batch. Using the above example, the paging information in the `feed` object is usually in `feed['paging']['next']`, which contains the position of the next batch of posts. In particular, the position of the next batch is specified as the value of "until" parameter. The following code snippet shows how to get the parameter:
+
+```python
+# the "next" parameter in paging has structure "...until=XXXXXXX&..."
+# the 'until' parameter is the string after 'until=' and before '&'
+until_val = feed['paging']['next'].split('until=')[1].split('&')[0]
+feed_next = graph.get_object('/Walmart/feed/', until = until_val)
+```
 
 ### Ethics in Web Scraping
 
