@@ -41,7 +41,7 @@ urlcolor: blue
 
 # RESEARCH INTEREST
 
-Topics: user-generated content, social media, mechanism design
+Topics: user-generated content, social media, computational design for complex markets
 
 \hrulefill
 
@@ -57,7 +57,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic Inventory Liquidation. Prepare for 2nd round review, **_Information Systems Research_**
 
-Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Under 1st round review, **_Management Information Systems Quaterly_**
+Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Under 1st round review, **_MIS Quaterly_**
 
 \hrulefill
 
@@ -116,3 +116,9 @@ Management Science, Information Systems Research, Management Information Systems
 **_Program Committee Member_**
 
 PACIS (2016), WITS (2016, 2017)
+
+\hrulefill
+
+# TECHNICAL SKILLS
+
+C, Python, R, Stata, SAS, RapidMiner, MySQL, Github, \LaTeX
