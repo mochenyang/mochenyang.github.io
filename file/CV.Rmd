@@ -71,6 +71,8 @@ Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-It
 
 # CONFERENCE PAPER
 
+Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. **_CIST_**, 2017, Houston
+
 Yang M, Ren Y, & Adomavicius G. Engagement beyond Liking and Commenting: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. **_WCBA_**, 2017, Utah
 
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions. **_WITS_**, 2016, Dublin

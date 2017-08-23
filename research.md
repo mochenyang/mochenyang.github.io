@@ -12,6 +12,10 @@ title: Research
 
 # Conference Papers
 
+* __The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages__{:style="color:gray;"}  
+  Mochen Yang, Yuqing Ren, Gediminas Adomavicius  
+  _CIST_, 2017, Houston
+
 * __Engagement beyond Liking and Commenting: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages__{:style="color:gray;"}  
   Mochen Yang, Yuqing Ren, Gediminas Adomavicius  
   _WCBA_, 2017, Utah
