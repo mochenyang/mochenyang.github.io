@@ -10,7 +10,7 @@ title: Teaching
   * Instructor Rating: 5.70/6.00; Enrollment: 52
 
 # Other Teaching/Speaking Experiences
-* __Analyzing User-Generated Content on Firm-Hosted Social Media Pages__, [FARCON 2017](http://minneanalytics.org/farcon-2017/){:target="_blank"}, MinneAnalytics, [[Instruction Blog Post]]({{ site.baseurl }}{% link _posts/2017-08-04-Farcon-Code.md %}){:target="_blank"}, [<a href="file/Farcon_slides.pdf" target="_blank">[slides]</a>]
+* __Analyzing User-Generated Content on Firm-Hosted Social Media Pages__, [FARCON 2017](http://minneanalytics.org/farcon-2017/){:target="_blank"}, MinneAnalytics, [[Instruction Blog Post]]({{ site.baseurl }}{% link _posts/2017-08-04-Farcon-Code.md %}){:target="_blank"}, <a href="file/Farcon_slides.pdf" target="_blank">[slides]</a>
 * MSBA 6420 __Predictive Analytics__, Fall 2015, 1 session on RapidMiner Tutorial for Professor Gediminas Adomavicius
 * MSBA 6410 __Exploratory Data Analytics and Visualization__, Fall 2015, 2 sessions on Clustering Analysis for Professor Ravi Bapna
 
