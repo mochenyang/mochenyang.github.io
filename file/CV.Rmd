@@ -41,7 +41,9 @@ urlcolor: blue
 
 # RESEARCH INTEREST
 
-Topics: user-generated content, social media, computational design for complex markets
+**Topic**: digital content and engagement behaviors on social media, computational design for complex market mechanisms
+
+**Methodology**: econometrics, randomized experiment, machine learning, mathematical modeling, simulations
 
 \hrulefill
 
