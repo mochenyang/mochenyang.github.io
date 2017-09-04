@@ -43,7 +43,7 @@ urlcolor: blue
 
 # RESEARCH INTEREST
 
-My research aims at deriving insights and strategies to facilitate interactions and transactions among various actors in IT-enabled platforms and markets. I leverage econometric analyses, controlled lab experiments, and machine learning to study digital content and associated engagement behaviors on social media brand pages, and the resulting challenges and opportunities for the organizations. I use mathematical modeling and simulation methods to design theoretically robust and computationally efficient artifacts and mechanisms that support decision making in complex markets. I expect to contribute to both theoretical and practical understanding of activities IT-enabled platforms and markets. 
+My research aims at deriving insights and strategies to facilitate interactions and transactions among various actors in IT-enabled platforms and markets. I leverage econometric analyses, controlled lab experiments, and machine learning to study digital content and associated engagement behaviors on social media brand pages, and the resulting challenges and opportunities for associated firms. I use mathematical modeling and simulation methods to design theoretically robust and computationally efficient artifacts and mechanisms that support decision making in complex markets. I expect to contribute to both theoretical and practical understanding of activities IT-enabled platforms and markets. 
 
 \hrulefill
 
