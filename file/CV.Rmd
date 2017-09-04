@@ -29,6 +29,8 @@ urlcolor: blue
 
 > PhD in Business Administration
 
+> Advisors: Yuqing Ren, Gediminas Adomavicius
+
 **School of Economics and Management, Tsinghua University \hfill 2009 - 2013**
 
 > Bachelor of Information Management and Information System
@@ -41,9 +43,7 @@ urlcolor: blue
 
 # RESEARCH INTEREST
 
-**Topic**: digital content and engagement behaviors on social media, computational design for complex market mechanisms
-
-**Methodology**: econometrics, randomized experiment, machine learning, mathematical modeling, simulations
+My research aims at deriving insights and strategies to facilitate interactions and transactions among various actors in IT-enabled platforms and markets. I leverage econometric analyses, controlled lab experiments, and machine learning to study digital content and associated engagement behaviors on social media brand pages, and the resulting challenges and opportunities for the organizations. I use mathematical modeling and simulation methods to design theoretically robust and computationally efficient artifacts and mechanisms that support decision making in complex markets. I expect to contribute to both theoretical and practical understanding of activities IT-enabled platforms and markets. 
 
 \hrulefill
 
