@@ -7,7 +7,7 @@ title: Awards
   * International Conference on Information Systems (ICIS) Doctoral Consortium Attendee, 2017
   * PhD Student Teaching Award, Carlson School of Management, 2016 - 2017
   * Graduate School Dissertation Fellowship, University of Minnesota, 2017 - 2018
-  * Best Reviewer Award, Workshop on Information Technology and Systems (WITS), Dublin, 2016
+  * Best Reviewer Award, Workshop on Information Technologies and Systems (WITS), Dublin, 2016
   * Graduated with Honor, Tsinghua University, 2013
   * National Scholarship, Ministry of Education, China, 2010
 

@@ -44,7 +44,7 @@ title: Research
   * Information Systems Research
   * Management Information Systems Quarterly
   * Organization Science
-  * European Journal of Information System
+  * European Journal of Information Systems
   * Journal of Strategic Information Systems
   * International Conference on Information Systems (2014, 2015, 2016, 2017)
   * Conference on Information Systems and Technology (2015, 2017)
