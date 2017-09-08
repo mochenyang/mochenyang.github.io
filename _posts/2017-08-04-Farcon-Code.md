@@ -6,7 +6,7 @@ date:   2017-08-23
 
 ## Introduction
 
-This page contains resources for my talk "Analyzing User-Generated Content in Firm-Hosted Social Media Pages" at FARCON 2017, including links, code snippets, and instructions.
+This page contains resources for my talk "Analyzing User-Generated Content in Firm-Hosted Social Media Pages" at [FARCON 2017](http://minneanalytics.org/farcon-2017/){:target="_blank"}, including links, code snippets, and instructions. Here is the <a href="file/Farcon_slides.pdf" target="_blank">[slides]</a> of the talk.
 
 ## Collecting Data via Facebook API
 
