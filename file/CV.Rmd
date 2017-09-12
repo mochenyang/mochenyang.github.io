@@ -45,7 +45,7 @@ urlcolor: blue
 
 # RESEARCH INTERESTS
 
-My research aims at deriving insights and strategies to facilitate interactions and transactions among various actors in IT-enabled platforms and markets. In particular, I leverage and combine econometric analyses, randomized experiments, survey methods, and machine learning to study digital content and engagement behaviors on social media business pages. I use mathematical modeling and simulation methods to design theoretically robust and computationally efficient artifacts and mechanisms that support decision making in complex markets.
+My research aims at deriving insights and strategies to facilitate interactions and transactions among various actors in IT-enabled platforms and markets. In particular, I combine econometric analyses, randomized experiments, survey methods, and machine learning to study the relationships between digital content and engagement behaviors in business pages on social media. In addition, I use mathematical modeling and simulation methods to design theoretically robust and computationally efficient technology artifacts and mechanisms that facilitate economic efficiency and decision making in complex markets. 
 
 \hrulefill
 
