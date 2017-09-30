@@ -61,7 +61,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, in preparation for 2nd round review.
 
-Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. **_MIS Quarterly_**, under 1st round review.
+Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. **_MIS Quarterly_**, in preparation for 2nd round review.
 
 \hrulefill
 
