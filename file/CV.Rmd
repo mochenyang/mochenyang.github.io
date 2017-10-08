@@ -111,6 +111,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 **Served as Guest Lecturer**
 
+- Predictive Analytics, Fall 2017, several sessions on Numeric Prediction and Text Analytics
 - Predictive Analytics, Fall 2015, 1 session on RapidMiner Tutorial
 - Exploratory Data Analytics and Visualization, Fall 2015, 2 sessions on Clustering Analysis
 

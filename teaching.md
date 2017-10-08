@@ -10,8 +10,9 @@ title: Teaching
   * Instructor Rating: 5.70/6.00; Enrollment: 52
 
 # Guest Lecturer
-* MSBA 6420 __Predictive Analytics__, Fall 2015, 1 session on RapidMiner Tutorial for Professor Gediminas Adomavicius
-* MSBA 6410 __Exploratory Data Analytics and Visualization__, Fall 2015, 2 sessions on Clustering Analysis for Professor Ravi Bapna
+* MSBA 6420 __Predictive Analytics__, Fall 2017, several sessions on Numeric Prediction and Text Analytics
+* MSBA 6420 __Predictive Analytics__, Fall 2015, 1 session on RapidMiner Tutorial
+* MSBA 6410 __Exploratory Data Analytics and Visualization__, Fall 2015, 2 sessions on Clustering Analysis
 
 # Teaching Assistant
 * MSBA 6450 __Modeling and Heuristics for Decision Making__, Spring 2016
