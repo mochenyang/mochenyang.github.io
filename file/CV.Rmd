@@ -28,9 +28,7 @@ urlcolor: blue
 **Carlson School of Management, University of Minnesota \hfill 2013 - 2018**
 
 - PhD in Business Administration
-
 - Major: Information & Decision Sciences (expected graduation date 5/2018)
-
 - Advisors: Yuqing (Ching) Ren, Gediminas Adomavicius
 
 **School of Economics and Management, Tsinghua University \hfill 2009 - 2013**
@@ -75,7 +73,7 @@ Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-It
 
 \hrulefill
 
-# CONFERENCE PAPERS AND PRESENTATIONS
+# CONFERENCE PAPERS
 
 Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), Houston, Texas, 2017.
 
@@ -91,11 +89,27 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 \hrulefill
 
-# OTHER TALKS AND PRESENTATIONS
+# TALKS AND PRESENTATIONS
 
-Yang M. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (**_FARCON_**), MinneAnalytics, 2017.
+**Conference Presentations**
 
-Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (**_SOBACO_**) Symposium, Carlson School of Management, 2015.
+- Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), Houston, Texas, 2017.
+
+- Yang M, Ren Y, & Adomavicius G. Engagement beyond Liking and Commenting: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2017.
+
+- Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions. Workshop on Information Technologies and Systems (**_WITS_**), Dublin, Ireland, 2016.
+
+- Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning. Winter Conference on Business Intelligence (**_WCBI_**), Snowbird, Utah, 2016.
+
+- Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquidation. Workshop on Information Technologies and Systems (**_WITS_**), Dallas, Texas, 2015.
+
+- Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), San Francisco, California, 2014.
+
+**Other Talks and Presentations**
+
+- Yang M. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (**_FARCON_**), MinneAnalytics, 2017.
+
+- Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (**_SOBACO_**) Symposium, Carlson School of Management, 2015.
 
 \hrulefill
 
@@ -145,13 +159,22 @@ National Scholarship, Ministry of Education, China, 2010
 
 # SERVICE
 
-**_Reviewer_**
+**Served as Reviewer**
 
-Management Science, Information Systems Research, MIS Quarterly, Organization Science, European Journal of Information Systems, Journal of Strategic Information Systems, International Conference on Information Systems (2014, 2015, 2016, 2017), Conference on Information Systems and Technology (2015, 2017), Pacific Asia Conference on Information Systems (2017)
+- Management Science
+- Information Systems Research
+- MIS Quarterly
+- Organization Science
+- European Journal of Information Systems
+- Journal of Strategic Information Systems
+- International Conference on Information Systems (2014, 2015, 2016, 2017)
+- Conference on Information Systems and Technology (2015, 2017)
+- Pacific Asia Conference on Information Systems (2017)
 
-**_Program Committee Member_**
+**Served as Program Committee Member**
 
-Pacific Asia Conference on Information Systems (2016), Workshop on Information Technologies and Systems (2016, 2017)
+- Pacific Asia Conference on Information Systems (2016)
+- Workshop on Information Technologies and Systems (2016, 2017)
 
 \hrulefill
 
