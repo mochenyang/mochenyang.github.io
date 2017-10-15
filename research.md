@@ -12,7 +12,7 @@ title: Research
 
 # Conference Papers
 
-* __Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages__{:style="color:gray;"} 
+* __Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages__{:style="color:gray;"}  
   Mochen Yang, Yuqing Ren, Gediminas Adomavicius  
   Workshop on Information Technologies and Systems (_WITS_), Seoul, Korea, 2017
 
