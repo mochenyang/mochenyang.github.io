@@ -67,8 +67,6 @@ Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Hom
 
 Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Target Journal: _MIS Quarterly_.
 
-- A short version is currently under review at Workshop on Information Technologies and Systems (2017). 
-
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions. Target Journal: _Management Science_.
 
 \hrulefill
