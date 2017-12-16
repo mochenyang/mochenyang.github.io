@@ -13,6 +13,6 @@ title: Awards
 
 # Grants
   * Graduate School Dissertation Fellowship travel grant, Fall 2017 ($1000)
-  * Carlson School PhD Travel Fellowship, 2014 - 2017, 4 times
-  * Department Travel Grant, Carlson School of Management, 2014 - 2017, 5 times
+  * Carlson School PhD Travel Fellowship, 2014 - 2018, 5 times
+  * Department Travel Grant, Carlson School of Management, 2014 - 2018, 6 times
   * SOBACO Micro-Grants, Carlson School of Management, Fall 2014 ($1000)
