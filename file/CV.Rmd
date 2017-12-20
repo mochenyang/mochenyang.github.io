@@ -49,7 +49,7 @@ My research aims at deriving insights and strategies to facilitate interactions 
 
 # JOURNAL PUBLICATIONS
 
-Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, _forthcoming_.
+Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, forthcoming.
 
 \hrulefill
 
