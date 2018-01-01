@@ -61,11 +61,11 @@ Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic
 
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. **_MIS Quarterly_**, in preparation for 2nd round review.
 
+Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. **_MIS Quarterly_**, under 1st round review.
+
 \hrulefill
 
 # WORK IN PROGRESS
-
-Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Target Journal: _MIS Quarterly_.
 
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions. Target Journal: _Management Science_.
 
