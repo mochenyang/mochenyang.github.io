@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Services & Awards
+title: Services/Awards
 ---
 
 # Services
