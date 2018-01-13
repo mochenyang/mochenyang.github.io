@@ -15,6 +15,7 @@ title: Services/Awards
   * International Conference on Information Systems (2014, 2015, 2016, 2017)
   * Conference on Information Systems and Technology (2015, 2017)
   * Pacific Asia Conference on Information Systems (2017)
+  * European Conference on Information Systems (2018)
 
 * Program Committee Member
   * Pacific Asia Conference on Information Systems (2016)
