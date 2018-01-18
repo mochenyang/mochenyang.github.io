@@ -55,7 +55,7 @@ Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measureme
 
 # PAPERS UNDER REVIEW
 
-Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, in preparation for 3rd round review.
+Yang M, Ren Y, & Adomavicius G. Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, under 3rd round review.
 
 Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, under 2nd round review.
 
@@ -125,21 +125,17 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 # TEACHING
 
-**IDSc 4444 Descriptive and Predictive Analytics**, Fall 2016 (Term A)
+**Instructor**
 
-- Instructor Rating: 5.80/6.00; Enrollment: 47
+- IDSc 4444: Descriptive and Predictive Analytics (Fall 2016; Spring 2017)
 
-**IDSc 4444 Descriptive and Predictive Analytics**, Spring 2017 (Term B)
-
-- Instructor Rating: 5.70/6.00; Enrollment: 52
-
-**Served as Guest Lecturer**
+**Guest Lecturer**
 
 - Predictive Analytics, Fall 2017, several sessions on Numeric Prediction and Text Analytics
 - Predictive Analytics, Fall 2015, 1 session on RapidMiner Tutorial
 - Exploratory Data Analytics and Visualization, Fall 2015, 2 sessions on Clustering Analysis
 
-**Served as Teaching Assistant**
+**Teaching Assistant**
 
 - Modeling and Heuristics for Decision Making, Spring 2016
 - Exploratory Data Analytics and Visualization, Fall 2014/2015
