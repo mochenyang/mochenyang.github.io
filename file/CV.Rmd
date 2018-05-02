@@ -23,13 +23,21 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+# EMPLOYMENT
+
+**Kelley School of Business, Indiana University \hfill 2018 - Present**
+
+- Assistant Professor, Department of Operations & Decision Technologies
+
+\hrulefill
+
 # EDUCATION
 
 **Carlson School of Management, University of Minnesota \hfill 2013 - 2018**
 
-- PhD in Business Administration
-- Major: Information & Decision Sciences (expected graduation date 5/2018)
-- Advisors: Yuqing (Ching) Ren, Gediminas Adomavicius
+- PhD in Business Administration, Department of Information & Decision Sciences
+- _Thesis_: Towards a Comprehensive Understanding of User-Generated Content and Engagement Behavior on Facebook Business Pages
+- _Committee_: Yuqing Ren (Advisor), Gediminas Adomavicius (Advisor), Gordon Burtch, Jisu Huh
 
 **School of Economics and Management, Tsinghua University \hfill 2009 - 2013**
 
@@ -41,12 +49,6 @@ urlcolor: blue
 
 \hrulefill
 
-# RESEARCH INTERESTS
-
-My research aims at deriving insights and strategies to facilitate interactions and transactions among various actors in IT-enabled platforms and markets. In particular, I combine econometric analyses, randomized experiments, survey methods, and machine learning to study the relationships between digital content and engagement behaviors in business pages on social media. In addition, I use mathematical modeling and simulation methods to design theoretically robust and computationally efficient technology artifacts and mechanisms that facilitate economic efficiency and decision making in complex markets. 
-
-\hrulefill
-
 # JOURNAL PUBLICATIONS
 
 Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, 29(1), 4-24.
@@ -55,15 +57,15 @@ Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for M
 
 # WORKING PAPERS
 
-Yang M, Ren Y, & Adomavicius G. Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, under 3rd round review.
+Yang M, Ren Y, & Adomavicius G. Understanding User-Generated Content and Customer Engagement on Facebook Business Pages.
 
-Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, in preparation for 3rd round review.
+Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic Inventory Liquidation.
 
-Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. **_MIS Quarterly_**, under 2nd round review.
+Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions.
 
-Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Preparing for submission.
+Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages.
 
-Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions. Preparing for submission.
+Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions.
 
 \hrulefill
 
@@ -121,41 +123,31 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 # TEACHING
 
-**Instructor**
+**Teaching Experiences at University of Minnesota**
 
-- IDSc 4444: Descriptive and Predictive Analytics (Fall 2016; Spring 2017)
-
-**Guest Lecturer**
-
-- Predictive Analytics, Fall 2017, several sessions on Numeric Prediction and Text Analytics
-- Predictive Analytics, Fall 2015, 1 session on RapidMiner Tutorial
-- Exploratory Data Analytics and Visualization, Fall 2015, 2 sessions on Clustering Analysis
-
-**Teaching Assistant**
-
-- Modeling and Heuristics for Decision Making, Spring 2016
-- Exploratory Data Analytics and Visualization, Fall 2014/2015
-- Predictive Analytics, Fall 2014/2015
-- Business Analytics, Spring 2014/2015
-- Business Intelligence, Spring 2014
-- Advanced Business Intelligence, Spring 2014/2015
-- Information Technology Management, Fall 2013
+- IDSc 4444: Descriptive and Predictive Analytics, Instructor (Fall 2016; Spring 2017)
+- Predictive Analytics, Guest Lecturer (Fall 2017, Fall 2015)
+- Exploratory Data Analytics and Visualization, Guest Lecturer (Fall 2015)
 
 \hrulefill
 
-# HONORS AND AWARDS
+# PROFESSIONAL RECOGNITIONS
 
-International Conference on Information Systems (ICIS) Doctoral Consortium Attendee, 2017
+**Honors and Awards**
 
-PhD Student Teaching Award, Carlson School of Management, 2016-2017
+- International Conference on Information Systems (ICIS) Doctoral Consortium Attendee, 2017
+- PhD Student Teaching Award, Carlson School of Management, 2016-2017
+- Graduate School Dissertation Fellowship, University of Minnesota, 2017-2018
+- Best Reviewer Award, Workshop on Information Technologies and Systems (WITS), 2016
+- Graduated with Honors, Tsinghua University, 2013
+- National Scholarship, Ministry of Education, China, 2010
 
-Graduate School Dissertation Fellowship, University of Minnesota, 2017-2018
+**Grants**
 
-Best Reviewer Award, Workshop on Information Technologies and Systems (WITS), Dublin, 2016
-
-Graduated with Honors, Tsinghua University, 2013
-
-National Scholarship, Ministry of Education, China, 2010
+- Graduate School Dissertation Fellowship travel grant, Fall 2017 ($1000)
+- Carlson School PhD Travel Fellowship, 2014-2018, 5 times
+- Department Travel Grant, Carlson School of Management, 2014 - 2018, 6 times
+- SOBACO Micro-Grants, Carlson School of Management, Fall 2014 ($1000)
 
 \hrulefill
 
@@ -163,13 +155,13 @@ National Scholarship, Ministry of Education, China, 2010
 
 **Served as Reviewer**
 
-- Management Science
 - Information Systems Research
 - MIS Quarterly
+- Management Science
 - Organization Science
 - European Journal of Information Systems
 - Journal of Strategic Information Systems
-- International Conference on Information Systems (2014, 2015, 2016, 2017)
+- International Conference on Information Systems (2014-2018)
 - Conference on Information Systems and Technology (2015, 2017)
 - Pacific Asia Conference on Information Systems (2017)
 
@@ -179,7 +171,3 @@ National Scholarship, Ministry of Education, China, 2010
 - Workshop on Information Technologies and Systems (2016, 2017)
 
 \hrulefill
-
-# TECHNICAL SKILLS
-
-C, Python, R, Stata, SAS, RapidMiner, MySQL, Github, \LaTeX
