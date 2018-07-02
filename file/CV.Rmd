@@ -8,10 +8,10 @@ geometry: margin=1in
 title: "`r format(Sys.time(), '%B %Y')`"
 author: Mochen Yang
 
-jobtitle: "PhD. Candidate, Carlson School of Management, University of Minnesota"
-address: "4-365 Carlson School of Management, Minneapolis, MN, 55455"
+jobtitle: "Assistant Professor, Kelley School of Business, Indiana University"
+address: "Kelley School of Business, 1309 E 10th St, HH 4115"
 #fontawesome: yes
-email: yang3653@umn.edu
+email: yangmo@iu.edu
 #github: mochenyang
 phone: "612-481-8074"
 web: mochenyang.github.io
