@@ -13,7 +13,7 @@ address: "Kelley School of Business, 1309 E 10th St, HH 4115"
 #fontawesome: yes
 email: yangmo@iu.edu
 #github: mochenyang
-phone: "612-481-8074"
+phone: "812-855-5268"
 web: mochenyang.github.io
 
 #fontfamily: mathpazo
