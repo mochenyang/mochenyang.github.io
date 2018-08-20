@@ -35,7 +35,7 @@ Second, **not all fairness notions are compatible with each other**. Kleinberg e
 
 ### Relationship between Fairness and Predictive Performance
 
-In general, a discrimination-aware prediction problem is formulated as a constrained optimization task, which aims to achieve highest accuracy possible, without violating fairness constraints. There is evidence suggesting trade-offs between fairness and predictive performance. Corbett-Davies et al. (2017) demonstrates that maximizing predictive accuracy with a single threshold (that applies to both groups) typically violates fairness constraints. Conversely, fairness-preserving models with group-specific thresholds typically come at the cost of overall accuracy. In essence, the trade-off is again due to different base rates in the two groups. Hardt et al. (2016) proposed algorithms to determine group-specific thresholds that maximize predictive performance under balance constraints, and similarly demonstrated the trade-off between predictive performance and fairness.
+In general, a discrimination-aware prediction problem is formulated as a constrained optimization task, which aims to achieve highest accuracy possible, without violating fairness constraints. There is evidence suggesting trade-offs between fairness and predictive performance. Calders et al, (2009) considered the problem of building a binary classifier where the label is correlated with the protected attribute, and proved a trade-off between accuracy and level of dependency between predictions and the protected attribute. Corbett-Davies et al. (2017) demonstrates that maximizing predictive accuracy with a single threshold (that applies to both groups) typically violates fairness constraints. Conversely, fairness-preserving models with group-specific thresholds typically come at the cost of overall accuracy. In essence, the trade-off is again due to different base rates in the two groups. Hardt et al. (2016) proposed algorithms to determine group-specific thresholds that maximize predictive performance under balance constraints, and similarly demonstrated the trade-off between predictive performance and fairness.
 
 Importantly, such trade-off does not mean that one needs to build inferior predictive models in order to achieve fairness goals. In particular, in Hardt et al. (2016), the classifier is still built to be as accurate as possible, and fairness goals are achieved by adjusting classification thresholds. In the same vein, Kleinberg et al. (2018a) proved that "an equity planner" with fairness goals should still build the same classifier as one would without fairness concerns, and adjust decision thresholds. Moreover, such a classifier should take into account the protected attribute (i.e., group identifier) in order to produce correct predicted probabilities. 
 
@@ -47,7 +47,7 @@ Both Zliobaite (2015) and Romei et al. (2013) surveyed relevant measures of fair
 
 If fairness or discrimination is measured as the number or proportion of instances in each group classified to a certain class, then one can use standard statistical tests (e.g., two sample t-test) to check if there is systematic/statistically significant differences between groups. Zliobaite (2015) reviewed a large number of such methods.
 
-In the particular context of machine learning, previous definitions of fairness offer straightforward measures of discrimination. For instance, the degree of balance of a binary classifier for the positive class can be measured as the difference between average probability assigned to people with positive class in the two groups.
+In the particular context of machine learning, previous definitions of fairness offer straightforward measures of discrimination. For instance, the degree of balance of a binary classifier for the positive class can be measured as the difference between average probability assigned to people with positive class in the two groups. In addition, Pedreschi et al. (2009) developed several metrics to quantify the degree of discrimination in association rules (or IF-THEN decision rules in general). 
 
 ### Prevention/Mitigation
 
@@ -55,9 +55,16 @@ Techniques to prevent/mitigate discrimination in machine learning can be put int
 
 **Data pre-processing** tries to manipulate training data to get rid of discrimination embedded in the data. 
 
-**Algorithm modification** directly modifies machine learning algorithms to take into account fairness constraints. Calders and Verwer (2010) propose to modify naive Bayes model in three different ways: (i) change the conditional probability of a class given the protected attribute; (ii) train two separate naive Bayes classifiers, one for each group, using data only in each group; and (iii) try to estimate a "latent class" free from discrimination.
+- Calders et al, (2009) proposed two methods of cleaning the training data: (1) flipping some labels, and (2) assign unique weight to each instance, with the objective of removing dependency between outcome labels and the protected attribute. The first approach of flipping training labels is also discussed in Kamiran and Calders (2009).
+
+**Algorithm modification** directly modifies machine learning algorithms to take into account fairness constraints. A general principle is that simply removing the protected attribute from training data is not enough to get rid of discrimination, because other correlated attributes can still bias the predictions. This problem is known as **redlining**. 
+
+- Calders and Verwer (2010) propose to modify naive Bayes model in three different ways: (i) change the conditional probability of a class given the protected attribute; (ii) train two separate naive Bayes classifiers, one for each group, using data only in each group; and (iii) try to estimate a "latent class" free from discrimination.
+- Kamiran et al. (2010) develop a discrimination-aware decision tree model, where the criteria to select best split takes into account not only homogeneity in labels but also heterogeneity in the protected attribute in the resulting leaves. 
 
 **Model post-processing** changes how the predictions are made from a model in order to achieve fairness goals. 
+
+- Kamiran et al. (2010) propose to re-label the instances in the leaf nodes of a decision tree, with the objective to minimize accuracy loss and reduce discrimination. The predictions on unseen data are made not based on majority rule with the re-labeled leaf nodes.
 
 
 
@@ -90,6 +97,14 @@ Hardt, M., Price, E., & Srebro, N. (2016). Equality of Opportunity in Supervised
 Corbett-Davies, S., Pierson, E., Feller, A., Goel, S., & Huq, A. (2017). Algorithmic decision making and the cost of fairness. [arXiv](https://arxiv.org/pdf/1701.08230.pdf)
 
 Zliobaite, I. (2015). On the relation between accuracy and fairness in binary classification. [arXiv](https://arxiv.org/pdf/1505.05723.pdf)
+
+Calders, T., Kamiran, F., & Pechenizkiy, M. (2009). Building classifiers with independency constraints. ICDM Workshops 2009 - IEEE International Conference on Data Mining, (December), 13–18.
+
+Kamiran, F., & Calders, T. (2009). Classifying without discriminating. 2009 2nd International Conference on Computer, Control and Communication, IC4 2009.
+
+Pedreschi, D., Ruggieri, S., & Turini, F. (2009). Measuring Discrimination in Socially-Sensitive Decision Records. Proceedings of the 2009 SIAM International Conference on Data Mining, 581–592.
+
+Kamiran, F., Calders, T., & Pechenizkiy, M. (2010). Discrimination aware decision tree learning. Proceedings - IEEE International Conference on Data Mining, ICDM, 869–874. 
 
 ## Other Resources
 
