@@ -79,69 +79,38 @@ Techniques to prevent/mitigate discrimination in machine learning can be put int
 
 ## References
 
-Calders, T., & Verwer, S. (2010). Three naive Bayes approaches for discrimination-free classification. _Data Mining and Knowledge Discovery_, 21(2), 277–292.
-
-Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). Inherent Trade-Offs in the Fair Determination of Risk Scores. [arXiv](https://arxiv.org/pdf/1609.05807.pdf)
-
-Pleiss, G., Raghavan, M., Wu, F., Kleinberg, J., & Weinberger, K. Q. (2017). On Fairness and Calibration. [arXiv](http://arxiv.org/abs/1709.02012)
-
-Kleinberg, J., Ludwig, J., Mullainathan, S., & Rambachan, A. (2018a). Algorithmic Fairness. _AEA Papers and Proceedings_, 108, 22–27.
-
-Kleinberg, J., & Raghavan, M. (2018b). Selection Problems in the Presence of Implicit Bias. [arXiv](https://arxiv.org/pdf/1801.03533.pdf)
-
-Kleinberg, J., Lakkaraju, H., Leskovec, J., Ludwig, J., & Mullainathan, S. (2017). Human decisions and machine predictions. _The quarterly journal of economics_, 133(1), 237-293.
-
-Calders, T., Karim, A., Kamiran, F., Ali, W., & Zhang, X. (2013). Controlling attribute effect in linear regression. Proceedings - IEEE International Conference on Data Mining, _ICDM_, (1), 71–80.
-
-Custers, B. (2013). Discrimination and Privacy in the information society. Discrimination and Privacy in the Information Society (Vol. 3).
-
-Zliobaite, I. (2015). A survey on measuring indirect discrimination in machine learning. [arXiv](https://arxiv.org/pdf/1511.00148.pdf)
-
-Barocas, S., & Selbst, A. (2016). Big Data's Disparate Impact. _California Law Review_, 104(1), 671–729. 
-
-Romei, A., & Ruggieri, S. (2013). A multidisciplinary survey on discrimination analysis. _Knowledge Engineering Review_, 29(5), 582–638.
-
-Hardt, M., Price, E., & Srebro, N. (2016). Equality of Opportunity in Supervised Learning, (Nips).
-
-Corbett-Davies, S., Pierson, E., Feller, A., Goel, S., & Huq, A. (2017). Algorithmic decision making and the cost of fairness. [arXiv](https://arxiv.org/pdf/1701.08230.pdf)
-
-Zliobaite, I. (2015). On the relation between accuracy and fairness in binary classification. [arXiv](https://arxiv.org/pdf/1505.05723.pdf)
-
-Calders, T., Kamiran, F., & Pechenizkiy, M. (2009). Building classifiers with independency constraints. ICDM Workshops 2009 - IEEE International Conference on Data Mining, (December), 13–18.
-
-Kamiran, F., & Calders, T. (2009). Classifying without discriminating. 2009 2nd International Conference on Computer, Control and Communication, IC4 2009.
-
-Pedreschi, D., Ruggieri, S., & Turini, F. (2009). Measuring Discrimination in Socially-Sensitive Decision Records. Proceedings of the 2009 SIAM International Conference on Data Mining, 581–592.
-
-Kamiran, F., Calders, T., & Pechenizkiy, M. (2010). Discrimination aware decision tree learning. Proceedings - IEEE International Conference on Data Mining, ICDM, 869–874. 
-
-Ruggieri, S., Pedreschi, D., & Turini, F. (2010a). Integrating induction and deduction for finding evidence of discrimination. Artificial Intelligence and Law, 18(1), 1–43.
-
-Ruggieri, S., Pedreschi, D., & Turini, F. (2010b). Data mining for discrimination discovery. ACM Transactions on Knowledge Discovery from Data, 4(2), 1–40.
-
-Zliobaite, I., Kamiran, F., & Calders, T. (2011). Handling conditional discrimination. Proceedings - IEEE International Conference on Data Mining, ICDM, (1), 992–1001.
-
-Kamishima, T., Akaho, S., & Sakuma, J. (2011). Fairness-aware learning through regularization approach. Proceedings - IEEE International Conference on Data Mining, ICDM, 643–650.
-
-Hajian, S., Domingo-Ferrer, J., & Martinez-Balleste, A. (2011). Discrimination prevention in data mining for intrusion and crime detection. 2011 IEEE Symposium on Computational Intelligence in Cyber Security, 47–54. 
-
-Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2011). Fairness Through Awareness. [arXiv](https://arxiv.org/pdf/1104.3913.pdf)
-
-Kamiran, F., & Calders, T. (2012). Data preprocessing techniques for classification without discrimination. Knowledge and Information Systems (Vol. 33).
-
-Kamishima, T., Akaho, S., Asoh, H., & Sakuma, J. (2012). Considerations on fairness-aware data mining. Proceedings - 12th IEEE International Conference on Data Mining Workshops, ICDMW 2012, 378–385. 
-
-Pedreschi, D., Ruggieri, S., & Turini, F. (2012). A study of top-k measures for discrimination discovery. Proceedings of the 27th Annual ACM Symposium on Applied Computing. 
-
-Kamiran, F., Karim, A., Verwer, S., & Goudriaan, H. (2012). Classifying socially sensitive data without discrimination: An analysis of a crime suspect dataset. In Proceedings - 12th IEEE International Conference on Data Mining Workshops, ICDMW 2012 (pp. 370–377). 
-
-Kamiran, F., Žliobaite, I., & Calders, T. (2013). Quantifying explainable discrimination and removing illegal discrimination in automated decision making. Knowledge and Information Systems (Vol. 35).
-
-Zemel, R. S., Wu, Y., Swersky, K., Pitassi, T., & Dwork, C. (2013). Learning Fair Representations. Proceedings of the 30th International Conference on Machine Learning, 28, 325–333. 
-
-Mancuhan, K., & Clifton, C. (2014). Combating discrimination using Bayesian networks. Artificial Intelligence and Law, 22(2), 211–238. 
-
-Feldman, M., Friedler, S., Moeller, J., Scheidegger, C., & Venkatasubramanian, S. (2014). Certifying and removing disparate impact. [arXiv](https://arxiv.org/pdf/1412.3756.pdf) 
+- Barocas, S., & Selbst, A. (2016). Big Data's Disparate Impact. _California Law Review_, 104(1), 671–729. 
+- Calders, T., & Verwer, S. (2010). Three naive Bayes approaches for discrimination-free classification. _Data Mining and Knowledge Discovery_, 21(2), 277–292.
+- Calders, T., Kamiran, F., & Pechenizkiy, M. (2009). Building classifiers with independency constraints. ICDM Workshops 2009 - IEEE International Conference on Data Mining, (December), 13–18.
+- Calders, T., Karim, A., Kamiran, F., Ali, W., & Zhang, X. (2013). Controlling attribute effect in linear regression. Proceedings - IEEE International Conference on Data Mining, _ICDM_, (1), 71–80.
+- Corbett-Davies, S., Pierson, E., Feller, A., Goel, S., & Huq, A. (2017). Algorithmic decision making and the cost of fairness. [arXiv](https://arxiv.org/pdf/1701.08230.pdf)
+- Custers, B. (2013). Discrimination and Privacy in the information society. Discrimination and Privacy in the Information Society (Vol. 3).
+- Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2011). Fairness Through Awareness. [arXiv](https://arxiv.org/pdf/1104.3913.pdf)
+- Feldman, M., Friedler, S., Moeller, J., Scheidegger, C., & Venkatasubramanian, S. (2014). Certifying and removing disparate impact. [arXiv](https://arxiv.org/pdf/1412.3756.pdf) 
+- Hajian, S., Domingo-Ferrer, J., & Martinez-Balleste, A. (2011). Discrimination prevention in data mining for intrusion and crime detection. 2011 IEEE Symposium on Computational Intelligence in Cyber Security, 47–54. 
+- Hardt, M., Price, E., & Srebro, N. (2016). Equality of Opportunity in Supervised Learning, (Nips).
+- Kamiran, F., & Calders, T. (2009). Classifying without discriminating. 2009 2nd International Conference on Computer, Control and Communication, IC4 2009.
+- Kamiran, F., & Calders, T. (2012). Data preprocessing techniques for classification without discrimination. Knowledge and Information Systems (Vol. 33).
+- Kamiran, F., Calders, T., & Pechenizkiy, M. (2010). Discrimination aware decision tree learning. Proceedings - IEEE International Conference on Data Mining, ICDM, 869–874. 
+- Kamiran, F., Karim, A., Verwer, S., & Goudriaan, H. (2012). Classifying socially sensitive data without discrimination: An analysis of a crime suspect dataset. In Proceedings - 12th IEEE International Conference on Data Mining Workshops, ICDMW 2012 (pp. 370–377). 
+- Kamiran, F., Žliobaite, I., & Calders, T. (2013). Quantifying explainable discrimination and removing illegal discrimination in automated decision making. Knowledge and Information Systems (Vol. 35).
+- Kamishima, T., Akaho, S., & Sakuma, J. (2011). Fairness-aware learning through regularization approach. Proceedings - IEEE International Conference on Data Mining, ICDM, 643–650.
+- Kamishima, T., Akaho, S., Asoh, H., & Sakuma, J. (2012). Considerations on fairness-aware data mining. Proceedings - 12th IEEE International Conference on Data Mining Workshops, ICDMW 2012, 378–385. 
+- Kleinberg, J., & Raghavan, M. (2018b). Selection Problems in the Presence of Implicit Bias. [arXiv](https://arxiv.org/pdf/1801.03533.pdf)
+- Kleinberg, J., Lakkaraju, H., Leskovec, J., Ludwig, J., & Mullainathan, S. (2017). Human decisions and machine predictions. _The quarterly journal of economics_, 133(1), 237-293.
+- Kleinberg, J., Ludwig, J., Mullainathan, S., & Rambachan, A. (2018a). Algorithmic Fairness. _AEA Papers and Proceedings_, 108, 22–27.
+- Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). Inherent Trade-Offs in the Fair Determination of Risk Scores. [arXiv](https://arxiv.org/pdf/1609.05807.pdf)
+- Mancuhan, K., & Clifton, C. (2014). Combating discrimination using Bayesian networks. Artificial Intelligence and Law, 22(2), 211–238. 
+- Pedreschi, D., Ruggieri, S., & Turini, F. (2009). Measuring Discrimination in Socially-Sensitive Decision Records. Proceedings of the 2009 SIAM International Conference on Data Mining, 581–592.
+- Pedreschi, D., Ruggieri, S., & Turini, F. (2012). A study of top-k measures for discrimination discovery. Proceedings of the 27th Annual ACM Symposium on Applied Computing. 
+- Pleiss, G., Raghavan, M., Wu, F., Kleinberg, J., & Weinberger, K. Q. (2017). On Fairness and Calibration. [arXiv](http://arxiv.org/abs/1709.02012)
+- Romei, A., & Ruggieri, S. (2013). A multidisciplinary survey on discrimination analysis. _Knowledge Engineering Review_, 29(5), 582–638.
+- Ruggieri, S., Pedreschi, D., & Turini, F. (2010a). Integrating induction and deduction for finding evidence of discrimination. Artificial Intelligence and Law, 18(1), 1–43.
+- Ruggieri, S., Pedreschi, D., & Turini, F. (2010b). Data mining for discrimination discovery. ACM Transactions on Knowledge Discovery from Data, 4(2), 1–40.
+- Zemel, R. S., Wu, Y., Swersky, K., Pitassi, T., & Dwork, C. (2013). Learning Fair Representations. Proceedings of the 30th International Conference on Machine Learning, 28, 325–333. 
+- Zliobaite, I. (2015). A survey on measuring indirect discrimination in machine learning. [arXiv](https://arxiv.org/pdf/1511.00148.pdf)
+- Zliobaite, I. (2015). On the relation between accuracy and fairness in binary classification. [arXiv](https://arxiv.org/pdf/1505.05723.pdf)
+- Zliobaite, I., Kamiran, F., & Calders, T. (2011). Handling conditional discrimination. Proceedings - IEEE International Conference on Data Mining, ICDM, (1), 992–1001.
 
 ## Other Resources
 
