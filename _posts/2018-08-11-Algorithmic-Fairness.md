@@ -29,7 +29,7 @@ Fairness notions are slightly different (but conceptually related) for numeric p
 
 ### Relationship among Different Fairness Definitions
 
-First, **not all fairness notions are equally important in a given context**. For example, when base rate (i.e., the actual proportion of ```pos``` in a population) differs in the two groups, statistical parity may not be feasible (Kleinberg et al., 2016; Pleiss et al., 2017).
+First, **not all fairness notions are equally important in a given context**. For example, when base rate (i.e., the actual proportion of ```pos``` in a population) differs in the two groups, statistical parity may not be feasible (Kleinberg et al., 2016; Pleiss et al., 2017). Another case against the requirement of statistical parity is discussed in Zliobaite et al. (2011) and Kamiran et al. (2013). Specifically, statistical disparity in the data (measured as the difference between ```pos``` probabilities received by members of the two groups) is _not all_ discrimination. Part of the difference may be explainable by other attributes that reflect legitimate/natural/inherent differences between the two groups. They argue that statistical disparity only after _conditioning on_ these attributes should be treated as actual discrimination (a.k.a conditional discrimination). In addition, statistical parity ensures fairness at the group level rather than individual level. Dwork et al. (2011) argue for a even stronger notion of individual fairness, where pairs of similar individuals are treated similarly.
 
 Second, **not all fairness notions are compatible with each other**. Kleinberg et al. (2016) shows that the three notions of fairness in binary classification, i.e., calibration within groups, balance for ```pos``` class, and balance for ```neg``` class cannot be achieved simultaneously, unless under one of two trivial cases: (1) perfect prediction, or (2) equal base rates in two groups. Such impossibility holds even approximately (i.e., approximate calibration and approximate balance cannot all be achieved unless under approximately trivial cases). Pleiss et al. (2017) extends their work and shows that, when base rates differ, calibration is compatible only with a substantially relaxed notion of balance, i.e., weighted sum of false positive and false negative rates is equal between the two groups, with at most one particular set of weights. These incompatibility findings indicates trade-offs among different fairness notions.
 
@@ -43,11 +43,15 @@ Importantly, such trade-off does not mean that one needs to build inferior predi
 
 ### Measurement and Detection
 
-Both Zliobaite (2015) and Romei et al. (2013) surveyed relevant measures of fairness or discrimination. One may compare the number or proportion of instances in each group classified as certain class. Sometimes, the measure of discrimination is mandated by law. For instance, the _forth-fifth rule_ (Romei et al. 2013) in hiring context requires the job selection rate for the protected group is at least 80% that of the other group.
+Both Zliobaite (2015) and Romei et al. (2013) surveyed relevant measures of fairness or discrimination. One may compare the number or proportion of instances in each group classified as certain class. Sometimes, the measure of discrimination is mandated by law. For instance, the _four-fifths rule_ (Romei et al. 2013) in hiring context requires the job selection rate for the protected group is at least 80% that of the other group. It is a measure of disparate impact. 
 
-If fairness or discrimination is measured as the number or proportion of instances in each group classified to a certain class, then one can use standard statistical tests (e.g., two sample t-test) to check if there is systematic/statistically significant differences between groups. Zliobaite (2015) reviewed a large number of such methods.
+If fairness or discrimination is measured as the number or proportion of instances in each group classified to a certain class, then one can use standard statistical tests (e.g., two sample t-test) to check if there is systematic/statistically significant differences between groups. Zliobaite (2015) review a large number of such measures, and Pedreschi et al. (2012) discuss relationships among different measures.
 
-In the particular context of machine learning, previous definitions of fairness offer straightforward measures of discrimination. For instance, the degree of balance of a binary classifier for the positive class can be measured as the difference between average probability assigned to people with positive class in the two groups. In addition, Pedreschi et al. (2009) developed several metrics to quantify the degree of discrimination in association rules (or IF-THEN decision rules in general). 
+In the particular context of machine learning, previous definitions of fairness offer straightforward measures of discrimination. For instance, the degree of balance of a binary classifier for the positive class can be measured as the difference between average probability assigned to people with positive class in the two groups. 
+
+In addition, Pedreschi et al. (2009) developed several metrics to quantify the degree of discrimination in association rules (or IF-THEN decision rules in general). Two similar papers are Ruggieri et al. (2010ab), which also associate these discrimination metrics with legal concepts, such as affirmative action. See also Kamishima et al. (2012) for more discussions on measuring different types of discrimination in IF-THEN rules.
+
+Discrimination has been detected in several real-world datasets and cases. For example, Kamiran et al. (2012) identified discrimination in criminal records where people from minority ethnic groups were assigned higher risk scores.
 
 ### Prevention/Mitigation
 
@@ -55,12 +59,17 @@ Techniques to prevent/mitigate discrimination in machine learning can be put int
 
 **Data pre-processing** tries to manipulate training data to get rid of discrimination embedded in the data. 
 
-- Calders et al, (2009) proposed two methods of cleaning the training data: (1) flipping some labels, and (2) assign unique weight to each instance, with the objective of removing dependency between outcome labels and the protected attribute. The first approach of flipping training labels is also discussed in Kamiran and Calders (2009).
+- Calders et al, (2009) propose two methods of cleaning the training data: (1) flipping some labels, and (2) assign unique weight to each instance, with the objective of removing dependency between outcome labels and the protected attribute. The first approach of flipping training labels is also discussed in Kamiran and Calders (2009), and Kamiran and Calders (2012).
+- Hajian et al. (2011) discuss a data transformation method to remove discrimination learned in IF-THEN decision rules. The high-level idea is to manipulate the confidence scores of certain rules.
+- Mancuhan and Clifton (2014) build non-discriminatory Bayesian networks. Their algorithm depends on deleting the protected attribute from the network, as well as pre-processing the data to remove discriminatory instances.
 
 **Algorithm modification** directly modifies machine learning algorithms to take into account fairness constraints. A general principle is that simply removing the protected attribute from training data is not enough to get rid of discrimination, because other correlated attributes can still bias the predictions. This problem is known as **redlining**. 
 
 - Calders and Verwer (2010) propose to modify naive Bayes model in three different ways: (i) change the conditional probability of a class given the protected attribute; (ii) train two separate naive Bayes classifiers, one for each group, using data only in each group; and (iii) try to estimate a "latent class" free from discrimination.
 - Kamiran et al. (2010) develop a discrimination-aware decision tree model, where the criteria to select best split takes into account not only homogeneity in labels but also heterogeneity in the protected attribute in the resulting leaves. 
+- Kamishima et al. (2011) use regularization technique to mitigate discrimination in logistic regressions. The regularization term increases as the degree of statistical disparity becomes larger, and the model parameters are estimated under constraint of such regularization.
+- Dwork et al. (2011) formulate a linear program to optimize a loss function _subject to_ individual-level fairness constraints. They define a distance score for pairs of individuals, and the outcome difference between a pair of individuals is bounded by their distance. A follow up work, Zemel et al. (2013) propose to learn a set of intermediate representation of the original data (as a multinomial distribution) that achieves statistical parity, minimizes representation error, and maximizes predictive accuracy.
+- Feldman et al. (2014) specifically designed a method to remove disparate impact defined by the four-fifths rule, by formulating the machine learning problem as a constraint optimization task. 
 
 **Model post-processing** changes how the predictions are made from a model in order to achieve fairness goals. 
 
@@ -105,6 +114,34 @@ Kamiran, F., & Calders, T. (2009). Classifying without discriminating. 2009 2nd 
 Pedreschi, D., Ruggieri, S., & Turini, F. (2009). Measuring Discrimination in Socially-Sensitive Decision Records. Proceedings of the 2009 SIAM International Conference on Data Mining, 581–592.
 
 Kamiran, F., Calders, T., & Pechenizkiy, M. (2010). Discrimination aware decision tree learning. Proceedings - IEEE International Conference on Data Mining, ICDM, 869–874. 
+
+Ruggieri, S., Pedreschi, D., & Turini, F. (2010a). Integrating induction and deduction for finding evidence of discrimination. Artificial Intelligence and Law, 18(1), 1–43.
+
+Ruggieri, S., Pedreschi, D., & Turini, F. (2010b). Data mining for discrimination discovery. ACM Transactions on Knowledge Discovery from Data, 4(2), 1–40.
+
+Zliobaite, I., Kamiran, F., & Calders, T. (2011). Handling conditional discrimination. Proceedings - IEEE International Conference on Data Mining, ICDM, (1), 992–1001.
+
+Kamishima, T., Akaho, S., & Sakuma, J. (2011). Fairness-aware learning through regularization approach. Proceedings - IEEE International Conference on Data Mining, ICDM, 643–650.
+
+Hajian, S., Domingo-Ferrer, J., & Martinez-Balleste, A. (2011). Discrimination prevention in data mining for intrusion and crime detection. 2011 IEEE Symposium on Computational Intelligence in Cyber Security, 47–54. 
+
+Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2011). Fairness Through Awareness. [arXiv](https://arxiv.org/pdf/1104.3913.pdf)
+
+Kamiran, F., & Calders, T. (2012). Data preprocessing techniques for classification without discrimination. Knowledge and Information Systems (Vol. 33).
+
+Kamishima, T., Akaho, S., Asoh, H., & Sakuma, J. (2012). Considerations on fairness-aware data mining. Proceedings - 12th IEEE International Conference on Data Mining Workshops, ICDMW 2012, 378–385. 
+
+Pedreschi, D., Ruggieri, S., & Turini, F. (2012). A study of top-k measures for discrimination discovery. Proceedings of the 27th Annual ACM Symposium on Applied Computing. 
+
+Kamiran, F., Karim, A., Verwer, S., & Goudriaan, H. (2012). Classifying socially sensitive data without discrimination: An analysis of a crime suspect dataset. In Proceedings - 12th IEEE International Conference on Data Mining Workshops, ICDMW 2012 (pp. 370–377). 
+
+Kamiran, F., Žliobaite, I., & Calders, T. (2013). Quantifying explainable discrimination and removing illegal discrimination in automated decision making. Knowledge and Information Systems (Vol. 35).
+
+Zemel, R. S., Wu, Y., Swersky, K., Pitassi, T., & Dwork, C. (2013). Learning Fair Representations. Proceedings of the 30th International Conference on Machine Learning, 28, 325–333. 
+
+Mancuhan, K., & Clifton, C. (2014). Combating discrimination using Bayesian networks. Artificial Intelligence and Law, 22(2), 211–238. 
+
+Feldman, M., Friedler, S., Moeller, J., Scheidegger, C., & Venkatasubramanian, S. (2014). Certifying and removing disparate impact. [arXiv](https://arxiv.org/pdf/1412.3756.pdf) 
 
 ## Other Resources
 
