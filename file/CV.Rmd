@@ -67,9 +67,15 @@ Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the 
 
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions.
 
+Yang M, Burtch G, McFowland E, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. 
+
+Ren Y, Rodas M, Carlos T, Yang M. Cultural Differences in User-Generated Content on Facebook Business Pages.
+
 \hrulefill
 
 # CONFERENCE PAPERS
+
+Yang M, Burtch G, McFowland E, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Workshop on Data Science, Phoenix, Arizona, 2018.
 
 Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Workshop on Information Technologies and Systems (**_WITS_**), Seoul, Korea, 2017.
 
@@ -91,6 +97,8 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 **Conference Presentations**
 
+- Yang M, Burtch G, McFowland E, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Workshop on Data Science, Phoenix, Arizona, 2018.
+
 - Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Workshop on Information Technologies and Systems (**_WITS_**), Seoul, Korea, 2017.
 
 - Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), Houston, Texas, 2017.
@@ -106,6 +114,8 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 - Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), San Francisco, California, 2014.
 
 **Invited Talks and Presentations**
+
+- Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
 
 - Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
 
