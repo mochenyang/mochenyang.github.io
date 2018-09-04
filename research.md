@@ -5,7 +5,7 @@ title: Research
 
 ## Decision Support in Complex Market Mechanisms
 
-- Efficient Computational Strategies for Dynamic Inventory Liquidation, Gediminas Adomavicius, Alok Gupta, Mochen Yang. _under review_.
+- Efficient Computational Strategies for Dynamic Inventory Liquidation, Gediminas Adomavicius, Alok Gupta, Mochen Yang. _Information Systems Research_, forthcoming.
 - Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions, Gediminas Adomavicius, Alok Gupta, Mochen Yang. _under review_.
 - Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions, Gediminas Adomavicius, Alok Gupta, Mochen Yang. _working paper_.
 
@@ -19,5 +19,5 @@ title: Research
 ## Dissertation and Related Research: UGC and Engagement on Social Media Brand pages
 
 - Understanding User-Generated Content and Customer Engagement on Facebook Business Pages, Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _Information Systems Research_, conditionally accepted.
-- Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages, Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _working paper_.
+- Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages, Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _under review_.
 - Cultural Differences in User-Generated Content on Facebook Business Pages, Yuqing Ren, Maria Rodas, Carlos Torelli, Mochen Yang. _working paper_.
