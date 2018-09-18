@@ -55,7 +55,7 @@ Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for M
 
 Yang M, Ren Y, & Adomavicius G. Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, conditionally accepted.
 
-Adomavicius G, Gupta A, & Yang M. Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, forthcoming.
+Yang M, Adomavicius G, & Gupta A. Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, forthcoming.
 
 \hrulefill
 

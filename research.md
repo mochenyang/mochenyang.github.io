@@ -5,7 +5,7 @@ title: Research
 
 ## Decision Support in Complex Market Mechanisms
 
-- Efficient Computational Strategies for Dynamic Inventory Liquidation, Gediminas Adomavicius, Alok Gupta, Mochen Yang. _Information Systems Research_, forthcoming.
+- [Efficient Computational Strategies for Dynamic Inventory Liquidation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3251519), Mochen Yang, Gediminas Adomavicius, Alok Gupta. _Information Systems Research_, forthcoming.
 - Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions, Gediminas Adomavicius, Alok Gupta, Mochen Yang. _under review_.
 - Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions, Gediminas Adomavicius, Alok Gupta, Mochen Yang. _working paper_.
 
