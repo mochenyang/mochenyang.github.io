@@ -4,7 +4,7 @@ title: Home
 ---
 
 <img style="width:135px; height:200px; float:left; padding:15px;"
-src="/image/personal.jpg" alt="profile picture">
+src="/image/personal_IU.JPG" alt="profile picture">
 
 I am an Assistant Professor in the [Department of Operations and Decision Technologies](https://kelley.iu.edu/faculty-research/departments/operations-decision-technologies/index.cshtml) at [Kelley School of Business](https://kelley.iu.edu/), Indiana University. 
 
