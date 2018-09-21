@@ -75,6 +75,8 @@ Ren Y, Rodas M, Carlos T, Yang M. Cultural Differences in User-Generated Content
 
 # CONFERENCE PAPERS
 
+Yang M, Burtch G, McFowland E, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. Conference on Digital Experimentation (**_CODE_**), Boston, Massachusetts, 2018.
+
 Yang M, Burtch G, McFowland E, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Workshop on Data Science, Phoenix, Arizona, 2018.
 
 Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Workshop on Information Technologies and Systems (**_WITS_**), Seoul, Korea, 2017.
@@ -154,6 +156,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 **Grants**
 
+- Research Data Grant, Kelley School of Business, Fall 2018 ($1800)
 - Graduate School Dissertation Fellowship travel grant, Fall 2017 ($1000)
 - Carlson School PhD Travel Fellowship, 2014-2018, 5 times
 - Department Travel Grant, Carlson School of Management, 2014-2018, 6 times
