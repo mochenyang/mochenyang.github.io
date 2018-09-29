@@ -41,6 +41,7 @@ Importantly, such trade-off does not mean that one needs to build inferior predi
 
 Another interesting dynamic is that discrimination-aware classifiers may not always be fair on new, unseen data (similar to the over-fitting problem). Cotter et al. (2018) discuss this issue, using ideas from hyper-parameter tuning.
 
+
 ## Addressing Algorithmic Bias
 
 ### Measurement and Detection
@@ -53,7 +54,7 @@ In the particular context of machine learning, previous definitions of fairness 
 
 Specialized methods have been proposed to detect the existence and magnitude of discrimination in data. Adebayo and Kagal (2016) use the orthogonal projection method to create multiple versions of the original dataset, each one removes an attribute and makes the remaining attributes orthogonal to the removed attribute. Then, the model is deployed on each generated dataset, and the decrease in predictive performance measures the dependency between prediction and the removed attribute. Zhang and Neil (2016) treat this as an anomaly detection task, and develop subset scan algorithms to find subgroups that suffer from significant disparate mistreatment.
 
-Discrimination has been detected in several real-world datasets and cases. For example, Kamiran et al. (2012) identified discrimination in criminal records where people from minority ethnic groups were assigned higher risk scores. Caliskan et al. (2017) detect and document a variety of implicit biases in natural language, as picked up by trained word embeddings.
+Discrimination has been detected in several real-world datasets and cases. For example, Kamiran et al. (2012) identified discrimination in criminal records where people from minority ethnic groups were assigned higher risk scores. Caliskan et al. (2017) detect and document a variety of implicit biases in natural language, as picked up by trained word embeddings. Chouldechova (2017) showed the existence of disparate impact using data from the COMPAS risk tool.
 
 ### Prevention/Mitigation
 
@@ -89,6 +90,11 @@ Techniques to prevent/mitigate discrimination in machine learning can be put int
 - Kamiran et al. (2010) propose to re-label the instances in the leaf nodes of a decision tree, with the objective to minimize accuracy loss and reduce discrimination. The predictions on unseen data are made not based on majority rule with the re-labeled leaf nodes.
 
 
+## Other Thoughts
+
+1. I think the issue of algorithmic bias is closely related to the interpretability of algorithmic predictions. By making a prediction model more interpretable, there may be a better chance of detecting bias in the first place. Meanwhile, model interpretability affects users' trust toward its predictions (Ribeiro et al. 2016). Regulations have also been put forth that create "right to explanation" and restrict predictive models for individual decision-making purposes (Goodman and Flaxman 2016).
+
+2. The design of discrimination-aware predictive algorithms is only part of the design of a discrimination-aware decision-making tool, the latter of which needs to take into account various other technical and behavioral factors. Such a gap is discussed in Veale et al. (2018)
 
 ## References
 
@@ -104,6 +110,7 @@ Techniques to prevent/mitigate discrimination in machine learning can be put int
 - Calders, T., Karim, A., Kamiran, F., Ali, W., & Zhang, X. (2013). Controlling attribute effect in linear regression. Proceedings - IEEE International Conference on Data Mining, _ICDM_, (1), 71–80.
 - Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. _Science_, 356(6334), 183–186.
 - Celis, L. E., Deshpande, A., Kathuria, T., & Vishnoi, N. K. (2016). How to be Fair and Diverse? Retrieved from http://arxiv.org/abs/1610.07183
+- Chouldechova, A. (2017). Fair Prediction with Disparate Impact : A Study of Bias in Recidivism Prediction Instruments. Big Data, 5(2), 153–163.
 - Corbett-Davies, S., Pierson, E., Feller, A., Goel, S., & Huq, A. (2017). Algorithmic decision making and the cost of fairness. [arXiv](https://arxiv.org/pdf/1701.08230.pdf)
 - Cotter, A., Gupta, M., Jiang, H., Srebro, N., Sridharan, K., & Wang, S. (2018). Training Fairness-Constrained Classifiers to Generalize.
 - Custers, B. (2013). Discrimination and Privacy in the information society. Discrimination and Privacy in the Information Society (Vol. 3).
@@ -111,6 +118,7 @@ Techniques to prevent/mitigate discrimination in machine learning can be put int
 - Dwork, C., Immorlica, N., Kalai, A. T., & Leiserson, M. (2017). Decoupled classifiers for fair and efficient machine learning.
 - Feldman, M., Friedler, S., Moeller, J., Scheidegger, C., & Venkatasubramanian, S. (2014). Certifying and removing disparate impact. [arXiv](https://arxiv.org/pdf/1412.3756.pdf) 
 - Fish, B., Kun, J., & Lelkes, A. (2014). Fair Boosting : a Case Study.
+- Goodman, B., & Flaxman, S. (2016). European Union regulations on algorithmic decision-making and a "right to explanation," 1–9.
 - Grgic-Hlaca, N., Zafar, M. B., Gummadi, K. P., & Weller, A. (2017). On Fairness, Diversity and Randomness in Algorithmic Decision Making. 
 - Hajian, S., Domingo-Ferrer, J., & Martinez-Balleste, A. (2011). Discrimination prevention in data mining for intrusion and crime detection. 2011 IEEE Symposium on Computational Intelligence in Cyber Security, 47–54. 
 - Hardt, M., Price, E., & Srebro, N. (2016). Equality of Opportunity in Supervised Learning, (Nips).
@@ -131,10 +139,12 @@ Techniques to prevent/mitigate discrimination in machine learning can be put int
 - Pedreschi, D., Ruggieri, S., & Turini, F. (2009). Measuring Discrimination in Socially-Sensitive Decision Records. Proceedings of the 2009 SIAM International Conference on Data Mining, 581–592.
 - Pedreschi, D., Ruggieri, S., & Turini, F. (2012). A study of top-k measures for discrimination discovery. Proceedings of the 27th Annual ACM Symposium on Applied Computing. 
 - Pleiss, G., Raghavan, M., Wu, F., Kleinberg, J., & Weinberger, K. Q. (2017). On Fairness and Calibration. [arXiv](http://arxiv.org/abs/1709.02012)
+- Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). "Why Should I Trust You?": Explaining the Predictions of Any Classifier. KDD 2016.
 - Romei, A., & Ruggieri, S. (2013). A multidisciplinary survey on discrimination analysis. _Knowledge Engineering Review_, 29(5), 582–638.
 - Ruggieri, S., Pedreschi, D., & Turini, F. (2010a). Integrating induction and deduction for finding evidence of discrimination. Artificial Intelligence and Law, 18(1), 1–43.
 - Ruggieri, S., Pedreschi, D., & Turini, F. (2010b). Data mining for discrimination discovery. ACM Transactions on Knowledge Discovery from Data, 4(2), 1–40.
 - Speicher, T., Heidari, H., Grgic-Hlaca, N., Gummadi, K. P., Singla, A., Weller, A., & Zafar, M. B. (2018, July). A Unified Approach to Quantifying Algorithmic Unfairness: Measuring Individual &Group Unfairness via Inequality Indices. In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 2239-2248). ACM.
+- Veale, M., Van Kleek, M., & Binns, R. (2018). Fairness and Accountability Design Needs for Algorithmic Support in High-Stakes Public Sector Decision-Making. CHI Proceeding, 1–14.
 - Yang, K., & Stoyanovich, J. (2016). Measuring Fairness in Ranked Outputs. 
 - Zafar, M. B., Valera, I., Rodriguez, M. G., & Gummadi, K. P. (2016). Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment.
 - Zemel, R. S., Wu, Y., Swersky, K., Pitassi, T., & Dwork, C. (2013). Learning Fair Representations. Proceedings of the 30th International Conference on Machine Learning, 28, 325–333. 
