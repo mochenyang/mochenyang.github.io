@@ -18,6 +18,6 @@ title: Research
 
 ## Dissertation and Related Research: UGC and Engagement on Social Media Brand pages
 
-- [Understanding User-Generated Content and Customer Engagement on Facebook Business Pages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3260294), Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _Information 2Systems Research_, forthcoming.
+- [Understanding User-Generated Content and Customer Engagement on Facebook Business Pages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3260294), Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _Information Systems Research_, forthcoming.
 - Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages, Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _under review_.
 - Cultural Differences in User-Generated Content on Facebook Business Pages, Yuqing Ren, Maria Rodas, Carlos Torelli, Mochen Yang. _working paper_.
