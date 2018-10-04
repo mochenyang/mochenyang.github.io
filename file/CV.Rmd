@@ -53,7 +53,7 @@ urlcolor: blue
 
 Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, 29(1), 4-24.
 
-Yang M, Ren Y, & Adomavicius G. Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, conditionally accepted.
+Yang M, Ren Y, & Adomavicius G. Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, forthcoming.
 
 Yang M, Adomavicius G, & Gupta A. Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, forthcoming.
 
