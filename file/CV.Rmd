@@ -117,6 +117,8 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 **Invited Talks and Presentations**
 
+- Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
+
 - Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
 
 - Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
@@ -135,7 +137,16 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 # TEACHING
 
-**Teaching Experiences at University of Minnesota**
+**Teaching at Indiana University**
+
+- K353: Business Analytics and Modeling (Spring 2019)
+- K579: Business Analytics Concepts and Management (Spring 2019)
+
+**Guest Lectures**
+
+- C552: IT for Managers: The Strategic Use of Information Technology in Business, one session on Business Application of Machine Learning (Fall 2019)
+
+**Teaching at University of Minnesota**
 
 - IDSc 4444: Descriptive and Predictive Analytics, Instructor (Fall 2016; Spring 2017)
 - Predictive Analytics, Guest Lecturer (Fall 2017, Fall 2015)
