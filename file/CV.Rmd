@@ -31,6 +31,7 @@ urlcolor: blue
 
 \hrulefill
 
+
 # EDUCATION
 
 **Carlson School of Management, University of Minnesota \hfill 2013 - 2018**
@@ -49,19 +50,21 @@ urlcolor: blue
 
 \hrulefill
 
+
 # JOURNAL PUBLICATIONS
 
-Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, 29(1), 4-24.
-
-Yang M, Ren Y, & Adomavicius G. Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, forthcoming.
+Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. **_MIS Quarterly_**, conditionally accepted.
 
 Yang M, Adomavicius G, & Gupta A. Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, forthcoming.
 
+Yang M, Ren Y, & Adomavicius G. Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, forthcoming.
+
+Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, 29(1), 4-24.
+
 \hrulefill
 
-# WORKING PAPERS
 
-Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions.
+# WORKING PAPERS
 
 Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages.
 
@@ -72,6 +75,7 @@ Yang M, Burtch G, McFowland E, Adomavicius G. Seeing the Forest for the Trees: G
 Ren Y, Rodas M, Carlos T, Yang M. Cultural Differences in User-Generated Content on Facebook Business Pages.
 
 \hrulefill
+
 
 # CONFERENCE PAPERS
 
@@ -94,6 +98,7 @@ Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquida
 Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), San Francisco, California, 2014.
 
 \hrulefill
+
 
 # TALKS AND PRESENTATIONS
 
@@ -135,6 +140,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 \hrulefill
 
+
 # TEACHING
 
 **Teaching at Indiana University**
@@ -153,6 +159,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 - Exploratory Data Analytics and Visualization, Guest Lecturer (Fall 2015)
 
 \hrulefill
+
 
 # PROFESSIONAL RECOGNITIONS
 
@@ -174,7 +181,12 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 - Department Travel Grant, Carlson School of Management, 2014-2018, 6 times
 - SOBACO Micro-Grants, Carlson School of Management, Fall 2014 ($1000)
 
+**Media Mentions**
+
+- [Kelley faculty members in operations and decision technologies honored for their research](https://blog.kelley.iu.edu/2018/11/16/kelley-faculty-members-in-operations-and-decision-technologies-honored-for-their-research/)
+
 \hrulefill
+
 
 # SERVICE
 
