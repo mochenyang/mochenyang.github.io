@@ -53,7 +53,7 @@ urlcolor: blue
 
 # JOURNAL PUBLICATIONS
 
-Adomavicius G, Gupta A, & Yang M. Providing Real-Time Feedback to Bidders in Homogeneous-Item Continuous Combinatorial Auctions. **_MIS Quarterly_**, conditionally accepted.
+Adomavicius G, Gupta A, & Yang M. Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. **_MIS Quarterly_**, forthcoming.
 
 Yang M, Adomavicius G, & Gupta A. Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, forthcoming.
 
