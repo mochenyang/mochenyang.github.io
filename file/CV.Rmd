@@ -9,7 +9,7 @@ title: "`r format(Sys.time(), '%B %Y')`"
 author: Mochen Yang
 
 jobtitle: "Assistant Professor, Kelley School of Business, Indiana University"
-address: "Kelley School of Business, 1309 E 10th St, HH 4115"
+address: "Kelley School of Business, 1309 E 10th St, HH 4125"
 #fontawesome: yes
 email: yangmo@iu.edu
 #github: mochenyang
@@ -78,6 +78,8 @@ Ren Y, Rodas M, Carlos T, Yang M. Cultural Differences in User-Generated Content
 
 
 # CONFERENCE PAPERS
+
+Yang M, McFowland E, Burtch G, Adomavicius G. Generating Instrumental Variables via Random Forest to Address Endogeneity due to Prediction Error in Data-Mined Variables. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2019.
 
 Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. Conference on Digital Experimentation (**_CODE_**), Boston, Massachusetts, 2018.
 
