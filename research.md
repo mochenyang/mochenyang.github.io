@@ -13,11 +13,11 @@ title: Research
 ## Decision Support in Statistical Inferences
 
 - [Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining](https://pubsonline.informs.org/doi/full/10.1287/isre.2017.0727), Mochen Yang, Gediminas Adomavicius, Gordon Burtch, Yuqing Ren. _Information Systems Research_, 29(1), 4-24, 2018.
-- Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences, Mochen Yang, Edward McFowland III, Gordon Burtch, Gediminas Adomavicius. _working paper_.
+- Using Data-Mined Variables in Causal Inference Tasks: A Random Forest Approach to the Measurement Error Problem, Mochen Yang, Edward McFowland III, Gordon Burtch, Gediminas Adomavicius. _working paper_.
 
 
 ## Dissertation and Related Research: UGC and Engagement on Social Media Brand pages
 
 - [Understanding User-Generated Content and Customer Engagement on Facebook Business Pages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3260294), Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _Information Systems Research_, forthcoming.
 - Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages, Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _under review_.
-- Cultural Differences in User-Generated Content on Facebook Business Pages, Yuqing Ren, Maria Rodas, Carlos Torelli, Mochen Yang. _working paper_.
+- Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages, Yuqing Ren, Maria Rodas, Carlos Torelli, Mochen Yang. _under review_.

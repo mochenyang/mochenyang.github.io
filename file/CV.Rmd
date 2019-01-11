@@ -70,9 +70,9 @@ Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the 
 
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions.
 
-Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. 
+Yang M, McFowland E, Burtch G, Adomavicius G. Using Data-Mined Variables in Causal Inference Tasks: A Random Forest Approach to the Measurement Error Problem.
 
-Ren Y, Rodas M, Carlos T, Yang M. Cultural Differences in User-Generated Content on Facebook Business Pages.
+Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
 
 \hrulefill
 
