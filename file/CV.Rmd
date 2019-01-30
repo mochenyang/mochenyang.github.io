@@ -74,6 +74,8 @@ Yang M, McFowland E, Burtch G, Adomavicius G. Using Data-Mined Variables in Caus
 
 Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
 
+Adomavicius G, Yang M. Integrating Ethics into AI-Augmented Decision Making.
+
 \hrulefill
 
 
@@ -192,7 +194,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 # SERVICE
 
-**Served as Reviewer**
+**Reviewer**
 
 - Information Systems Research
 - MIS Quarterly
@@ -204,11 +206,15 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 - Conference on Information Systems and Technology (2015, 2017)
 - Pacific Asia Conference on Information Systems (2017)
 
-**Served as Program Committee Member or Associate Editor**
+**Program Committee Member or Associate Editor**
 
 - Pacific Asia Conference on Information Systems (2016)
 - Workshop on Information Technologies and Systems (2016-2018)
 - Conference on Information Systems and Technology (2018)
 - International Conference on Information Systems (2019)
+
+**Departmental Services at Indiana University**
+
+- Ph.D. Recruiting Committee (2019)
 
 \hrulefill
