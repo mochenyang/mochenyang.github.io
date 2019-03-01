@@ -70,7 +70,7 @@ Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the 
 
 Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions.
 
-Yang M, McFowland E, Burtch G, Adomavicius G. Using Data-Mined Variables in Causal Inference Tasks: A Random Forest Approach to the Measurement Error Problem.
+Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem
 
 Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
 
@@ -125,6 +125,8 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 - Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), San Francisco, California, 2014.
 
 **Invited Talks and Presentations**
+
+- TBD. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
 
 - Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
 

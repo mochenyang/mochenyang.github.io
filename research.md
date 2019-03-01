@@ -13,7 +13,7 @@ title: Research
 ## Decision Support in Statistical Inferences
 
 - [Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining](https://pubsonline.informs.org/doi/full/10.1287/isre.2017.0727), Mochen Yang, Gediminas Adomavicius, Gordon Burtch, Yuqing Ren. _Information Systems Research_, 29(1), 4-24, 2018.
-- Using Data-Mined Variables in Causal Inference Tasks: A Random Forest Approach to the Measurement Error Problem, Mochen Yang, Edward McFowland III, Gordon Burtch, Gediminas Adomavicius. _working paper_.
+- [Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3339983), Mochen Yang, Edward McFowland III, Gordon Burtch, Gediminas Adomavicius. _under review_.
 
 
 ## Dissertation and Related Research: UGC and Engagement on Social Media Brand pages
