@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-# Decision Support in Complex Market Mechanisms
+## Decision Support in Complex Market Mechanisms
 
 Efficient Computational Strategies for Dynamic Inventory Liquidation  
 Mochen Yang, Gediminas Adomavicius, Alok Gupta  
@@ -19,7 +19,7 @@ _working paper_.
 
 -----
 
-# Robust Statistical Inferences with ML-Generated Covariates
+## Robust Statistical Inferences with ML-Generated Covariates
 
 Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining  
 Mochen Yang, Gediminas Adomavicius, Gordon Burtch, Yuqing Ren  
@@ -31,7 +31,7 @@ _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=333
 
 -----
 
-# Dissertation and Related Research: UGC and Engagement on Social Media Brand Pages
+## Dissertation and Related Research: UGC and Engagement on Social Media Brand Pages
 
 Understanding User-Generated Content and Customer Engagement on Facebook Business Pages  
 Mochen Yang, Yuqing Ren, Gediminas Adomavicius  
