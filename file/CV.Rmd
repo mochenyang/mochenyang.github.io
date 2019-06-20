@@ -187,9 +187,10 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 - Department Travel Grant, Carlson School of Management, 2014-2018, 6 times
 - SOBACO Micro-Grants, Carlson School of Management, Fall 2014 ($1000)
 
-**Media Mentions**
+**Media**
 
 - [Kelley faculty members in operations and decision technologies honored for their research](https://blog.kelley.iu.edu/2018/11/16/kelley-faculty-members-in-operations-and-decision-technologies-honored-for-their-research/)
+- [Media Contribution: With Interoperability, You’ll Feel Right At (Smart) Home](https://datamakespossible.westerndigital.com/interoperability-for-smart-homes/)
 
 \hrulefill
 
@@ -203,6 +204,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 - Management Science
 - Organization Science
 - European Journal of Information Systems
+- ACM Transactions on Management Information Systems
 - Journal of Strategic Information Systems
 - Information Systems Journal
 - International Conference on Information Systems (2014-2019)
