@@ -1,9 +1,7 @@
 ---
-title: ''
 layout: post
-date: '2019-07-08'
-output: pdf_document
-published: yes
+title:  "Test Page"
+date:   2019-07-08
 ---
 
 ## Document
