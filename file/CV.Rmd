@@ -126,7 +126,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 **Invited Talks and Presentations**
 
-- TBD. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
+- Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
 
 - Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
 
@@ -151,18 +151,15 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 **Teaching at Indiana University**
 
-- K353: Business Analytics and Modeling (Spring 2019)
-- K579: Business Analytics Concepts and Management (Spring 2019)
+- K353: Business Analytics and Modeling, Spring 2019
+- K579: Business Analytics Concepts and Management, Spring 2019
+- C552: IT for Managers: The Strategic Use of Information Technology in Business, one session on Business Application of Machine Learning, Guest Lecturer, Fall 2018, Summer 2019
 
-**Guest Lectures**
+**Teaching Experiences as PhD Student**
 
-- C552: IT for Managers: The Strategic Use of Information Technology in Business, one session on Business Application of Machine Learning (Fall 2018)
-
-**Teaching at University of Minnesota**
-
-- IDSc 4444: Descriptive and Predictive Analytics, Instructor (Fall 2016; Spring 2017)
-- Predictive Analytics, Guest Lecturer (Fall 2017, Fall 2015)
-- Exploratory Data Analytics and Visualization, Guest Lecturer (Fall 2015)
+- IDSc 4444: Descriptive and Predictive Analytics, Instructor, Fall 2016, Spring 2017
+- Predictive Analytics, Guest Lecturer, Fall 2015, Fall 2017
+- Exploratory Data Analytics and Visualization, Guest Lecturer, Fall 2015
 
 \hrulefill
 
@@ -197,6 +194,11 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 # SERVICE
 
+<!-- **Conference Organization** -->
+
+<!-- - Workshop on Information Technologies and Systems, 2020, Web Chair -->
+<!-- - Americas Conference on Information Systems, 2022, Review Coordinator -->
+
 **Reviewer**
 
 - Information Systems Research
@@ -207,19 +209,20 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 - ACM Transactions on Management Information Systems
 - Journal of Strategic Information Systems
 - Information Systems Journal
-- International Conference on Information Systems (2014-2019)
-- Conference on Information Systems and Technology (2015, 2017)
-- Pacific Asia Conference on Information Systems (2017)
+- International Conference on Information Systems
+- Conference on Information Systems and Technology
+- Pacific Asia Conference on Information Systems
+- Hawaii International Conference on System Sciences
 
-**Program Committee Member or Associate Editor**
+**Conference Program Committee Member or Associate Editor**
 
-- Pacific Asia Conference on Information Systems (2016)
-- Workshop on Information Technologies and Systems (2016-2019)
-- Conference on Information Systems and Technology (2018)
-- International Conference on Information Systems (2019)
+- Pacific Asia Conference on Information Systems
+- Workshop on Information Technologies and Systems
+- Conference on Information Systems and Technology
+- International Conference on Information Systems
 
 **Departmental Services at Indiana University**
 
-- Ph.D. Recruiting Committee (2019)
+- Ph.D. Recruiting Committee, 2019
 
 \hrulefill
