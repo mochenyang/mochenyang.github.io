@@ -8,12 +8,12 @@ geometry: margin=1in
 title: "`r format(Sys.time(), '%B %Y')`"
 author: Mochen Yang
 
-jobtitle: "Assistant Professor, Kelley School of Business, Indiana University"
-address: "Kelley School of Business, 1309 E 10th St, HH 4125"
+jobtitle: "Assistant Professor, Carlson School of Management, University of Minnesota"
+address: "CSOM 3-151, 321 19th Ave S, Minneapolis, MN"
 #fontawesome: yes
-email: yangmo@iu.edu
+email: yang3653@umn.edu
 #github: mochenyang
-phone: "812-855-5268"
+phone: "612-625-7324"
 web: mochenyang.github.io
 
 #fontfamily: mathpazo
@@ -23,9 +23,13 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# EMPLOYMENT
+# ACADEMIC APPOINTMENTS
 
-**Kelley School of Business, Indiana University \hfill 2018 - Present**
+**Carlson School of Management, University of Minnesota \hfill 2019 - present**
+
+- Assistant Professor, Department of Information and Decision Sciences
+
+**Kelley School of Business, Indiana University \hfill 2018 - 2019**
 
 - Assistant Professor, Department of Operations & Decision Technologies
 
@@ -191,6 +195,13 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 \hrulefill
 
+
+<!-- # STUDENT ADVISING -->
+
+<!-- Xiaoye Cheng -->
+<!-- Sandeep -->
+
+<!-- \hrulefill -->
 
 # SERVICE
 
