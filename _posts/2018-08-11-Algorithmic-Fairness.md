@@ -2,10 +2,9 @@
 layout: post
 title:  "Bias, Discrimination, and Algorithmic Fairness"
 date:   2018-08-11
-published: false
 ---
 
-This is a living document on recent literature concerning discrimination and fairness issues in decisions driven by machine learning algorithms. In particular, it covers two broad topics: (1) the definition of fairness, and (2) the detection and prevention/mitigation of algorithmic bias.
+This is a (slightly outdated) document on recent literature concerning discrimination and fairness issues in decisions driven by machine learning algorithms. In particular, it covers two broad topics: (1) the definition of fairness, and (2) the detection and prevention/mitigation of algorithmic bias.
 
 ## Understanding Fairness
 
@@ -93,7 +92,7 @@ Techniques to prevent/mitigate discrimination in machine learning can be put int
 
 ## Other Thoughts
 
-1. I think the issue of algorithmic bias is closely related to the interpretability of algorithmic predictions. By making a prediction model more interpretable, there may be a better chance of detecting bias in the first place. Meanwhile, model interpretability affects users' trust toward its predictions (Ribeiro et al. 2016). Regulations have also been put forth that create "right to explanation" and restrict predictive models for individual decision-making purposes (Goodman and Flaxman 2016).
+1. The issue of algorithmic bias is closely related to the interpretability of algorithmic predictions. By making a prediction model more interpretable, there may be a better chance of detecting bias in the first place. Meanwhile, model interpretability affects users' trust toward its predictions (Ribeiro et al. 2016). Regulations have also been put forth that create "right to explanation" and restrict predictive models for individual decision-making purposes (Goodman and Flaxman 2016).
 
 2. The design of discrimination-aware predictive algorithms is only part of the design of a discrimination-aware decision-making tool, the latter of which needs to take into account various other technical and behavioral factors. Such a gap is discussed in Veale et al. (2018)
 
