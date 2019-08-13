@@ -4,7 +4,7 @@ title: Home
 ---
 
 <img style="width:135px; height:200px; float:left; padding:15px;"
-src="/image/personal_IU.JPG" alt="profile picture">
+src="/image/personal_UMN.JPG" alt="profile picture">
 
 I am an Assistant Professor in the [Department of Information and Decision Sciences](https://carlsonschool.umn.edu/departments/information-decision-sciences-department) at [Carlson School of Management](https://carlsonschool.umn.edu/), [University of Minnesota](https://twin-cities.umn.edu/).
 
