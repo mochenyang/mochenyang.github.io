@@ -8,7 +8,7 @@ title: Research
 Making decisions in complex market mechanisms often requires one to process large (e.g., exponential) amounts of information efficiently (e.g., in real time). Such decision task is typically well beyond the cognitive capacity of individuals. The goal of this stream of research is to design theory-based computational tools to support economic transactions and decision making in information-intensive markets.
 
 - Efficient Computational Strategies for Dynamic Inventory Liquidation. Mochen Yang, Gediminas Adomavicius, Alok Gupta. _Information Systems Research_, 30(2), 595-615, 2019. [[Journal Link]](https://pubsonline.informs.org/doi/10.1287/isre.2018.0819) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3251519)
-- Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _MIS Quarterly_, 43(3), 721-743, 2019. [Journal Link](https://misq.org/designing-real-time-feedback-for-bidders-in-homogeneous-item-continuous-combinatorial-auctions.html) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294392)
+- Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _MIS Quarterly_, 43(3), 721-743, 2019. [[Journal Link]](https://misq.org/designing-real-time-feedback-for-bidders-in-homogeneous-item-continuous-combinatorial-auctions.html) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294392)
 - Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _working paper_.
 
 -----
