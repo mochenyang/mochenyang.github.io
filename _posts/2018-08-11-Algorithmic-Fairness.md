@@ -4,7 +4,7 @@ title:  "Bias, Discrimination, and Algorithmic Fairness"
 date:   2018-08-11
 ---
 
-This is a (slightly outdated) document on recent literature concerning discrimination and fairness issues in decisions driven by machine learning algorithms. In particular, it covers two broad topics: (1) the definition of fairness, and (2) the detection and prevention/mitigation of algorithmic bias.
+This is a (slightly outdated) document on recent literature concerning discrimination and fairness issues in decisions driven by machine learning algorithms. In particular, it covers two broad topics: (1) the definition of fairness, and (2) the detection and prevention/mitigation of algorithmic bias. A more comprehensive working paper on this issue can be found here: Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446944)
 
 ## Understanding Fairness
 

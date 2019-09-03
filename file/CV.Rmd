@@ -78,7 +78,7 @@ Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inferenc
 
 Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
 
-Adomavicius G, Yang M. Integrating Ethics into AI-Augmented Decision Making.
+Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research.
 
 \hrulefill
 
