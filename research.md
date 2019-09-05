@@ -24,6 +24,15 @@ Supervised machine learning enables scalable and cost-effective extraction of us
 -----
 
 
+## ML-Augmented Decision Making
+
+Machine learning models (and algorithms in general) play an increasingly important role in many high-stake decision making tasks. Because of the ability to discover meaningful patterns from large amounts of information, these models can augment the capacities of human decision makers. Meanwhile, several issues also arise in ML-augmented decision making, such as algorithmic bias and lack of transparency. This stream of research aims at understanding the dynamics of ML-augmented decision making and designing useful mechanisms to improve its quality.
+
+- Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research. Gediminas Adomavicius, Mochen Yang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446944)
+
+-----
+
+
 ## Dissertation and Related Research: UGC and Engagement on Social Media Brand Pages
 
 My dissertation research investigates the interplay and relationships between digital content and engagement behaviors in business pages on social media, and the related challenges and opportunities for associated firms. Social media platforms such as Facebook empower individual users to interact with each other on firm-hosted business pages. Users can engage with the content created by the firms as well as by other users in multiple ways (liking, commenting, etc.). Such engagement behavior bears important consequences to business, yet its fundamental characteristics are not well-understood. My dissertation research investigates user engagement behaviors toward user-generated content on Facebook business pages. The dissertation can be accessed [here](http://hdl.handle.net/11299/199062).
