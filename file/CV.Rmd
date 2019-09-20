@@ -132,6 +132,8 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 **Invited Talks and Presentations**
 
+- Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
+
 - Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
 
 - Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
@@ -209,6 +211,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 <!-- **Conference Organization** -->
 
+<!-- - Production and Operations Management Society Conference, 2020, Session Chair onn "Social Media and IOT" -->
 <!-- - Workshop on Information Technologies and Systems, 2020, Web Chair -->
 <!-- - Americas Conference on Information Systems, 2022, Review Coordinator -->
 
@@ -233,6 +236,7 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 - Workshop on Information Technologies and Systems
 - Conference on Information Systems and Technology
 - International Conference on Information Systems
+- Winter Conference on Business Analytics
 
 **Departmental Services at Indiana University**
 
