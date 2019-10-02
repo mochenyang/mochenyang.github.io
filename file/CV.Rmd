@@ -61,7 +61,7 @@ urlcolor: blue
 
 1. Yang M, Adomavicius G, & Gupta A. (2019). Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, 30(2), 595–615.
 
-1. Yang M, Ren Y, & Adomavicius G. Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, forthcoming.
+1. Yang M, Ren Y, & Adomavicius G. (2019) Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, 30(3), 839–855.
     - Selected Media Coverage: [INFORMS](https://www.informs.org/About-INFORMS/News-Room/Press-Releases/New-Research-Shows-Negative-Posts-on-Facebook-Business-Pages-Outweigh-Positive-Posts-2-to-1-The-Impact-it-s-Having-on-Brands-and-Profitability), [EurekAlert](https://eurekalert.org/pub_releases/2019-09/ifor-npo091319.php), [Tech Xplore](https://techxplore.com/news/2019-09-negative-facebook-business-pages-outweigh.html), [eurasia review](https://www.eurasiareview.com/14092019-negative-posts-on-facebook-business-pages-outweigh-positive-posts-2-to-1/)
 
 1. Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, 29(1), 4-24.
@@ -200,18 +200,19 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 \hrulefill
 
 
-<!-- # STUDENT ADVISING -->
+# STUDENT ADVISING
 
-<!-- Xiaoye Cheng -->
+Xiaoye Cheng, Dissertation Committee Member, Indiana University 2019
 <!-- Sandeep -->
 
-<!-- \hrulefill -->
+\hrulefill
+
 
 # SERVICE
 
-<!-- **Conference Organization** -->
+**Conference Organization**
 
-<!-- - Production and Operations Management Society Conference, 2020, Session Chair onn "Social Media and IOT" -->
+- Production and Operations Management Society Conference, 2020, Session Chair onn "Social Media and IOT"
 <!-- - Workshop on Information Technologies and Systems, 2020, Web Chair -->
 <!-- - Americas Conference on Information Systems, 2022, Review Coordinator -->
 
