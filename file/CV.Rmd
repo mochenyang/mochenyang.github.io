@@ -82,6 +82,8 @@ Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Unde
 
 Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research.
 
+Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
+
 \hrulefill
 
 
