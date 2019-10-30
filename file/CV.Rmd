@@ -91,6 +91,8 @@ Cheng X, Bala H, Yang M. User Engagement on Social Media Business Pages: The Int
 
 # CONFERENCE PAPERS
 
+Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study. Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Philadelphia, Pennsylvania, 2019.
+
 Yang M, McFowland E, Burtch G, Adomavicius G. Generating Instrumental Variables via Random Forest to Address Endogeneity due to Prediction Error in Data-Mined Variables. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2019.
 
 Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. Conference on Digital Experimentation (**_CODE_**), Boston, Massachusetts, 2018.
