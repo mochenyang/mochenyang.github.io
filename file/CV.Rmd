@@ -62,7 +62,7 @@ urlcolor: blue
 1. Yang M, Adomavicius G, & Gupta A. (2019). Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, 30(2), 595–615.
 
 1. Yang M, Ren Y, & Adomavicius G. (2019) Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, 30(3), 839–855.
-    - Selected Media Coverage: [INFORMS](https://www.informs.org/About-INFORMS/News-Room/Press-Releases/New-Research-Shows-Negative-Posts-on-Facebook-Business-Pages-Outweigh-Positive-Posts-2-to-1-The-Impact-it-s-Having-on-Brands-and-Profitability), [EurekAlert](https://eurekalert.org/pub_releases/2019-09/ifor-npo091319.php), [Tech Xplore](https://techxplore.com/news/2019-09-negative-facebook-business-pages-outweigh.html), [eurasia review](https://www.eurasiareview.com/14092019-negative-posts-on-facebook-business-pages-outweigh-positive-posts-2-to-1/), [EDWEEK Market Brief](https://marketbrief.edweek.org/marketplace-k-12/negative-posts-facebook-business-pages-outnumber-positive-2-1-research-says/)
+    - Selected Media Coverage: [INFORMS Press Release](https://www.informs.org/About-INFORMS/News-Room/Press-Releases/New-Research-Shows-Negative-Posts-on-Facebook-Business-Pages-Outweigh-Positive-Posts-2-to-1-The-Impact-it-s-Having-on-Brands-and-Profitability), [INFORMS "Resoundingly Human" Podcast](https://pubsonline.informs.org/do/10.1287/orms.2019.06.27p/full/), [EurekAlert](https://eurekalert.org/pub_releases/2019-09/ifor-npo091319.php), [Tech Xplore](https://techxplore.com/news/2019-09-negative-facebook-business-pages-outweigh.html), [eurasia review](https://www.eurasiareview.com/14092019-negative-posts-on-facebook-business-pages-outweigh-positive-posts-2-to-1/), [EDWEEK Market Brief](https://marketbrief.edweek.org/marketplace-k-12/negative-posts-facebook-business-pages-outnumber-positive-2-1-research-says/)
 
 1. Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, 29(1), 4-24.
     - Featured Article
@@ -163,6 +163,10 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 # TEACHING
 
+**Teaching at University of Minnesota**
+
+- MSBA 6440: Causal Inference via Econometrics and Experiments, Spring 2020
+
 **Teaching at Indiana University**
 
 - K353: Business Analytics and Modeling, Spring 2019
@@ -208,8 +212,8 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 # STUDENT ADVISING
 
-Xiaoye Cheng, Dissertation Committee Member, Indiana University 2019
-<!-- Sandeep -->
+Xiaoye Cheng, Dissertation Committee Member, Indiana University, 2019
+Sandeep Gangarapu, Dissertation Committee Member, University of Minnesota, In Progress
 
 \hrulefill
 
@@ -245,8 +249,12 @@ Xiaoye Cheng, Dissertation Committee Member, Indiana University 2019
 - International Conference on Information Systems
 - Winter Conference on Business Analytics
 
-**Departmental Services at Indiana University**
+**Departmental Services**
 
-- Ph.D. Recruiting Committee, 2019
+- Ph.D. Recruiting Committee, Indiana University, 2019
+
+**Other Services**
+
+- Webmaster, INFORMS Information Systems Society, 2019-2022
 
 \hrulefill
