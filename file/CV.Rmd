@@ -74,44 +74,44 @@ urlcolor: blue
 
 Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages.
 
-Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Multi-Item Multi-Unit Combinatorial Auctions.
+Adomavicius G, Gupta A, & Yang M. Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework.
 
 Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem
 
-Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
-
 Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research.
 
-Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
+Tan X, Yang M, Wang G. Promoting Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
 
 Cheng X, Bala H, Yang M. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses.
+
+Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
 
 \hrulefill
 
 
 # CONFERENCE PAPERS
 
-Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study. Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Philadelphia, Pennsylvania, 2019.
+1. Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study. Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Philadelphia, Pennsylvania, 2019.
 
-Yang M, McFowland E, Burtch G, Adomavicius G. Generating Instrumental Variables via Random Forest to Address Endogeneity due to Prediction Error in Data-Mined Variables. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2019.
+1. Yang M, McFowland E, Burtch G, Adomavicius G. Generating Instrumental Variables via Random Forest to Address Endogeneity due to Prediction Error in Data-Mined Variables. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2019.
 
-Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. Conference on Digital Experimentation (**_CODE_**), Boston, Massachusetts, 2018.
+1. Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. Conference on Digital Experimentation (**_CODE_**), Boston, Massachusetts, 2018.
 
-Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Workshop on Data Science, Phoenix, Arizona, 2018. - **Best Paper Nomination**
+1. Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Workshop on Data Science, Phoenix, Arizona, 2018. - **Best Paper Nomination**
 
-Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Workshop on Information Technologies and Systems (**_WITS_**), Seoul, Korea, 2017.
+1. Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Workshop on Information Technologies and Systems (**_WITS_**), Seoul, Korea, 2017.
 
-Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), Houston, Texas, 2017.
+1. Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), Houston, Texas, 2017.
 
-Yang M, Ren Y, & Adomavicius G. Engagement beyond Liking and Commenting: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2017.
+1. Yang M, Ren Y, & Adomavicius G. Engagement beyond Liking and Commenting: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2017.
 
-Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions. Workshop on Information Technologies and Systems (**_WITS_**), Dublin, Ireland, 2016.
+1. Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions. Workshop on Information Technologies and Systems (**_WITS_**), Dublin, Ireland, 2016.
 
-Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning. Winter Conference on Business Intelligence (**_WCBI_**), Snowbird, Utah, 2016.
+1. Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning. Winter Conference on Business Intelligence (**_WCBI_**), Snowbird, Utah, 2016.
 
-Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquidation. Workshop on Information Technologies and Systems (**_WITS_**), Dallas, Texas, 2015.
+1. Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquidation. Workshop on Information Technologies and Systems (**_WITS_**), Dallas, Texas, 2015.
 
-Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), San Francisco, California, 2014.
+1. Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), San Francisco, California, 2014.
 
 \hrulefill
 
@@ -120,43 +120,43 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 **Conference Presentations**
 
-- Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Workshop on Data Science, Phoenix, Arizona, 2018.
+1. Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Workshop on Data Science, Phoenix, Arizona, 2018.
 
-- Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Workshop on Information Technologies and Systems (**_WITS_**), Seoul, Korea, 2017.
+1. Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Workshop on Information Technologies and Systems (**_WITS_**), Seoul, Korea, 2017.
 
-- Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), Houston, Texas, 2017.
+1. Yang M, Ren Y, & Adomavicius G. The Dynamics of Social Media Engagement: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), Houston, Texas, 2017.
 
-- Yang M, Ren Y, & Adomavicius G. Engagement beyond Liking and Commenting: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2017.
+1. Yang M, Ren Y, & Adomavicius G. Engagement beyond Liking and Commenting: A Quasi-Experimental Study of the "Reactions" Feature on Facebook Business Pages. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2017.
 
-- Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions. Workshop on Information Technologies and Systems (**_WITS_**), Dublin, Ireland, 2016.
+1. Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions. Workshop on Information Technologies and Systems (**_WITS_**), Dublin, Ireland, 2016.
 
-- Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning. Winter Conference on Business Intelligence (**_WCBI_**), Snowbird, Utah, 2016.
+1. Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning. Winter Conference on Business Intelligence (**_WCBI_**), Snowbird, Utah, 2016.
 
-- Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquidation. Workshop on Information Technologies and Systems (**_WITS_**), Dallas, Texas, 2015.
+1. Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquidation. Workshop on Information Technologies and Systems (**_WITS_**), Dallas, Texas, 2015.
 
-- Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), San Francisco, California, 2014.
+1. Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Conference on Information Systems and Technology (**_CIST_**), San Francisco, California, 2014.
 
 **Invited Talks and Presentations**
 
-- Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
+1. Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
 
-- Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
+1. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
 
-- Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
+1. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
 
-- Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
+1. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
 
-- Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
+1. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
 
-- Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
+1. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
 
-- Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
+1. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
 
-- Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
+1. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
 
-- Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (**_FARCON_**), MinneAnalytics, 2017.
+1. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (**_FARCON_**), MinneAnalytics, 2017.
 
-- Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (**_SOBACO_**) Symposium, Carlson School of Management, 2015.
+1. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (**_SOBACO_**) Symposium, Carlson School of Management, 2015.
 
 \hrulefill
 
@@ -212,8 +212,8 @@ Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagem
 
 # STUDENT ADVISING
 
-Xiaoye Cheng, Dissertation Committee Member, Indiana University, 2019
-Sandeep Gangarapu, Dissertation Committee Member, University of Minnesota, In Progress
+- Xiaoye Cheng, Dissertation Committee Member, Indiana University, 2019
+- Sandeep Gangarapu, Dissertation Committee Member, University of Minnesota, In Progress
 
 \hrulefill
 
@@ -222,7 +222,7 @@ Sandeep Gangarapu, Dissertation Committee Member, University of Minnesota, In Pr
 
 **Conference Organization**
 
-- Production and Operations Management Society Conference, 2020, Session Chair onn "Social Media and IOT"
+- Production and Operations Management Society Conference, 2020, Session Chair on "Social Media and IOT"
 <!-- - Workshop on Information Technologies and Systems, 2020, Web Chair -->
 <!-- - Americas Conference on Information Systems, 2022, Review Coordinator -->
 
