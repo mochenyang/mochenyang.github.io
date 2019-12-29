@@ -91,6 +91,8 @@ Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Unde
 
 # CONFERENCE PAPERS
 
+1. Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Validations. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2020.
+
 1. Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study. Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Philadelphia, Pennsylvania, 2019.
 
 1. Yang M, McFowland E, Burtch G, Adomavicius G. Generating Instrumental Variables via Random Forest to Address Endogeneity due to Prediction Error in Data-Mined Variables. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2019.
