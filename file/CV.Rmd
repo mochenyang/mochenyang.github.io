@@ -72,19 +72,21 @@ urlcolor: blue
 
 # WORKING PAPERS
 
-Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages.
+1. Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages.
 
-Adomavicius G, Gupta A, & Yang M. Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework.
+1. Adomavicius G, Gupta A, & Yang M. Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework.
 
-Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem
+1. Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem
 
-Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research.
+1. Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research.
 
-Tan X, Yang M, Wang G. Promoting Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
+1. Tan X, Yang M, Wang G. Promoting Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
 
-Cheng X, Bala H, Yang M. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses.
+1. Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations.
 
-Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
+1. Cheng X, Bala H, Yang M. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses.
+
+1. Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
 
 \hrulefill
 
@@ -140,6 +142,8 @@ Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Unde
 
 **Invited Talks and Presentations**
 
+1. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. INFORMS Session - Platform Economy, National Harbor, Maryland, 2020.
+
 1. Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
 
 1. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
@@ -167,6 +171,7 @@ Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Unde
 
 **Teaching at University of Minnesota**
 
+- MSBA 6130: Introduction to Business Analytics in R, Fall 2020
 - MSBA 6440: Causal Inference via Econometrics and Experiments, Spring 2020
 
 **Teaching at Indiana University**
@@ -188,6 +193,7 @@ Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Unde
 
 **Honors and Awards**
 
+- MSBA Outstanding Teacher Award (Specialty Course), 2020
 - INFORMS Information Systems Society (ISS) Nunamaker-Chen Dissertation Award, 2018
 - International Conference on Information Systems (ICIS) Doctoral Consortium Attendee, 2017
 - PhD Student Teaching Award, Carlson School of Management, 2016-2017
@@ -224,9 +230,17 @@ Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Unde
 
 **Conference Organization**
 
-- Production and Operations Management Society Conference, 2020, Session Chair on "Social Media and IOT"
+- Session Chair: Production and Operations Management Society Conference (2020, Social Media and IOT); INFORMS (2020, Social Media and Platform)
 <!-- - Workshop on Information Technologies and Systems, 2020, Web Chair -->
 <!-- - Americas Conference on Information Systems, 2022, Review Coordinator -->
+
+**Conference Program Committee Member or Associate Editor**
+
+- Winter Conference on Business Analytics
+- International Conference on Information Systems
+- Conference on Information Systems and Technology
+- Workshop on Information Technologies and Systems
+- Pacific Asia Conference on Information Systems
 
 **Reviewer**
 
@@ -242,14 +256,6 @@ Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Unde
 - Conference on Information Systems and Technology
 - Pacific Asia Conference on Information Systems
 - Hawaii International Conference on System Sciences
-
-**Conference Program Committee Member or Associate Editor**
-
-- Pacific Asia Conference on Information Systems
-- Workshop on Information Technologies and Systems
-- Conference on Information Systems and Technology
-- International Conference on Information Systems
-- Winter Conference on Business Analytics
 
 **Departmental Services**
 
