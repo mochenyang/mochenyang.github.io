@@ -18,7 +18,6 @@ gem "minima"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 gem 'wdm', '>= 0.1.0'
-gem "activesupport", ">= 6.0.3.1"
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
