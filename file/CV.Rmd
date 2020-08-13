@@ -233,7 +233,7 @@ urlcolor: blue
 **Conference Organization**
 
 - Session Chair: Production and Operations Management Society Conference (2020, Social Media and IOT); INFORMS (2020, Social Media and Platform)
-<!-- - Workshop on Information Technologies and Systems, 2020, Web Chair -->
+- Webmaster: Workshop on Information Technologies and Systems, 2020
 <!-- - Americas Conference on Information Systems, 2022, Review Coordinator -->
 
 **Conference Program Committee Member or Associate Editor**
