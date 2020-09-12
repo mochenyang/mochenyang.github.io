@@ -95,6 +95,8 @@ urlcolor: blue
 
 # CONFERENCE PAPERS
 
+1. Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Conference on Information Systems and Technology (**_CIST_**), Virtual, 2020.
+
 1. Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Validations. Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2020.
 
 1. Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study. Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Philadelphia, Pennsylvania, 2019.
@@ -125,6 +127,8 @@ urlcolor: blue
 # TALKS AND PRESENTATIONS
 
 **Conference Presentations**
+
+1. Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Validations. INFORMS Annual Meeting, Virtual, 2020.
 
 1. Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Workshop on Data Science, Phoenix, Arizona, 2018.
 
