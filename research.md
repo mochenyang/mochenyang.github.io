@@ -32,6 +32,7 @@ Machine learning models (and algorithms in general) play an increasingly importa
 - Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research. Gediminas Adomavicius, Mochen Yang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446944)
 - Promoting Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study. Xue Tan, Mochen Yang, Gang Wang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566609)
 - When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Antino Kim, Mochen Yang, Jingjing Zhang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691575)
+- Resilience in the Storm: Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Turmoil. Che-Wei Liu, Mochen Yang, Ming-Hui Wen. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821)
 
 -----
 
@@ -41,7 +42,7 @@ Machine learning models (and algorithms in general) play an increasingly importa
 My dissertation research investigates the interplay and relationships between digital content and engagement behaviors in business pages on social media, and the related challenges and opportunities for associated firms. Social media platforms such as Facebook empower individual users to interact with each other on firm-hosted business pages. Users can engage with the content created by the firms as well as by other users in multiple ways (liking, commenting, etc.). Such engagement behavior bears important consequences to business, yet its fundamental characteristics are not well-understood. My dissertation research investigates user engagement behaviors toward user-generated content on Facebook business pages. The dissertation can be accessed [here](http://hdl.handle.net/11299/199062).
 
 - Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _Information Systems Research_, 30(2), 839–855, 2019. [[Journal Link]](https://pubsonline.informs.org/doi/10.1287/isre.2019.0834) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3260294) [[Podcast]](https://pubsonline.informs.org/do/10.1287/orms.2019.06.27p/full/)
-- Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _ACM Transactions on Computer-Human Interaction (TOCHI)_, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660923)
+- Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _ACM Transactions on Computer-Human Interaction (TOCHI)_, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660923) [[Video]](https://youtu.be/8CxNHMMxQ60)
 - Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages. Yuqing Ren, Maria Rodas, Carlos Torelli, Mochen Yang. _under review_.
 
 -----
