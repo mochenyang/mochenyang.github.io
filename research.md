@@ -30,7 +30,7 @@ Supervised machine learning enables scalable and cost-effective extraction of us
 Machine learning models (and algorithms in general) play an increasingly important role in many high-stake decision making tasks. Because of the ability to discover meaningful patterns from large amounts of information, these models can augment the capacities of human decision makers. Meanwhile, several issues also arise in algorithmic decision making, such as bias, transparency, and privacy. This set of research aims at understanding the dynamics of algorithmic decision making and designing useful mechanisms to improve its quality.
 
 - Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research. Gediminas Adomavicius, Mochen Yang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446944)
-- Promoting Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study. Xue Tan, Mochen Yang, Gang Wang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566609)
+- Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study. Xue Tan, Mochen Yang, Gang Wang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566609)
 - When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Antino Kim, Mochen Yang, Jingjing Zhang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691575)
 - Resilience in the Storm: Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Turmoil. Che-Wei Liu, Mochen Yang, Ming-Hui Wen. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821)
 

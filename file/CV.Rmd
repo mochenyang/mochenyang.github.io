@@ -57,7 +57,7 @@ urlcolor: blue
 
 # JOURNAL PUBLICATIONS
 
-1. Yang M, Ren Y, & Adomavicius G. (2020) Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. **_ACM Transactions on Computer-Human Interaction (TOCHI)_**, forthcoming.
+1. Yang M, Ren Y, & Adomavicius G. (2020) Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. **_ACM Transactions on Computer-Human Interaction (TOCHI)_**, 27(6).
 
 1. Adomavicius G, Gupta A, & Yang M. (2019). Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. **_MIS Quarterly_**, 43(3), 721-743.
 
@@ -80,7 +80,7 @@ urlcolor: blue
 
 1. Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research.
 
-1. Tan X, Yang M, Wang G. Promoting Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
+1. Tan X, Yang M, Wang G. Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study.
 
 1. Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations.
 
