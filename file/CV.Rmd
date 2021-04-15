@@ -164,8 +164,10 @@ urlcolor: blue
 
 **Teaching at University of Minnesota**
 
-- MSBA 6130: Introduction to Business Analytics in R, Fall 2020
-- MSBA 6440: Causal Inference via Econometrics and Experiments, Spring 2020
+- MSBA 6130: Introduction to Business Analytics in R
+- MSBA 6440: Causal Inference via Econometrics and Experiments
+- MSBA 6460: Advanced AI for Business Application
+- CHEMBA Residency Program: Business Analytics
 
 **Teaching at Indiana University**
 
@@ -197,6 +199,7 @@ urlcolor: blue
 
 **Grants**
 
+- "Understanding and Improving Federated Learning in Healthcare", Cisco Research, 2021-2022 ($137,000, co-PI with Xuan Bi)
 - Research Data Grant, Kelley School of Business, Fall 2018 ($1800)
 - Graduate School Dissertation Fellowship travel grant, Fall 2017 ($1000)
 - Carlson School PhD Travel Fellowship, 2014-2018, 5 times
