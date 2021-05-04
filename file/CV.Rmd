@@ -90,7 +90,7 @@ urlcolor: blue
 
 1. Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms.
 
-1. Liu C, Yang M, Wen M. Resilience in the Storm: Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Turmoil.
+1. Liu C, Yang M, Wen M. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash?
 
 \hrulefill
 
