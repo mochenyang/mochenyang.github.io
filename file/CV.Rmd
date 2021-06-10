@@ -25,241 +25,249 @@ urlcolor: blue
 
 # ACADEMIC APPOINTMENTS
 
-**Carlson School of Management, University of Minnesota \hfill 2019 - present**
+**Carlson School of Management, University of Minnesota** \hfill 2019 - present
 
-- Assistant Professor, Department of Information and Decision Sciences
+-   Assistant Professor, Department of Information and Decision Sciences
 
-**Kelley School of Business, Indiana University \hfill 2018 - 2019**
+**Kelley School of Business, Indiana University** \hfill 2018 - 2019
 
-- Assistant Professor, Department of Operations & Decision Technologies
+-   Assistant Professor, Department of Operations & Decision Technologies
 
 \hrulefill
-
 
 # EDUCATION
 
-**Carlson School of Management, University of Minnesota \hfill 2013 - 2018**
+**Carlson School of Management, University of Minnesota** \hfill 2013 - 2018
 
-- PhD in Business Administration, Department of Information & Decision Sciences
-- _Thesis_: Towards a Comprehensive Understanding of User-Generated Content and Engagement Behavior on Facebook Business Pages
-- _Committee_: Yuqing Ren (Advisor), Gediminas Adomavicius (Advisor), Gordon Burtch, Jisu Huh
+-   PhD in Business Administration, Department of Information & Decision Sciences
+-   *Thesis*: Towards a Comprehensive Understanding of User-Generated Content and Engagement Behavior on Facebook Business Pages
+-   *Committee*: Yuqing Ren (Advisor), Gediminas Adomavicius (Advisor), Gordon Burtch, Jisu Huh
 
-**School of Economics and Management, Tsinghua University \hfill 2009 - 2013**
+**School of Economics and Management, Tsinghua University** \hfill 2009 - 2013
 
-- Bachelor of Information Management and Information System
+-   Bachelor of Information Management and Information System
 
-**Rotman School of Management, University of Toronto \hfill 9/2011 - 12/2011**
+**Rotman School of Management, University of Toronto** \hfill 9/2011 - 12/2011
 
-- Exchange Student
+-   Exchange Student
 
 \hrulefill
-
 
 # JOURNAL PUBLICATIONS
 
-1. Yang M, Ren Y, & Adomavicius G. (2020) Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. **_ACM Transactions on Computer-Human Interaction (TOCHI)_**, 27(6).
+1.  Yang M, Ren Y, & Adomavicius G. (2020) Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. ***ACM Transactions on Computer-Human Interaction (TOCHI)***, 27(6).
 
-1. Adomavicius G, Gupta A, & Yang M. (2019). Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. **_MIS Quarterly_**, 43(3), 721-743.
+2.  Adomavicius G, Gupta A, & Yang M. (2019). Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. ***MIS Quarterly***, 43(3), 721-743.
 
-1. Yang M, Adomavicius G, & Gupta A. (2019). Efficient Computational Strategies for Dynamic Inventory Liquidation. **_Information Systems Research_**, 30(2), 595–615.
+3.  Yang M, Adomavicius G, & Gupta A. (2019). Efficient Computational Strategies for Dynamic Inventory Liquidation. ***Information Systems Research***, 30(2), 595--615.
 
-1. Yang M, Ren Y, & Adomavicius G. (2019) Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. **_Information Systems Research_**, 30(3), 839–855.
-    - Selected Media Coverage: [INFORMS Press Release](https://www.informs.org/About-INFORMS/News-Room/Press-Releases/New-Research-Shows-Negative-Posts-on-Facebook-Business-Pages-Outweigh-Positive-Posts-2-to-1-The-Impact-it-s-Having-on-Brands-and-Profitability), [INFORMS "Resoundingly Human" Podcast](https://pubsonline.informs.org/do/10.1287/orms.2019.06.27p/full/), [EurekAlert](https://eurekalert.org/pub_releases/2019-09/ifor-npo091319.php), [Tech Xplore](https://techxplore.com/news/2019-09-negative-facebook-business-pages-outweigh.html), [eurasia review](https://www.eurasiareview.com/14092019-negative-posts-on-facebook-business-pages-outweigh-positive-posts-2-to-1/), [EDWEEK Market Brief](https://marketbrief.edweek.org/marketplace-k-12/negative-posts-facebook-business-pages-outnumber-positive-2-1-research-says/)
+4.  Yang M, Ren Y, & Adomavicius G. (2019) Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. ***Information Systems Research***, 30(3), 839--855.
 
-1. Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. **_Information Systems Research_**, 29(1), 4-24.
-    - Featured Article
+    -   Selected Media Coverage: [INFORMS Press Release](https://www.informs.org/About-INFORMS/News-Room/Press-Releases/New-Research-Shows-Negative-Posts-on-Facebook-Business-Pages-Outweigh-Positive-Posts-2-to-1-The-Impact-it-s-Having-on-Brands-and-Profitability), [INFORMS "Resoundingly Human" Podcast](https://pubsonline.informs.org/do/10.1287/orms.2019.06.27p/full/), [EurekAlert](https://eurekalert.org/pub_releases/2019-09/ifor-npo091319.php), [Tech Xplore](https://techxplore.com/news/2019-09-negative-facebook-business-pages-outweigh.html), [eurasia review](https://www.eurasiareview.com/14092019-negative-posts-on-facebook-business-pages-outweigh-positive-posts-2-to-1/), [EDWEEK Market Brief](https://marketbrief.edweek.org/marketplace-k-12/negative-posts-facebook-business-pages-outnumber-positive-2-1-research-says/)
+
+5.  Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. ***Information Systems Research***, 29(1), 4-24.
+
+    -   Featured Article
 
 \hrulefill
-
 
 # WORKING PAPERS
 
-1. Adomavicius G, Gupta A, & Yang M. Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework.
+1.  Adomavicius G, Gupta A, & Yang M. Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework.
 
-1. Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem
+2.  Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem.
 
-1. Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research.
+3.  Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research.
 
-1. Tan X, Yang M, Wang G. Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study.
+4.  Tan X, Yang M, Wang G. Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study.
 
-1. Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations.
+5.  Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations.
 
-1. Cheng X, Bala H, Yang M. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses.
+6.  Cheng X, Bala H, Yang M. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses.
 
-1. Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
+7.  Ren Y, Rodas M, Carlos T, Yang M. Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages.
 
-1. Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms.
+8.  Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms.
 
-1. Liu C, Yang M, Wen M. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash?
+9.  Liu C, Yang M, Wen M. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash?
+
+10. Yang M, Bi X. The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma.
 
 \hrulefill
-
 
 # CONFERENCE PAPERS AND PRESENTATIONS
+
 (presentations marked by [$\checkmark$])
 
-1. Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. 
-	- [$\checkmark$]Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Virtual, 2020.
-	- Conference on Information Systems and Technology (**_CIST_**), Virtual, 2020.
+1.  The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma.
 
-1. Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Validations.
-	- [$\checkmark$]Workshop on Information Technologies and Systems (**_WITS_**), Virtual, 2020.
-	- [$\checkmark$]INFORMS Annual Meeting, Virtual, 2020.
-	- Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2020.
+    -   [$\checkmark$]China Summer Workshop on Information Management (***CSWIM***), Virtual, 2021
 
-1. Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
-	- Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Philadelphia, Pennsylvania, 2019.
+2.  Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms.
 
-1. Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables via Random Forest to Address Endogeneity due to Prediction Error in Data-Mined Variables.
-	- Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2019.
-	- [$\checkmark$]Conference on Digital Experimentation (**_CODE_**), Boston, Massachusetts, 2018.
-	- [$\checkmark$]INFORMS Workshop on Data Science, Phoenix, Arizona, 2018. (**Best Paper Nomination**)
+    -   [$\checkmark$]Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Virtual, 2020.
+    -   Conference on Information Systems and Technology (***CIST***), Virtual, 2020.
 
-1. Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages.
-	- [$\checkmark$]Workshop on Information Technologies and Systems (**_WITS_**), Seoul, Korea, 2017.
-	- [$\checkmark$]Conference on Information Systems and Technology (**_CIST_**), Houston, Texas, 2017.
-	- [$\checkmark$]Winter Conference on Business Analytics (**_WCBA_**), Snowbird, Utah, 2017.
+3.  Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Validations.
 
-1. Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions.
-	- [$\checkmark$]Workshop on Information Technologies and Systems (**_WITS_**), Dublin, Ireland, 2016.
+    -   [$\checkmark$]Workshop on Information Technologies and Systems (***WITS***), Virtual, 2020.
+    -   [$\checkmark$]INFORMS Annual Meeting, Virtual, 2020.
+    -   Winter Conference on Business Analytics (***WCBA***), Snowbird, Utah, 2020.
 
-1. Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning.
-	- [$\checkmark$]Winter Conference on Business Intelligence (**_WCBI_**), Snowbird, Utah, 2016.
+4.  Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
 
-1. Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquidation.
-	- [$\checkmark$]Workshop on Information Technologies and Systems (**_WITS_**), Dallas, Texas, 2015.
+    -   Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Philadelphia, Pennsylvania, 2019.
 
-1. Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages.
-	- [$\checkmark$]Conference on Information Systems and Technology (**_CIST_**), San Francisco, California, 2014.
+5.  Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables via Random Forest to Address Endogeneity due to Prediction Error in Data-Mined Variables.
+
+    -   Winter Conference on Business Analytics (***WCBA***), Snowbird, Utah, 2019.
+    -   [$\checkmark$]Conference on Digital Experimentation (***CODE***), Boston, Massachusetts, 2018.
+    -   [$\checkmark$]INFORMS Workshop on Data Science, Phoenix, Arizona, 2018. (**Best Paper Nomination**)
+
+6.  Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages.
+
+    -   [$\checkmark$]Workshop on Information Technologies and Systems (***WITS***), Seoul, Korea, 2017.
+    -   [$\checkmark$]Conference on Information Systems and Technology (***CIST***), Houston, Texas, 2017.
+    -   [$\checkmark$]Winter Conference on Business Analytics (***WCBA***), Snowbird, Utah, 2017.
+
+7.  Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions.
+
+    -   [$\checkmark$]Workshop on Information Technologies and Systems (***WITS***), Dublin, Ireland, 2016.
+
+8.  Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning.
+
+    -   [$\checkmark$]Winter Conference on Business Intelligence (***WCBI***), Snowbird, Utah, 2016.
+
+9.  Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquidation.
+
+    -   [$\checkmark$]Workshop on Information Technologies and Systems (***WITS***), Dallas, Texas, 2015.
+
+10. Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages.
+
+    -   [$\checkmark$]Conference on Information Systems and Technology (***CIST***), San Francisco, California, 2014.
 
 \hrulefill
-
 
 # INVITED TALKS AND SEMINARS
 
-1. Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
+1.  Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
 
-1. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
+2.  Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
 
-1. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
+3.  Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
 
-1. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
+4.  Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
 
-1. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
+5.  Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
 
-1. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
+6.  Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
 
-1. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
+7.  Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
 
-1. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
+8.  Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
 
-1. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (**_FARCON_**), MinneAnalytics, 2017.
+9.  Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (***FARCON***), MinneAnalytics, 2017.
 
-1. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (**_SOBACO_**) Symposium, Carlson School of Management, 2015.
+10. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (***SOBACO***) Symposium, Carlson School of Management, 2015.
 
 \hrulefill
-
 
 # TEACHING
 
 **Teaching at University of Minnesota**
 
-- MSBA 6130: Introduction to Business Analytics in R
-- MSBA 6440: Causal Inference via Econometrics and Experiments
-- MSBA 6460: Advanced AI for Business Application
-- CHEMBA Residency Program: Business Analytics
+-   MSBA 6130: Introduction to Business Analytics in R
+-   MSBA 6440: Causal Inference via Econometrics and Experiments
+-   MSBA 6460: Advanced AI for Business Application
+-   CHEMBA Residency Program: Business Analytics
 
 **Teaching at Indiana University**
 
-- K353: Business Analytics and Modeling, Spring 2019
-- K579: Business Analytics Concepts and Management, Spring 2019
-- C552: IT for Managers: The Strategic Use of Information Technology in Business, one session on Business Application of Machine Learning, Guest Lecturer, Fall 2018, Summer 2019
+-   K353: Business Analytics and Modeling, Spring 2019
+-   K579: Business Analytics Concepts and Management, Spring 2019
+-   C552: IT for Managers: The Strategic Use of Information Technology in Business, one session on Business Application of Machine Learning, Guest Lecturer, Fall 2018, Summer 2019
 
 **Teaching Experiences as PhD Student**
 
-- IDSc 4444: Descriptive and Predictive Analytics, Instructor, Fall 2016, Spring 2017
-- Predictive Analytics, Guest Lecturer, Fall 2015, Fall 2017
-- Exploratory Data Analytics and Visualization, Guest Lecturer, Fall 2015
+-   IDSc 4444: Descriptive and Predictive Analytics, Instructor, Fall 2016, Spring 2017
+-   Predictive Analytics, Guest Lecturer, Fall 2015, Fall 2017
+-   Exploratory Data Analytics and Visualization, Guest Lecturer, Fall 2015
 
 \hrulefill
-
 
 # PROFESSIONAL RECOGNITIONS
 
 **Honors and Awards**
 
-- MSBA Outstanding Teacher Award (Specialty Course), 2020
-- INFORMS Information Systems Society (ISS) Nunamaker-Chen Dissertation Award, 2018
-- International Conference on Information Systems (ICIS) Doctoral Consortium Attendee, 2017
-- PhD Student Teaching Award, Carlson School of Management, 2016-2017
-- Graduate School Dissertation Fellowship, University of Minnesota, 2017-2018
-- Best Reviewer Award, Workshop on Information Technologies and Systems (WITS), 2016
-- Graduated with Honors, Tsinghua University, 2013
-- National Scholarship, Ministry of Education, China, 2010
+-   MSBA Outstanding Teacher Award (Specialty Course), 2020
+-   INFORMS Information Systems Society (ISS) Nunamaker-Chen Dissertation Award, 2018
+-   International Conference on Information Systems (ICIS) Doctoral Consortium Attendee, 2017
+-   PhD Student Teaching Award, Carlson School of Management, 2016-2017
+-   Graduate School Dissertation Fellowship, University of Minnesota, 2017-2018
+-   Best Reviewer Award, Workshop on Information Technologies and Systems (WITS), 2016
+-   Graduated with Honors, Tsinghua University, 2013
+-   National Scholarship, Ministry of Education, China, 2010
 
 **Grants**
 
-- "Understanding and Improving Federated Learning in Healthcare", Cisco Research, 2021-2022 ($137,000, co-PI with Xuan Bi)
-- Research Data Grant, Kelley School of Business, Fall 2018 ($1800)
-- Graduate School Dissertation Fellowship travel grant, Fall 2017 ($1000)
-- Carlson School PhD Travel Fellowship, 2014-2018, 5 times
-- Department Travel Grant, Carlson School of Management, 2014-2018, 6 times
-- SOBACO Micro-Grants, Carlson School of Management, Fall 2014 ($1000)
+-   "Understanding and Improving Federated Learning in Healthcare", Cisco Research, 2021-2022 (\$137,000, co-PI with Xuan Bi)
+-   Research Data Grant, Kelley School of Business, Fall 2018 (\$1800)
+-   Graduate School Dissertation Fellowship travel grant, Fall 2017 (\$1000)
+-   Carlson School PhD Travel Fellowship, 2014-2018, 5 times
+-   Department Travel Grant, Carlson School of Management, 2014-2018, 6 times
+-   SOBACO Micro-Grants, Carlson School of Management, Fall 2014 (\$1000)
 
 **General Media Mentions / Interviews**
 
-- [Kelley faculty members in operations and decision technologies honored for their research](https://blog.kelley.iu.edu/2018/11/16/kelley-faculty-members-in-operations-and-decision-technologies-honored-for-their-research/)
-- [Media Contribution: With Interoperability, You’ll Feel Right At (Smart) Home](https://datamakespossible.westerndigital.com/interoperability-for-smart-homes/)
+-   [Kelley faculty members in operations and decision technologies honored for their research](https://blog.kelley.iu.edu/2018/11/16/kelley-faculty-members-in-operations-and-decision-technologies-honored-for-their-research/)
+-   [Media Contribution: With Interoperability, You'll Feel Right At (Smart) Home](https://datamakespossible.westerndigital.com/interoperability-for-smart-homes/)
 
 \hrulefill
-
 
 # STUDENT ADVISING
 
-- Xiaoye Cheng, Dissertation Committee Member, Indiana University, 2019
-- Sandeep Gangarapu, Dissertation Committee Member, University of Minnesota, In Progress
+-   Xiaoye Cheng, Dissertation Committee Member, Indiana University, 2019
+-   Sandeep Gangarapu, Dissertation Committee Member, University of Minnesota, In Progress
 
 \hrulefill
-
 
 # SERVICE
 
 **Conference Organization**
 
-- Session Chair: Production and Operations Management Society Conference (2020, Social Media and IOT); INFORMS (2020, Social Media and Platform)
-- Webmaster: Workshop on Information Technologies and Systems, 2020
-<!-- - Americas Conference on Information Systems, 2022, Review Coordinator -->
+-   Session Chair: Production and Operations Management Society Conference (2020, Social Media and IOT); INFORMS (2020, Social Media and Platform)
+-   Webmaster: Workshop on Information Technologies and Systems, 2020 <!-- - Americas Conference on Information Systems, 2022, Review Coordinator -->
 
 **Conference Program Committee Member or Associate Editor**
 
-- Winter Conference on Business Analytics
-- International Conference on Information Systems
-- Conference on Information Systems and Technology
-- Workshop on Information Technologies and Systems
-- Pacific Asia Conference on Information Systems
+-   Winter Conference on Business Analytics
+-   International Conference on Information Systems
+-   Conference on Information Systems and Technology
+-   Workshop on Information Technologies and Systems
+-   Pacific Asia Conference on Information Systems
 
 **Reviewer**
 
-- Information Systems Research
-- MIS Quarterly
-- Management Science
-- Organization Science
-- European Journal of Information Systems
-- ACM Transactions on Management Information Systems
-- Journal of Strategic Information Systems
-- Information Systems Journal
-- International Conference on Information Systems
-- Conference on Information Systems and Technology
-- Pacific Asia Conference on Information Systems
-- Hawaii International Conference on System Sciences
+-   Information Systems Research
+-   MIS Quarterly
+-   Management Science
+-   Organization Science
+-   European Journal of Information Systems
+-   ACM Transactions on Management Information Systems
+-   Journal of Strategic Information Systems
+-   Information Systems Journal
+-   International Conference on Information Systems
+-   Conference on Information Systems and Technology
+-   Pacific Asia Conference on Information Systems
+-   Hawaii International Conference on System Sciences
 
 **Departmental Services**
 
-- Faculty Recruiting Committee, University of Minnesota, 2020
-- Ph.D. Recruiting Committee, Indiana University, 2019
+-   Faculty Recruiting Committee, University of Minnesota, 2020
+-   Ph.D. Recruiting Committee, Indiana University, 2019
 
 **Other Services**
 
-- Webmaster, INFORMS Information Systems Society, 2019-2022
+-   Webmaster, INFORMS Information Systems Society, 2019-2022
 
 \hrulefill
