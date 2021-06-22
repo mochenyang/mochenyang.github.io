@@ -57,6 +57,8 @@ urlcolor: blue
 
 1.  Yang M, Ren Y, & Adomavicius G. (2020) Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. ***ACM Transactions on Computer-Human Interaction (TOCHI)***, 27(6).
 
+    -   Selected Media Coverage: [Discover at Carlson](https://carlsonschool.umn.edu/news/wisdom-crowds-its-complicated)
+
 2.  Adomavicius G, Gupta A, & Yang M. (2019). Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. ***MIS Quarterly***, 43(3), 721-743.
 
 3.  Yang M, Adomavicius G, & Gupta A. (2019). Efficient Computational Strategies for Dynamic Inventory Liquidation. ***Information Systems Research***, 30(2), 595--615.
@@ -240,6 +242,7 @@ urlcolor: blue
 
 **Conference Program Committee Member or Associate Editor**
 
+-   INFORMS Data Science Workshop
 -   Winter Conference on Business Analytics
 -   International Conference on Information Systems
 -   Conference on Information Systems and Technology
