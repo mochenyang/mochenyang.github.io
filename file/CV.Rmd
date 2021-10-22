@@ -212,6 +212,7 @@ urlcolor: blue
 
 **Honors and Awards**
 
+-   Best Reviewer Award, Information Systems Research (ISR), 2021
 -   MSBA Outstanding Teacher Award (Core Course), 2021
 -   MSBA Outstanding Teacher Award (Specialty Course), 2020
 -   INFORMS Information Systems Society (ISS) Nunamaker-Chen Dissertation Award, 2018
