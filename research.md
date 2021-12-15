@@ -11,6 +11,7 @@ Making decisions in complex market mechanisms often requires one to process larg
 - Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _MIS Quarterly_, 43(3), 721-743, 2019. [[Journal Link]](https://misq.org/designing-real-time-feedback-for-bidders-in-homogeneous-item-continuous-combinatorial-auctions.html) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294392)
 - Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _Information Systems Research_, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942011)
 - Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. Xuan Bi, Mochen Yang, Gediminas Adomavicius. _under revision_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3675644) [[Video]](https://youtu.be/xCEUXBzaPcw)
+- The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Mochen Yang, Xuan Bi. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 
 -----
 
