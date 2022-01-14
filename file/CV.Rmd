@@ -157,11 +157,11 @@ urlcolor: blue
 
 # INVITED TALKS AND SEMINARS
 
-1.  TBD, McCombs School of Business, University of Texas at Austin, 2022 (scheduled).
+1.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. McCombs School of Business, University of Texas at Austin, 2022.
 
-2.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. IDSc Departmental Friday Seminar, 2021 (scheduled).
+2.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. IDSc Departmental Friday Seminar, 2022.
 
-3.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Carlson School Summer Applied Economics Seminar Series, 2021 (scheduled).
+3.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Carlson School Summer Applied Economics Seminar Series, 2021.
 
 4.  Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
 
@@ -252,8 +252,10 @@ urlcolor: blue
 
 **Conference Organization**
 
--   Session Chair: Production and Operations Management Society Conference (2020, Social Media and IOT); INFORMS (2020, Social Media and Platform)
--   Webmaster: Workshop on Information Technologies and Systems, 2020 <!-- - Americas Conference on Information Systems, 2022, Review Coordinator -->
+-   Americas Conference on Information Systems, 2022, Workshop Co-Chair
+-   Workshop on Information Technologies and Systems, 2020, Webmaster
+-   Production and Operations Management Society Conference, 2020, Session Chair (Social Media and IOT)
+-   INFORMS Annual Meeting, 2020, Session Chair (Social Media and Platform)
 
 **Conference Program Committee Member or Associate Editor**
 
