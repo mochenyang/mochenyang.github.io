@@ -21,7 +21,7 @@ Making decisions in complex market mechanisms often requires one to process larg
 Supervised machine learning enables scalable and cost-effective extraction of useful information from (often unstructured) data, which can be subsequently used in econometric estimations. However, the estimations may suffer from bias due to imperfect machine learning predictions. The goal of this stream of research is to understand the nature of such bias, and design novel approaches to mitigate it. 
 
 - Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Mochen Yang, Gediminas Adomavicius, Gordon Burtch, Yuqing Ren. _Information Systems Research_, 29(1), 4-24, 2018. [[Journal Link]](https://pubsonline.informs.org/doi/full/10.1287/isre.2017.0727) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2960258)
-- Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. Mochen Yang, Edward McFowland III, Gordon Burtch, Gediminas Adomavicius. _under revision_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3339983) [[arXiv]](http://arxiv.org/abs/2012.10790) [[Code]](https://github.com/mochenyang/ForestIV)
+- Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. Mochen Yang, Edward McFowland III, Gordon Burtch, Gediminas Adomavicius. _under revision_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3339983) [[arXiv]](http://arxiv.org/abs/2012.10790) [[Code]](https://github.com/mochenyang/ForestIV) [[Code Demo]](https://mochenyang.github.io/mochenyangblog/research/2022/01/10/ForestIV.html)
 
 -----
 
