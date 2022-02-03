@@ -11,7 +11,6 @@ Making decisions in complex market mechanisms often requires one to process larg
 - Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _MIS Quarterly_, 43(3), 721-743, 2019. [[Journal Link]](https://misq.org/designing-real-time-feedback-for-bidders-in-homogeneous-item-continuous-combinatorial-auctions.html) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294392)
 - Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _Information Systems Research_, forthcoming. [[Journal Link]](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1068) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942011)
 - Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. Xuan Bi, Mochen Yang, Gediminas Adomavicius. _under revision_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3675644) [[Video]](https://youtu.be/xCEUXBzaPcw)
-- The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Mochen Yang, Xuan Bi. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 
 -----
 
@@ -32,8 +31,9 @@ Machine learning models (and algorithms in general) play an increasingly importa
 
 - Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research. Gediminas Adomavicius, Mochen Yang. _under revision_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446944)
 - Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study. Xue Tan, Mochen Yang, Gang Wang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566609)
-- When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Antino Kim, Mochen Yang, Jingjing Zhang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691575)
+- When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Antino Kim, Mochen Yang, Jingjing Zhang. _under revision_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691575) [[Presentation (by Antino Kim)]](https://www.youtube.com/watch?v=iZPmza7MIAI)
 - Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821)
+- The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Mochen Yang, Xuan Bi. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 
 -----
 
@@ -43,7 +43,7 @@ Machine learning models (and algorithms in general) play an increasingly importa
 My dissertation research investigates the interplay and relationships between digital content and engagement behaviors in business pages on social media, and the related challenges and opportunities for associated firms. Social media platforms such as Facebook empower individual users to interact with each other on firm-hosted business pages. Users can engage with the content created by the firms as well as by other users in multiple ways (liking, commenting, etc.). Such engagement behavior bears important consequences to business, yet its fundamental characteristics are not well-understood. My dissertation research investigates user engagement behaviors toward user-generated content on Facebook business pages. The dissertation can be accessed [here](http://hdl.handle.net/11299/199062).
 
 - Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _Information Systems Research_, 30(2), 839–855, 2019. [[Journal Link]](https://pubsonline.informs.org/doi/10.1287/isre.2019.0834) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3260294) [[Podcast]](https://pubsonline.informs.org/do/10.1287/orms.2019.06.27p/full/)
-- Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _ACM Transactions on Computer-Human Interaction (TOCHI)_, 27(6), 2020. [[Journal Link]](https://dl.acm.org/doi/10.1145/3412844) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660923) [[Video]](https://youtu.be/8CxNHMMxQ60)
-- Social Media to Engage the Global Market: Understanding Cultural Differences in User-Generated Posts on Facebook Business Pages. Yuqing Ren, Maria Rodas, Carlos Torelli, Mochen Yang. _under review_.
+- Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. Mochen Yang, Yuqing Ren, Gediminas Adomavicius. _ACM Transactions on Computer-Human Interaction (TOCHI)_, 27(6), 2020. [[Journal Link]](https://dl.acm.org/doi/10.1145/3412844) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3660923) [[Presentation]](https://youtu.be/8CxNHMMxQ60)
+- User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses. Xiaoye Cheng, Hillol Bala, Mochen Yang. _under revision_.
 
 -----
