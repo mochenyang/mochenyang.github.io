@@ -55,7 +55,7 @@ urlcolor: blue
 
 # JOURNAL PUBLICATIONS
 
-1.  Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Address Algorithmic Bias: Challenges and Opportunities for IS Research. ***ACM Transactions on Management Information Systems (TMIS)***, forthcoming.
+1.  Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Understand and Address Algorithmic Bias: A Human-Centric Perspective. ***ACM Transactions on Management Information Systems (TMIS)***, forthcoming.
 
 2.  Adomavicius G, Gupta A, & Yang M. Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework. ***Information Systems Research***, forthcoming.
 
