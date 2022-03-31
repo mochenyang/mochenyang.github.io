@@ -11,6 +11,7 @@ Making decisions in complex market mechanisms often requires one to process larg
 - Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _MIS Quarterly_, 43(3), 721-743, 2019. [[Journal Link]](https://misq.org/designing-real-time-feedback-for-bidders-in-homogeneous-item-continuous-combinatorial-auctions.html) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294392)
 - Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _Information Systems Research_, forthcoming. [[Journal Link]](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1068) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942011)
 - Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. Xuan Bi, Mochen Yang, Gediminas Adomavicius. _under revision_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3675644) [[Video]](https://youtu.be/xCEUXBzaPcw)
+- The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Mochen Yang, Xuan Bi. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 
 -----
 
@@ -33,7 +34,6 @@ Machine learning models (and algorithms in general) play an increasingly importa
 - Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study. Xue Tan, Mochen Yang, Gang Wang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566609)
 - When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Antino Kim, Mochen Yang, Jingjing Zhang. _under revision_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691575) [[Presentation (by Antino Kim)]](https://www.youtube.com/watch?v=iZPmza7MIAI)
 - Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821)
-- The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Mochen Yang, Xuan Bi. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 
 -----
 
