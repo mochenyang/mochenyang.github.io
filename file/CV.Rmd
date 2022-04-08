@@ -57,6 +57,8 @@ urlcolor: blue
 
 1.  Adomavicius G, Yang M. Integrating Behavioral, Economic, and Technical Insights to Understand and Address Algorithmic Bias: A Human-Centric Perspective. ***ACM Transactions on Management Information Systems (TMIS)***, forthcoming.
 
+    -   Selected Media Coverage: [The Carlson School Magazine (Spring 2022)](https://carlsonschool.umn.edu/magazine)
+
 2.  Adomavicius G, Gupta A, & Yang M. Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework. ***Information Systems Research***, forthcoming.
 
 3.  Yang M, Ren Y, & Adomavicius G. (2020) Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. ***ACM Transactions on Computer-Human Interaction (TOCHI)***, 27(6).
