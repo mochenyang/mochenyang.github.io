@@ -245,8 +245,19 @@ urlcolor: blue
 
 # STUDENT ADVISING
 
--   Xiaoye Cheng, Dissertation Committee Member, Indiana University, 2019
--   Sandeep Gangarapu, Dissertation Committee Member, University of Minnesota, In Progress
+**Doctoral Students**
+
+-   Sandeep Gangarapu, Dissertation Committee Member, In Progress
+-   Ramin Zandvakili, Second-Year Paper Committee, 2021
+-   Xiaoye Cheng, Dissertation Committee Member, 2019
+
+**Master Students**
+
+-   Tiruo Yan, MS in Data Science, Thesis Advisor, 2022
+
+**Undergraduate Students**
+
+-   Alex Dimitrov, Honors Thesis, Reader, 2022
 
 \hrulefill
 
