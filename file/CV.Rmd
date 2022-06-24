@@ -162,9 +162,9 @@ urlcolor: blue
 
 # INVITED TALKS AND SEMINARS
 
-1.  TBD, Lubar School of Business, University of Wisconsin-Milwaukee, 2022 (scheduled).
+1.  TBD, Wisconsin School of Business, University of Wisconsin-Madison, 2022 (scheduled).
 
-2.  TBD, Wisconsin School of Business, University of Wisconsin-Madison, 2022 (scheduled).
+2.  Artificial Intelligence and Analytics Symposium, Lubar School of Business, University of Wisconsin-Milwaukee, 2022.
 
 3.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. McCombs School of Business, University of Texas at Austin, 2022.
 
