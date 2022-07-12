@@ -32,7 +32,7 @@ Machine learning models (and algorithms in general) play an increasingly importa
 
 - Integrating Behavioral, Economic, and Technical Insights to Understand and Address Algorithmic Bias: A Human-Centric Perspective. Gediminas Adomavicius, Mochen Yang. _ACM Transactions on Management Information Systems (TMIS)_, 13(3), 1-27, 2022. [[Journal Link]](https://dl.acm.org/doi/10.1145/3519420) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446944)
 - Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study. Xue Tan, Mochen Yang, Gang Wang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566609)
-- When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Antino Kim, Mochen Yang, Jingjing Zhang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691575) [[Presentation (by Antino Kim)]](https://www.youtube.com/watch?v=iZPmza7MIAI)
+- When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Antino Kim, Mochen Yang, Jingjing Zhang. _ACM Transactions on Computer-Human Interaction (TOCHI)_, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691575) [[Presentation (by Antino Kim)]](https://www.youtube.com/watch?v=iZPmza7MIAI)
 - Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821)
 
 -----

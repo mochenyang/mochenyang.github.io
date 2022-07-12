@@ -55,27 +55,29 @@ urlcolor: blue
 
 # JOURNAL PUBLICATIONS
 
-1.  Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. ***INFORMS Journal on Data Science,** forthcoming*.
+1.  Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. ***ACM Transactions on Computer-Human Interaction (TOCHI)***, *forthcoming*.
 
-2.  Adomavicius G, Yang M. (2022). Integrating Behavioral, Economic, and Technical Insights to Understand and Address Algorithmic Bias: A Human-Centric Perspective. ***ACM Transactions on Management Information Systems (TMIS)***, 13(3), 1-27.
+2.  Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. ***INFORMS Journal on Data Science,** forthcoming*.
+
+3.  Adomavicius G, Yang M. (2022). Integrating Behavioral, Economic, and Technical Insights to Understand and Address Algorithmic Bias: A Human-Centric Perspective. ***ACM Transactions on Management Information Systems (TMIS)***, 13(3), 1-27.
 
     -   Selected Media Coverage: [The Carlson School Magazine (Spring 2022)](https://carlsonschool.umn.edu/magazine)
 
-3.  Adomavicius G, Gupta A, & Yang M. Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework. ***Information Systems Research***, forthcoming.
+4.  Adomavicius G, Gupta A, & Yang M. Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework. ***Information Systems Research***, forthcoming.
 
-4.  Yang M, Ren Y, & Adomavicius G. (2020) Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. ***ACM Transactions on Computer-Human Interaction (TOCHI)***, 27(6), 1-35.
+5.  Yang M, Ren Y, & Adomavicius G. (2020) Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages. ***ACM Transactions on Computer-Human Interaction (TOCHI)***, 27(6), 1-35.
 
     -   Selected Media Coverage: [Discover at Carlson](https://carlsonschool.umn.edu/news/wisdom-crowds-its-complicated)
 
-5.  Adomavicius G, Gupta A, & Yang M. (2019). Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. ***MIS Quarterly***, 43(3), 721-743.
+6.  Adomavicius G, Gupta A, & Yang M. (2019). Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. ***MIS Quarterly***, 43(3), 721-743.
 
-6.  Yang M, Adomavicius G, & Gupta A. (2019). Efficient Computational Strategies for Dynamic Inventory Liquidation. ***Information Systems Research***, 30(2), 595--615.
+7.  Yang M, Adomavicius G, & Gupta A. (2019). Efficient Computational Strategies for Dynamic Inventory Liquidation. ***Information Systems Research***, 30(2), 595--615.
 
-7.  Yang M, Ren Y, & Adomavicius G. (2019) Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. ***Information Systems Research***, 30(3), 839--855.
+8.  Yang M, Ren Y, & Adomavicius G. (2019) Understanding User-Generated Content and Customer Engagement on Facebook Business Pages. ***Information Systems Research***, 30(3), 839--855.
 
     -   Selected Media Coverage: [INFORMS Press Release](https://www.informs.org/About-INFORMS/News-Room/Press-Releases/New-Research-Shows-Negative-Posts-on-Facebook-Business-Pages-Outweigh-Positive-Posts-2-to-1-The-Impact-it-s-Having-on-Brands-and-Profitability), [INFORMS "Resoundingly Human" Podcast](https://pubsonline.informs.org/do/10.1287/orms.2019.06.27p/full/), [EurekAlert](https://eurekalert.org/pub_releases/2019-09/ifor-npo091319.php), [Tech Xplore](https://techxplore.com/news/2019-09-negative-facebook-business-pages-outweigh.html), [eurasia review](https://www.eurasiareview.com/14092019-negative-posts-on-facebook-business-pages-outweigh-positive-posts-2-to-1/), [EDWEEK Market Brief](https://marketbrief.edweek.org/marketplace-k-12/negative-posts-facebook-business-pages-outnumber-positive-2-1-research-says/)
 
-8.  Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. ***Information Systems Research***, 29(1), 4-24.
+9.  Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. ***Information Systems Research***, 29(1), 4-24.
 
     -   Featured Article
     -   Appears in [INFORMS Editor's Cut on Artificial Intelligence](https://pubsonline.informs.org/editorscut/AI-ML/data-analytics)
@@ -86,15 +88,13 @@ urlcolor: blue
 
 1.  Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations.
 
-2.  Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms.
+2.  Liu C, Yang M, Wen M. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash?
 
-3.  Liu C, Yang M, Wen M. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash?
+3.  Cheng X, Bala H, Yang M. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses.
 
-4.  Cheng X, Bala H, Yang M. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses.
+4.  Tan X, Yang M, Wang G. Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study.
 
-5.  Tan X, Yang M, Wang G. Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study.
-
-6.  Yang M, Bi X. The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma.
+5.  Yang M, Bi X. The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma.
 
 \hrulefill
 
