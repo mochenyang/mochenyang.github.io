@@ -79,7 +79,6 @@ urlcolor: blue
 
 9.  Yang M, Adomavicius G, Burtch G, & Ren Y. (2018). Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. ***Information Systems Research***, 29(1), 4-24.
 
-    -   Featured Article
     -   Appears in [INFORMS Editor's Cut on Artificial Intelligence](https://pubsonline.informs.org/editorscut/AI-ML/data-analytics)
 
 \hrulefill
