@@ -11,7 +11,7 @@ Making decisions in complex market mechanisms often requires one to process larg
 - Designing Real-Time Feedback for Bidders in Homogeneous-Item Continuous Combinatorial Auctions. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _MIS Quarterly_, 43(3), 721-743, 2019. [[Journal Link]](https://misq.org/designing-real-time-feedback-for-bidders-in-homogeneous-item-continuous-combinatorial-auctions.html) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294392)
 - Bidder Support in Multi-Item Multi-Unit Continuous Combinatorial Auctions: A Unifying Theoretical Framework. Gediminas Adomavicius, Alok Gupta, Mochen Yang. _Information Systems Research_, forthcoming. [[Journal Link]](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1068) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942011)
 - Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. Xuan Bi, Mochen Yang, Gediminas Adomavicius. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3675644) [[Video]](https://youtu.be/xCEUXBzaPcw)
-- The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Mochen Yang, Xuan Bi. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
+-  Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. Xuan Bi, Alok Gupta, Mochen Yang. _under review_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 
 -----
 
@@ -21,7 +21,7 @@ Making decisions in complex market mechanisms often requires one to process larg
 Supervised machine learning enables scalable and cost-effective extraction of useful information from (often unstructured) data, which can be subsequently used in econometric estimations. However, the estimations may suffer from bias due to imperfect machine learning predictions. The goal of this stream of research is to understand the nature of such bias, and design novel approaches to mitigate it. 
 
 - Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Mochen Yang, Gediminas Adomavicius, Gordon Burtch, Yuqing Ren. _Information Systems Research_, 29(1), 4-24, 2018. [[Journal Link]](https://pubsonline.informs.org/doi/full/10.1287/isre.2017.0727) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2960258)
-- Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. Mochen Yang, Edward McFowland III, Gordon Burtch, Gediminas Adomavicius. Forthcoming at _INFORMS Journal on Data Science_. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3339983) [[Code]](https://github.com/mochenyang/ForestIV) [[Code Demo]](https://mochenyang.github.io/mochenyangblog/research/2022/01/10/ForestIV.html)
+- Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. Mochen Yang, Edward McFowland III, Gordon Burtch, Gediminas Adomavicius. Forthcoming at _INFORMS Journal on Data Science_. [[Journal Link]](https://pubsonline.informs.org/doi/abs/10.1287/ijds.2022.0019) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3339983) [[Code]](https://github.com/mochenyang/ForestIV) [[Code Demo]](https://mochenyang.github.io/mochenyangblog/research/2022/01/10/ForestIV.html)
 
 -----
 

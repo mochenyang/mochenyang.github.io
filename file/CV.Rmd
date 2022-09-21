@@ -229,6 +229,7 @@ urlcolor: blue
 
 **Honors and Awards**
 
+-   INFORMS ISS Cluster Best Session Chair Award, 2022
 -   MSBA Outstanding Teacher Award (Core Course), 2022
 -   Best Reviewer Award, INFORMS Workshop on Data Science, 2021
 -   Best Reviewer Award, Conference on Information Systems and Technology (CIST), 2021
