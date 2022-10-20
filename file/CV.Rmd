@@ -110,7 +110,7 @@ urlcolor: blue
 
 2.  Burtch G, Yang M, McFowland E, Adomavicius G. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference.
 
-    -   [$\checkmark$]INFORMS Workshop on Data Science, Indianapolis, Indiana, 2022.
+    -   [$\checkmark$]INFORMS Workshop on Data Science, Indianapolis, Indiana, 2022. (**Best Paper Award**)
 
 3.  Yoon S, Subramani G, Subramani M, Yang M. The Effect of Peer-to-Peer Tangible Donation on Donors and Receivers Participation in Online Charity Platform.
 
