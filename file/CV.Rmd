@@ -97,6 +97,8 @@ urlcolor: blue
 
 6.  Burtch G, Yang M, McFowland E, Adomavicius G. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference.
 
+7.  Yang M, Bi X. Cost-Aware Calibration of Classifiers.
+
 \hrulefill
 
 # CONFERENCE PAPERS AND PRESENTATIONS
@@ -175,7 +177,7 @@ urlcolor: blue
 
 1.  TBD, School of Economics and Management, Tsinghua University, Virtual, 2022.
 
-2.  TBD, Wisconsin School of Business, University of Wisconsin-Madison, 2022 (scheduled).
+2.  Robust Statistical Inference with ML-Generated Variables, Wisconsin School of Business, University of Wisconsin-Madison, 2022.
 
 3.  Artificial Intelligence and Analytics Symposium, Lubar School of Business, University of Wisconsin-Milwaukee, 2022.
 
@@ -264,8 +266,10 @@ urlcolor: blue
 
 **Doctoral Students**
 
+-   Jinghui Zhang, visiting PhD scholar from Tsinghua University, 2022-2023
+-   Sojung Yoon, Second-Year Paper Committee, 2022
 -   Sojung Yoon, First-Year Exam Committee, 2022
--   Sandeep Gangarapu, Dissertation Committee Member, 2022
+-   Sandeep Gangarapu, Oral Prelim Committee Member, 2022
 -   Ramin Zandvakili, Second-Year Paper Committee, 2021
 -   Xiaoye Cheng, Dissertation Committee Member, 2019
 
@@ -306,6 +310,7 @@ urlcolor: blue
 -   Management Science
 -   Organization Science
 -   Production and Operations Management Journal
+-   INFORMS Journal on Data Science
 -   European Journal of Information Systems
 -   ACM Transactions on Management Information Systems
 -   Journal of Strategic Information Systems
