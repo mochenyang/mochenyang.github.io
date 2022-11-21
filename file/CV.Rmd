@@ -267,7 +267,6 @@ urlcolor: blue
 **Doctoral Students**
 
 -   Jinghui Zhang, visiting PhD scholar from Tsinghua University, 2022-2023
--   Sojung Yoon, Second-Year Paper Committee, 2022
 -   Sojung Yoon, First-Year Exam Committee, 2022
 -   Sandeep Gangarapu, Oral Prelim Committee Member, 2022
 -   Ramin Zandvakili, Second-Year Paper Committee, 2021
@@ -285,6 +284,10 @@ urlcolor: blue
 \hrulefill
 
 # SERVICE
+
+**Editorial Appointments**
+
+-   Editorial Review Board, Information Systems Research, 2022-2024
 
 **Conference Organization**
 
