@@ -175,7 +175,7 @@ urlcolor: blue
 
 # INVITED TALKS AND SEMINARS
 
-1.  TBD, School of Economics and Management, Tsinghua University, Virtual, 2022.
+1.  Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation, School of Economics and Management, Tsinghua University, Virtual, 2022.
 
 2.  Robust Statistical Inference with ML-Generated Variables, Wisconsin School of Business, University of Wisconsin-Madison, 2022.
 
