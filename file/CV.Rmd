@@ -57,7 +57,7 @@ urlcolor: blue
 
 1.  Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. ***ACM Transactions on Computer-Human Interaction (TOCHI)***, *forthcoming*.
 
-2.  Yang M, McFowland E, Burtch G, Adomavicius G. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. ***INFORMS Journal on Data Science,** forthcoming*.
+2.  Yang M, McFowland E, Burtch G, Adomavicius G (2022). Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. ***INFORMS Journal on Data Science,*** 1(2), 115-195.
 
 3.  Adomavicius G, Yang M. (2022). Integrating Behavioral, Economic, and Technical Insights to Understand and Address Algorithmic Bias: A Human-Centric Perspective. ***ACM Transactions on Management Information Systems (TMIS)***, 13(3), 1-27.
 
