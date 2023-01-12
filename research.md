@@ -9,6 +9,7 @@ title: Research
 1. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821)
 1. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses. Xiaoye Cheng, Hillol Bala, Mochen Yang.
 1. Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. Xuan Bi, Alok Gupta, Mochen Yang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
+1. Cost-Aware Calibration of Classifiers. Mochen Yang, Xuan Bi. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4270586)
 1. Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study. Xue Tan, Mochen Yang, Gang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566609)
 
 
