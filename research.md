@@ -11,6 +11,7 @@ title: Research
 1. Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. Xuan Bi, Alok Gupta, Mochen Yang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 1. Cost-Aware Calibration of Classifiers. Mochen Yang, Xuan Bi. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4270586)
 1. Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study. Xue Tan, Mochen Yang, Gang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566609)
+1. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference. Gordon Burtch, Edward McFowland III, Mochen Yang, Gediminas Adomavicius. [[ArXiv]](https://arxiv.org/abs/2303.02820)
 
 
 ## Publications
