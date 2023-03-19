@@ -57,7 +57,7 @@ urlcolor: blue
 
 1.  Travadi Y, Peng L, Bi X, Sun J, Yang, M. Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective. ***Statistics and Its Interface**, forthcoming*.
 
-2.  Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. ***ACM Transactions on Computer-Human Interaction (TOCHI)***, *forthcoming*.
+2.  Kim A, Yang M, Zhang J (2023). When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. ***ACM Transactions on Computer-Human Interaction (TOCHI)***, 30(1), 1-36.
 
 3.  Yang M, McFowland E, Burtch G, Adomavicius G (2022). Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. ***INFORMS Journal on Data Science,*** 1(2), 115-195.
 
