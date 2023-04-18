@@ -281,6 +281,7 @@ urlcolor: blue
 
 **Undergraduate Students**
 
+-   Andrius Adomavicius, Honors Thesis, Chair, 2023
 -   Alex Dimitrov, Honors Thesis, Reader, 2022
 
 \hrulefill
@@ -293,6 +294,7 @@ urlcolor: blue
 
 **Conference Organization**
 
+<!---   INFORMS Workshop on Data Science, 2023, Program Committee Chair -->
 -   INFORMS Annual Meeting, 2022, Session Chair (IS Cluster)
 -   Americas Conference on Information Systems, 2022, Workshop Co-Chair
 -   Workshop on Information Technologies and Systems, 2020, Webmaster
@@ -334,7 +336,7 @@ urlcolor: blue
 
 **Other Services**
 
--   Webmaster, INFORMS Information Systems Society, 2019-2023
+-   VP of Communications, INFORMS Information Systems Society, 2019-2023
 -   Diffusion Editor, Organization Science, 2021 - present
 
 \hrulefill
