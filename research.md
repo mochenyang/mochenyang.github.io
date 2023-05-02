@@ -5,7 +5,6 @@ title: Research
 
 ## Working Papers
 
-1. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821)
 1. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses. Xiaoye Cheng, Hillol Bala, Mochen Yang.
 1. Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. Xuan Bi, Alok Gupta, Mochen Yang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 1. Cost-Aware Calibration of Classifiers. Mochen Yang, Xuan Bi. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4270586)
@@ -15,6 +14,7 @@ title: Research
 
 ## Publications
 
+1. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. **Production and Operations Management**, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821)
 1. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. Xuan Bi, Mochen Yang, Gediminas Adomavicius. **Information Systems Research**, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3675644)
 1. Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective. Yash Travadi, Le Peng, Xuan Bi, Ju Sun, Mochen Yang. **Statistics and Its Interface**, forthcoming. [[arXiv]](https://arxiv.org/abs/2302.08976)
 1. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Antino Kim, Mochen Yang, Jingjing Zhang. **ACM Transactions on Computer-Human Interaction (TOCHI)**, 2023. [[Journal Link]](https://dl.acm.org/doi/10.1145/3557889) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691575) [[Presentation (by Antino Kim)]](https://www.youtube.com/watch?v=iZPmza7MIAI)
