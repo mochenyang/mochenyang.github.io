@@ -25,13 +25,14 @@ urlcolor: blue
 
 # ACADEMIC APPOINTMENTS
 
-**Carlson School of Management, University of Minnesota** \hfill 2019 - present
+**Carlson School of Management, University of Minnesota**
 
--   Assistant Professor, Department of Information and Decision Sciences
+-   Associate Professor, Department of Information and Decision Sciences \hfill 2023 - present
+-   Assistant Professor, Department of Information and Decision Sciences \hfill 2019 - 2023
 
-**Kelley School of Business, Indiana University** \hfill 2018 - 2019
+**Kelley School of Business, Indiana University**
 
--   Assistant Professor, Department of Operations & Decision Technologies
+-   Assistant Professor, Department of Operations & Decision Technologies \hfill 2018 - 2019
 
 \hrulefill
 
