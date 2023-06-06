@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "`r format(Sys.time(), '%B %Y')`"
 author: Mochen Yang
 
-jobtitle: "Assistant Professor, Carlson School of Management, University of Minnesota"
+jobtitle: "Associate Professor, Carlson School of Management, University of Minnesota"
 address: "CSOM 3-151, 321 19th Ave S, Minneapolis, MN"
 #fontawesome: yes
 email: yang3653@umn.edu
