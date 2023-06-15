@@ -14,7 +14,7 @@ title: Research
 
 ## Publications
 
-1. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. **Production and Operations Management**, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821)
+1. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. **Production and Operations Management**, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821) [[Journal Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.14029)
 1. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. Xuan Bi, Mochen Yang, Gediminas Adomavicius. **Information Systems Research**, forthcoming. [[Journal Link]](https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.1229) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3675644)
 1. Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective. Yash Travadi, Le Peng, Xuan Bi, Ju Sun, Mochen Yang. **Statistics and Its Interface**, forthcoming. [[arXiv]](https://arxiv.org/abs/2302.08976)
 1. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms. Antino Kim, Mochen Yang, Jingjing Zhang. **ACM Transactions on Computer-Human Interaction (TOCHI)**, 2023. [[Journal Link]](https://dl.acm.org/doi/10.1145/3557889) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691575) [[Presentation (by Antino Kim)]](https://www.youtube.com/watch?v=iZPmza7MIAI)
