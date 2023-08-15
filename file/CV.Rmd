@@ -276,6 +276,7 @@ urlcolor: blue
 
 **Doctoral Students**
 
+-   Liben Chen, Second-Year Paper Committee, 2024
 -   Jinghui Zhang, visiting PhD scholar from Tsinghua University, 2022-2023
 -   Sojung Yoon, First-Year Exam Committee, 2022
 -   Sandeep Gangarapu, Oral Prelim Committee Member, 2022
@@ -302,7 +303,7 @@ urlcolor: blue
 
 **Conference / Workshop Organization**
 
--   INFORMS Workshop on Data Science, 2023, Program Committee Chair
+-   INFORMS Workshop on Data Science, 2023, Program Committee Co-Chair
 -   INFORMS Annual Meeting, 2022, Session Chair (IS Cluster)
 -   Americas Conference on Information Systems, 2022, Workshop Co-Chair
 -   Workshop on Information Technologies and Systems, 2020, Webmaster
