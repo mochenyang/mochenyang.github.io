@@ -245,6 +245,7 @@ urlcolor: blue
 
 **Honors and Awards**
 
+-   Carlson School of Management Outstanding Research Award, 2023
 -   MSBA Faculty of the Year (Foundational Course), 2023
 -   INFORMS ISS Cluster Best Session Chair Award, 2022
 -   MSBA Outstanding Teacher Award (Core Course), 2022
