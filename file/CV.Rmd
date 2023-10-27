@@ -303,6 +303,7 @@ urlcolor: blue
 **Editorial Appointments**
 
 -   Editorial Review Board, Information Systems Research, 2022-2024
+-   Associate Editor, INFORMS Journal on Data Science, 2023-2026
 
 **Conference / Workshop Organization**
 
