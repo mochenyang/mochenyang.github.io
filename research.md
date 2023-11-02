@@ -13,7 +13,7 @@ title: Research
 
 ## Publications
 
-1. Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. Xuan Bi, Alok Gupta, Mochen Yang. **Management Science**, forthcoming. [[Hournal Link]](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.00611) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
+1. Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. Xuan Bi, Alok Gupta, Mochen Yang. **Management Science**, forthcoming. [[Journal Link]](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.00611) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 1. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses. Xiaoye Cheng, Hillol Bala, Mochen Yang. **MIS Quarterly**, forthcoming.
 1. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. **Production and Operations Management**, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821) [[Journal Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.14029)
 1. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. Xuan Bi, Mochen Yang, Gediminas Adomavicius. **Information Systems Research**, forthcoming. [[Journal Link]](https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.1229) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3675644)
