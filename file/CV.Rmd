@@ -60,7 +60,7 @@ urlcolor: blue
 
 2.  Cheng X, Bala H, Yang M. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses. ***MIS Quarterly***, *forthcoming*.
 
-3.  Liu C, Yang M, Wen M. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? ***Production and Operations Management***, *forthcoming*.
+3.  Liu C, Yang M, Wen M (2023). Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? ***Production and Operations Management***, 32(10), 3174-3192.
 
 4.  Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. ***Information Systems Research***, *forthcoming*.
 
