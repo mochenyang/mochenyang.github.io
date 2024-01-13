@@ -184,37 +184,39 @@ urlcolor: blue
 
 # INVITED TALKS AND SEMINARS
 
-1.  Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation, School of Economics and Management, Tsinghua University, Virtual, 2022.
+1.  TBD, Michael G. Foster School of Business, University of Washington, 2024 (scheduled).
 
-2.  Robust Statistical Inference with ML-Generated Variables, Wisconsin School of Business, University of Wisconsin-Madison, 2022.
+2.  Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation, School of Economics and Management, Tsinghua University, Virtual, 2022.
 
-3.  Artificial Intelligence and Analytics Symposium, Lubar School of Business, University of Wisconsin-Milwaukee, 2022.
+3.  Robust Statistical Inference with ML-Generated Variables, Wisconsin School of Business, University of Wisconsin-Madison, 2022.
 
-4.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. McCombs School of Business, University of Texas at Austin, 2022.
+4.  Artificial Intelligence and Analytics Symposium, Lubar School of Business, University of Wisconsin-Milwaukee, 2022.
 
-5.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. IDSc Departmental Friday Seminar, 2022.
+5.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. McCombs School of Business, University of Texas at Austin, 2022.
 
-6.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Carlson School Summer Applied Economics Seminar Series, 2021.
+6.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. IDSc Departmental Friday Seminar, 2022.
 
-7.  Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
+7.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Carlson School Summer Applied Economics Seminar Series, 2021.
 
-8.  Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
+8.  Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
 
-9.  Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
+9.  Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
 
-10. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
+10. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
 
-11. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
+11. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
 
-12. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
+12. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
 
-13. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
+13. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
 
-14. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
+14. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
 
-15. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (***FARCON***), MinneAnalytics, 2017.
+15. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
 
-16. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (***SOBACO***) Symposium, Carlson School of Management, 2015.
+16. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (***FARCON***), MinneAnalytics, 2017.
+
+17. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (***SOBACO***) Symposium, Carlson School of Management, 2015.
 
 \hrulefill
 
@@ -226,6 +228,7 @@ urlcolor: blue
 -   MSBA 6440: Causal Inference via Econometrics and Experiments
 -   MSBA 6460: Advanced AI for Business Application
 -   CHEMBA Residency Program: Business Analytics
+-   Executive Education: Business Analytics for Leaders
 
 **Teaching at Indiana University**
 
@@ -266,6 +269,7 @@ urlcolor: blue
 
 **Grants**
 
+-   Dean's Small Grant for Teaching Innovation, Carlson School of Management, 2023-2024 (\$7500)
 -   "Understanding and Improving Federated Learning in Healthcare", Cisco Research, 2021-2022 (\$137,000, co-PI with Xuan Bi)
 -   Research Data Grant, Kelley School of Business, Fall 2018 (\$1800)
 -   Graduate School Dissertation Fellowship travel grant, Fall 2017 (\$1000)
@@ -293,8 +297,7 @@ urlcolor: blue
 
 **Undergraduate Students**
 
--   Andrius Adomavicius, Honors Thesis, Chair, 2023
--   Alex Dimitrov, Honors Thesis, Reader, 2022
+-   Undergraduate Honors Thesis: Andrius Adomavicius (2023), Jacob Hoogenakker (2024), Ava Nadjari (2024), Devin Prow (2024).
 
 \hrulefill
 
