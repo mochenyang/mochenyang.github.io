@@ -62,6 +62,8 @@ urlcolor: blue
 
 3.  Liu C, Yang M, Wen M (2023). Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? ***Production and Operations Management***, 32(10), 3174-3192.
 
+    -   Selected Media Coverage: [StarTribune](https://www.startribune.com/robo-advisor-robot-financial-stock-portfolio-market-downturn-crash-university-minnesota/600359833/)
+
 4.  Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Evaluations. ***Information Systems Research***, *forthcoming*.
 
 5.  Travadi Y, Peng L, Bi X, Sun J, Yang, M. Welfare and Fairness Dynamics in Federated Learning: A Client Selection Perspective. ***Statistics and Its Interface***, *forthcoming*.
@@ -96,13 +98,15 @@ urlcolor: blue
 
 # WORKING PAPERS
 
-1.  Tan X, Yang M, Wang G. Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study.
+1.  Burtch G, Yang M, McFowland E, Adomavicius G. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference.
 
-2.  Burtch G, Yang M, McFowland E, Adomavicius G. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference.
+2.  Yang M, Bi X. Cost-Aware Calibration of Classifiers.
 
-3.  Yang M, Bi X. Cost-Aware Calibration of Classifiers.
+3.  Zhang J, Yang M, Bi X, Wei Q. Algorithmic Governance of Two-Sided Platforms: the Case of Short Video Recommendation.
 
-4.  Zhang J, Yang M, Bi X, Wei Q. Algorithmic Governance of Two-Sided Platforms: the Case of Short Video Recommendation.
+4.  Shi B, Mao X, Yang M, Li B. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning.
+
+5.  Wang W, Yang M, Sun T. Human-AI Co-Creation in Product Ideation: the Dual View of Quality and Diversity.
 
 \hrulefill
 
@@ -186,9 +190,9 @@ urlcolor: blue
 
 1.  Generative AI in Research and Teaching, DBA Research Day, Metropolitan State University (St. Paul), 2024.
 
-2.  TBD, McIntire School of Commerce, University of Virginia, 2024.
+2.  What We Cannot Do with AI Models We Don't (Yet) Have, McIntire School of Commerce, University of Virginia, 2024.
 
-3.  TBD, Michael G. Foster School of Business, University of Washington, 2024.
+3.  What We Cannot Do with AI Models We Don't (Yet) Have, Michael G. Foster School of Business, University of Washington, 2024.
 
 4.  Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation, School of Economics and Management, Tsinghua University, Virtual, 2022.
 
@@ -228,9 +232,9 @@ urlcolor: blue
 
 **Teaching at University of Minnesota**
 
--   MSBA 6130: Introduction to Business Analytics in R
+-   MSBA 6131: Introduction to Business Analytics in R
 -   MSBA 6440: Causal Inference via Econometrics and Experiments
--   MSBA 6460: Advanced AI for Business Application
+-   MSBA 6461: Advanced AI for Business Application
 -   CHEMBA Residency Program: Business Analytics
 -   Executive Education: Business Analytics for Leaders
 
@@ -301,7 +305,7 @@ urlcolor: blue
 
 **Undergraduate Students**
 
--   Undergraduate Honors Thesis: Andrius Adomavicius (2023), Jacob Hoogenakker (2024), Ava Nadjari (2024), Devin Prow (2024).
+-   Undergraduate Honors Thesis: Andrius Adomavicius (2023), Jacob Hoogenakker (2024).
 
 \hrulefill
 
