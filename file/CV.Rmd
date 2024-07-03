@@ -108,7 +108,7 @@ urlcolor: blue
 
 5.  Wang W, Yang M, Sun T. Human-AI Co-Creation in Product Ideation: the Dual View of Quality and Diversity.
 
-6.  Zhang J, Qiao D, Yang M. Regurgitative Training: The Value of Authentic Data in Training Large Language Models.
+6.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Real Data in Training Large Language Models.
 
 \hrulefill
 
@@ -116,7 +116,7 @@ urlcolor: blue
 
 (presentations marked by [$\checkmark$])
 
-1.  Zhang J, Qiao D, Yang M. Regurgitative Training: The Value of Authentic Data in Training Large Language Models.
+1.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Authentic Data in Training Large Language Models.
 
     -   [$\checkmark$] Summer Workshop on AI for Business, Shanghai, China, 2024.
 

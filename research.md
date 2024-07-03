@@ -5,12 +5,12 @@ title: Research
 
 ## Working Papers
 
+1. Regurgitative Training: The Value of Real Data in Training Large Language Models. Jinghui Zhang, Dandan Qiao, Mochen Yang, Qiang Wei. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870843) [[ArXiv]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870843)
 1. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning. Bowen Shi, Xiaojie Mao, Mochen Yang, Bo Li. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4677153) [[code]](https://github.com/onlooker3/DML_empirical)
 1. Human-AI Co-Creation in Product Ideation: the Dual View of Quality and Diversity. Wen Wang, Mochen Yang, Tianshu Sun. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668241)
 1. Algorithmic Governance via Recommender Systems: The Case of Short Video Platform. Jinghui Zhang, Mochen Yang, Xuan Bi, Qiang Wei. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4572513)
 1. Cost-Aware Calibration of Classifiers. Mochen Yang, Xuan Bi. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4270586)
 1. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference. Gordon Burtch, Edward McFowland III, Mochen Yang, Gediminas Adomavicius. [[ArXiv]](https://arxiv.org/abs/2303.02820)
-1. Promoting Algorithm Adoption in the Presence of Human Experts: A Field Study. Xue Tan, Mochen Yang, Gang Wang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3566609)
 
 
 ## Publications
