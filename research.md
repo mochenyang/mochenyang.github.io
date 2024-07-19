@@ -5,7 +5,7 @@ title: Research
 
 ## Working Papers
 
-1. Regurgitative Training: The Value of Real Data in Training Large Language Models. Jinghui Zhang, Dandan Qiao, Mochen Yang, Qiang Wei. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870843) [[ArXiv]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870843)
+1. Regurgitative Training: The Value of Real Data in Training Large Language Models. Jinghui Zhang, Dandan Qiao, Mochen Yang, Qiang Wei. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870843) [[ArXiv]](http://arxiv.org/abs/2407.12835)
 1. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning. Bowen Shi, Xiaojie Mao, Mochen Yang, Bo Li. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4677153) [[code]](https://github.com/onlooker3/DML_empirical)
 1. Human-AI Co-Creation in Product Ideation: the Dual View of Quality and Diversity. Wen Wang, Mochen Yang, Tianshu Sun. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668241)
 1. Algorithmic Governance via Recommender Systems: The Case of Short Video Platform. Jinghui Zhang, Mochen Yang, Xuan Bi, Qiang Wei. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4572513)
