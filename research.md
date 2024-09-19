@@ -9,12 +9,12 @@ title: Research
 1. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning. Bowen Shi, Xiaojie Mao, Mochen Yang, Bo Li. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4677153) [[code]](https://github.com/onlooker3/DML_empirical)
 1. Human-AI Co-Creation in Product Ideation: the Dual View of Quality and Diversity. Wen Wang, Mochen Yang, Tianshu Sun. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668241)
 1. Algorithmic Governance via Recommender Systems: The Case of Short Video Platform. Jinghui Zhang, Mochen Yang, Xuan Bi, Qiang Wei. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4572513)
-1. Cost-Aware Calibration of Classifiers. Mochen Yang, Xuan Bi. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4270586)
 1. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference. Gordon Burtch, Edward McFowland III, Mochen Yang, Gediminas Adomavicius. [[ArXiv]](https://arxiv.org/abs/2303.02820)
 
 
 ## Publications
 
+1. Cost-Aware Calibration of Classifiers. Mochen Yang, Xuan Bi. **INFORMS Journal on Data Science**, forthcoming. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4270586)
 1. Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. Xuan Bi, Alok Gupta, Mochen Yang. **Management Science**, 2023. [[Journal Link]](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.00611) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986446)
 1. User Engagement on Social Media Business Pages: The Interplay between User Comments and Firm Responses. Xiaoye Cheng, Hillol Bala, Mochen Yang. **MIS Quarterly**, forthcoming.
 1. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash? Che-Wei Liu, Mochen Yang, Ming-Hui Wen. **Production and Operations Management**, 2023. [[Journal Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.14029) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737821) 
