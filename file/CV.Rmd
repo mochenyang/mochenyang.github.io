@@ -122,6 +122,8 @@ urlcolor: blue
 
 2.  Chen L, Yang M, Adomavicius G. Self-Consistent Machine Learning: An Ensemble Smoothing Approach Based on Prediction Confidence
 
+    -   Workshop on Information Technologies and Systems (***WITS***), Thailand, 2024.
+
     -   Conference on Information Systems and Technology (***CIST***), Seattle, Washington, 2024.
 
     -   INFORMS Workshop on Data Science, Seattle, Washington, 2024.
@@ -213,43 +215,45 @@ urlcolor: blue
 
 # INVITED TALKS AND SEMINARS
 
-1.  What We Cannot Do with AI Models We Don't (Yet) Have, Michael G. Foster School of Business, University of Washington, 2024.
+1.  Robust Statistical Inference with ML-Generated Variables, Center for Computational Social Science and Humanities, National University of Singapore , 2024.
 
-2.  What We Cannot Do with AI Models We Don't (Yet) Have, McIntire School of Commerce, University of Virginia, 2024.
+2.  What We Cannot Do with AI Models We Don't (Yet) Have, Michael G. Foster School of Business, University of Washington, 2024.
 
-3.  Generative AI in Research and Teaching, DBA Research Day, Metropolitan State University (St. Paul), 2024.
+3.  What We Cannot Do with AI Models We Don't (Yet) Have, McIntire School of Commerce, University of Virginia, 2024.
 
-4.  Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation, School of Economics and Management, Tsinghua University, Virtual, 2022.
+4.  Generative AI in Research and Teaching, DBA Research Day, Metropolitan State University (St. Paul), 2024.
 
-5.  Robust Statistical Inference with ML-Generated Variables, Wisconsin School of Business, University of Wisconsin-Madison, 2022.
+5.  Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation, School of Economics and Management, Tsinghua University, Virtual, 2022.
 
-6.  Artificial Intelligence and Analytics Symposium, Lubar School of Business, University of Wisconsin-Milwaukee, 2022.
+6.  Robust Statistical Inference with ML-Generated Variables, Wisconsin School of Business, University of Wisconsin-Madison, 2022.
 
-7.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. McCombs School of Business, University of Texas at Austin, 2022.
+7.  Artificial Intelligence and Analytics Symposium, Lubar School of Business, University of Wisconsin-Milwaukee, 2022.
 
-8.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. IDSc Departmental Friday Seminar, 2022.
+8.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. McCombs School of Business, University of Texas at Austin, 2022.
 
-9.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Carlson School Summer Applied Economics Seminar Series, 2021.
+9.  Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. IDSc Departmental Friday Seminar, 2022.
 
-10. Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
+10. Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Carlson School Summer Applied Economics Seminar Series, 2021.
 
-11. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
+11. Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
 
-12. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
+12. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
 
-13. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
+13. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
 
-14. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
+14. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
 
-15. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
+15. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
 
-16. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
+16. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
 
-17. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
+17. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
 
-18. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (***FARCON***), MinneAnalytics, 2017.
+18. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
 
-19. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (***SOBACO***) Symposium, Carlson School of Management, 2015.
+19. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (***FARCON***), MinneAnalytics, 2017.
+
+20. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (***SOBACO***) Symposium, Carlson School of Management, 2015.
 
 \hrulefill
 
@@ -283,6 +287,7 @@ urlcolor: blue
 
 **Honors and Awards**
 
+-   Carlson School of Management Outstanding Teaching Award, 2024
 -   MSBA Faculty of the Year (Foundation Course), 2024
 -   INFORMS Information Systems Society (ISS) Gordon B Davis Young Scholar Award, 2023
 -   Carlson School of Management Outstanding Research Award, 2023
