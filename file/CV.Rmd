@@ -348,6 +348,7 @@ urlcolor: blue
 
 **Editorial Appointments**
 
+-   Associate Editor, Information Systems Research, 2025-2027
 -   Editorial Review Board, Information Systems Research, 2022-2024
 -   Associate Editor, INFORMS Journal on Data Science, 2023-2026
 
