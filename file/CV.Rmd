@@ -112,6 +112,8 @@ urlcolor: blue
 
 5.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Real Data in Training Large Language Models.
 
+6.  Adomavicius G, Gupta A, Yang M. Improving Convergence of Flexible Combinatorial Auctions with Rationality-Based Ask Prices.
+
 \hrulefill
 
 # CONFERENCE PAPERS AND PRESENTATIONS
