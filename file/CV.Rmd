@@ -108,11 +108,9 @@ urlcolor: blue
 
 3.  Shi B, Mao X, Yang M, Li B. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning.
 
-4.  Wang W, Yang M, Sun T. Human-AI Co-Creation in Product Ideation: the Dual View of Quality and Diversity.
+4.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Real Data in Training Large Language Models.
 
-5.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Real Data in Training Large Language Models.
-
-6.  Adomavicius G, Gupta A, Yang M. Improving Convergence of Flexible Combinatorial Auctions with Rationality-Based Ask Prices.
+5.  Adomavicius G, Gupta A, Yang M. Improving Convergence of Flexible Combinatorial Auctions with Rationality-Based Ask Prices.
 
 \hrulefill
 
@@ -120,11 +118,15 @@ urlcolor: blue
 
 (presentations marked by [$\checkmark$])
 
-1.  Cho M, Yang M, Curley S. The Past Tense of "Feel" is "Feeled": The Effect of Generative AI Decision Aid on Conformity.
+1.  Liu H, Adomavicius G, Yang M. Just Because You Can Doesn't Mean You Should: LLM for Data Fitting
+
+    -   Statistical Challenges in Electronic Commerce Research (***SCECR***), Paphos, Cyprus, 2025.
+
+2.  Cho M, Yang M, Curley S. The Past Tense of "Feel" is "Feeled": The Effect of Generative AI Decision Aid on Conformity.
 
     -   Conference on Information Systems and Technology (***CIST***), Seattle, Washington, 2024.
 
-2.  Chen L, Yang M, Adomavicius G. Self-Consistent Machine Learning: An Ensemble Smoothing Approach Based on Prediction Confidence
+3.  Chen L, Yang M, Adomavicius G. Self-Consistent Machine Learning: An Ensemble Smoothing Approach Based on Prediction Confidence
 
     -   Workshop on Information Technologies and Systems (***WITS***), Thailand, 2024.
 
@@ -132,17 +134,13 @@ urlcolor: blue
 
     -   INFORMS Workshop on Data Science, Seattle, Washington, 2024.
 
-3.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Authentic Data in Training Large Language Models.
+4.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Authentic Data in Training Large Language Models.
 
     -   [$\checkmark$] Summer Workshop on AI for Business, Shanghai, China, 2024.
 
-4.  Shi B, Mao X, Yang M, Li B. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning.
+5.  Shi B, Mao X, Yang M, Li B. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning.
 
     -   Summer Workshop on AI for Business, Shanghai, China, 2024.
-
-5.  Wang W, Yang M, Sun T. Human-AI Co-Creation in Product Ideation: the Dual View of Quality and Diversity.
-
-    -   [$\checkmark$] POMS Conference, Minneapolis, Minnesota, 2024.
 
 6.  Zhang J, Yang M, Bi X, Wei Q. Algorithmic Governance of Two-Sided Platforms: the Case of Short Video Recommendation.
 
