@@ -112,21 +112,32 @@ urlcolor: blue
 
 5.  Adomavicius G, Gupta A, Yang M. Improving Convergence of Flexible Combinatorial Auctions with Rationality-Based Ask Prices.
 
+6.  Liu H, Yang M, Adomavicius G. Robustness is Important: Limitations of LLMs for Data Fitting.
+
 \hrulefill
 
 # CONFERENCE PAPERS AND PRESENTATIONS
 
 (presentations marked by [$\checkmark$])
 
-1.  Liu H, Adomavicius G, Yang M. Just Because You Can Doesn't Mean You Should: LLM for Data Fitting
+1.  Cho M, Gupta A, Yang M. "We can know more than we can tell,"" but can LLMs tell it? Using LLMs for Tacit Knowledge Transfer.
+
+    -   Conference on Information Systems and Technology (***CIST***), Atlanta, Georgia, 2025.
+
+2.  Zhang X, Dou Y, Bi X, Yang M. Prompt Engineering vs. Fine-Tuning: Managing Revenue Sharing and Technology Configuration on Foundation Model Platforms.
+
+    -   Conference on Information Systems and Technology (***CIST***), Atlanta, Georgia, 2025.
+
+3.  Liu H, Adomavicius G, Yang M. Just Because You Can Doesn't Mean You Should: LLM for Data Fitting
 
     -   Statistical Challenges in Electronic Commerce Research (***SCECR***), Paphos, Cyprus, 2025.
+    -   Summer Workshop on AI for Business, Hefei, China, 2024.
 
-2.  Cho M, Yang M, Curley S. The Past Tense of "Feel" is "Feeled": The Effect of Generative AI Decision Aid on Conformity.
+4.  Cho M, Yang M, Curley S. The Past Tense of "Feel" is "Feeled": The Effect of Generative AI Decision Aid on Conformity.
 
     -   Conference on Information Systems and Technology (***CIST***), Seattle, Washington, 2024.
 
-3.  Chen L, Yang M, Adomavicius G. Self-Consistent Machine Learning: An Ensemble Smoothing Approach Based on Prediction Confidence
+5.  Chen L, Yang M, Adomavicius G. Self-Consistent Machine Learning: An Ensemble Smoothing Approach Based on Prediction Confidence
 
     -   Workshop on Information Technologies and Systems (***WITS***), Thailand, 2024.
 
@@ -134,82 +145,82 @@ urlcolor: blue
 
     -   INFORMS Workshop on Data Science, Seattle, Washington, 2024.
 
-4.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Authentic Data in Training Large Language Models.
+6.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Authentic Data in Training Large Language Models.
 
     -   [$\checkmark$] Summer Workshop on AI for Business, Shanghai, China, 2024.
 
-5.  Shi B, Mao X, Yang M, Li B. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning.
+7.  Shi B, Mao X, Yang M, Li B. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning.
 
     -   Summer Workshop on AI for Business, Shanghai, China, 2024.
 
-6.  Zhang J, Yang M, Bi X, Wei Q. Algorithmic Governance of Two-Sided Platforms: the Case of Short Video Recommendation.
+8.  Zhang J, Yang M, Bi X, Wei Q. Algorithmic Governance of Two-Sided Platforms: the Case of Short Video Recommendation.
 
     -   POMS Conference, Minneapolis, Minnesota, 2024.
     -   INFORMS Annual Meeting, Phoenix, Arizona, 2023.
 
-7.  Zandvakili R, Chan J, Hedgcock W, Yang M. Predicting Customers' Recall Using Psychophysiological Measures.
+9.  Zandvakili R, Chan J, Hedgcock W, Yang M. Predicting Customers' Recall Using Psychophysiological Measures.
 
     -   INFORMS Annual Meeting, Indianapolis, Indiana, 2022.
     -   Conference on Digital Experimentation (***CODE***), Boston, Massachusetts, 2022.
 
-8.  Burtch G, Yang M, McFowland E, Adomavicius G. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference.
+10. Burtch G, Yang M, McFowland E, Adomavicius G. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference.
 
     -   [$\checkmark$] INFORMS Workshop on Data Science, Indianapolis, Indiana, 2022. (**Best Paper Award**)
 
-9.  Yoon S, Subramani G, Subramani M, Yang M. The Effect of Peer-to-Peer Tangible Donation on Donors and Receivers Participation in Online Charity Platform.
+11. Yoon S, Subramani G, Subramani M, Yang M. The Effect of Peer-to-Peer Tangible Donation on Donors and Receivers Participation in Online Charity Platform.
 
     -   International Conference on Information Systems (***ICIS***), Copenhagen, Denmark, 2022.
     -   Statistical Challenges in Electronic Commerce Research (***SCECR***), Madrid, Spain, 2022.
 
-10. Liu C, Yang M, Wen M. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash?
+12. Liu C, Yang M, Wen M. Judge Me on My Losers: Does Adaptive Robo-Advisors Outperform Human Investors during the COVID-19 Financial Market Crash?
 
     -   Conference on Information Systems and Technology (***CIST***), Newport Beach, California, 2021.
 
-11. Yang M, Bi X. The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma.
+13. Yang M, Bi X. The Goldilocks Principle of Cooperation: Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma.
 
     -   [$\checkmark$] China Summer Workshop on Information Management (***CSWIM***), Virtual, 2021.
     -   [$\checkmark$] Conference on Information Systems and Technology (***CIST***), Newport Beach, California, 2021.
 
-12. Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms.
+14. Kim A, Yang M, Zhang J. When Algorithms Err: Differential Impact of Early vs. Late Errors on Users' Reliance on Algorithms.
 
     -   [$\checkmark$] Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Virtual, 2020.
     -   Conference on Information Systems and Technology (***CIST***), Virtual, 2020.
 
-13. Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Validations.
+15. Bi X, Yang M, Adomavicius G. Consumer Acquisitions for Recommender Systems: A Theoretical Framework and Empirical Validations.
 
     -   [$\checkmark$] Workshop on Information Technologies and Systems (***WITS***), Virtual, 2020.
     -   [$\checkmark$] INFORMS Annual Meeting, Virtual, 2020.
     -   Winter Conference on Business Analytics (***WCBA***), Snowbird, Utah, 2020.
 
-14. Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
+16. Tan X, Yang M, Wang G. Managing Adoption of Artificial Intelligence in the Presence of Human Intelligence: A Field Study.
 
     -   Conference on Artificial Intelligence, Machine Learning, and Business Analytics, Philadelphia, Pennsylvania, 2019.
 
-15. Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables via Random Forest to Address Endogeneity due to Prediction Error in Data-Mined Variables.
+17. Yang M, McFowland E, Burtch G, Adomavicius G. Seeing the Forest for the Trees: Generating Instrumental Variables via Random Forest to Address Endogeneity due to Prediction Error in Data-Mined Variables.
 
     -   Winter Conference on Business Analytics (***WCBA***), Snowbird, Utah, 2019.
     -   [$\checkmark$] Conference on Digital Experimentation (***CODE***), Boston, Massachusetts, 2018.
     -   [$\checkmark$] INFORMS Workshop on Data Science, Phoenix, Arizona, 2018. (**Best Paper Nomination**)
 
-16. Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages.
+18. Yang M, Ren Y, & Adomavicius G. Engagement by Design: An Empirical Study of the "Reactions" Feature on Facebook Business Pages.
 
     -   [$\checkmark$] Workshop on Information Technologies and Systems (***WITS***), Seoul, Korea, 2017.
     -   [$\checkmark$] Conference on Information Systems and Technology (***CIST***), Houston, Texas, 2017.
     -   [$\checkmark$] Winter Conference on Business Analytics (***WCBA***), Snowbird, Utah, 2017.
 
-17. Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions.
+19. Adomavicius G, Gupta A, & Yang M. Providing Real-Time Bidder Support in Homogeneous Item Combinatorial Auctions.
 
     -   [$\checkmark$] Workshop on Information Technologies and Systems (***WITS***), Dublin, Ireland, 2016.
 
-18. Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning.
+20. Yang M, Adomavicius G, Burtch G, & Ren Y. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Machine Learning.
 
     -   [$\checkmark$] Winter Conference on Business Intelligence (***WCBI***), Snowbird, Utah, 2016.
 
-19. Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquidation.
+21. Adomavicius G, Gupta A, & Yang M. Computational Strategies for Inventory Liquidation.
 
     -   [$\checkmark$] Workshop on Information Technologies and Systems (***WITS***), Dallas, Texas, 2015.
 
-20. Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages.
+22. Yang M, Ren Y, & Adomavicius G. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages.
 
     -   [$\checkmark$] Conference on Information Systems and Technology (***CIST***), San Francisco, California, 2014.
 
