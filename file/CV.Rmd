@@ -228,49 +228,59 @@ urlcolor: blue
 
 # INVITED TALKS AND SEMINARS
 
-1.  Robust Statistical Inference with ML-Generated Variables. Center for Computational Social Science and Humanities, National University of Singapore, 2025.
+1.  What LLMs Can't Do. Fox School of Business, Temple University, 2025.
 
-2.  Regurgitative Training: The Value of Real Data in Training Large Language Models. Lubar College of Business, University of Wisconsin-Milwaukee, 2025.
+2.  What LLMs Can't Do. Simon School of Business, University of Rochester, 2025.
 
-3.  Regurgitative Training: The Value of Real Data in Training Large Language Models. School of Management, Fudan University, 2025.
+3.  What LLMs Can't Do. W. P. Carey School of Business, Arizona State University, 2025.
 
-4.  What We Cannot Do with AI Models We Don't (Yet) Have. Michael G. Foster School of Business, University of Washington, 2024.
+4.  What LLMs Can't Do. Tippie College of Business, University of Iowa, 2025.
 
-5.  What We Cannot Do with AI Models We Don't (Yet) Have. McIntire School of Commerce, University of Virginia, 2024.
+5.  What LLMs Can't Do. McCombs School of Business, University of Texas at Austin, 2025.
 
-6.  Generative AI in Research and Teaching. DBA Research Day, Metropolitan State University (St. Paul), 2024.
+6.  Robust Statistical Inference with ML-Generated Variables. Center for Computational Social Science and Humanities, National University of Singapore, 2025.
 
-7.  Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. School of Economics and Management, Tsinghua University, Virtual, 2022.
+7.  Regurgitative Training: The Value of Real Data in Training Large Language Models. Lubar College of Business, University of Wisconsin-Milwaukee, 2025.
 
-8.  Robust Statistical Inference with ML-Generated Variables. Wisconsin School of Business, University of Wisconsin-Madison, 2022.
+8.  Regurgitative Training: The Value of Real Data in Training Large Language Models. School of Management, Fudan University, 2025.
 
-9.  Artificial Intelligence and Analytics Symposium. Lubar School of Business, University of Wisconsin-Milwaukee, 2022.
+9.  What We Cannot Do with AI Models We Don't (Yet) Have. Michael G. Foster School of Business, University of Washington, 2024.
 
-10. Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. McCombs School of Business, University of Texas at Austin, 2022.
+10. What We Cannot Do with AI Models We Don't (Yet) Have. McIntire School of Commerce, University of Virginia, 2024.
 
-11. Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. IDSc Departmental Friday Seminar, 2022.
+11. Generative AI in Research and Teaching. DBA Research Day, Metropolitan State University (St. Paul), 2024.
 
-12. Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Carlson School Summer Applied Economics Seminar Series, 2021.
+12. Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. School of Economics and Management, Tsinghua University, Virtual, 2022.
 
-13. Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
+13. Robust Statistical Inference with ML-Generated Variables. Wisconsin School of Business, University of Wisconsin-Madison, 2022.
 
-14. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
+14. Artificial Intelligence and Analytics Symposium. Lubar School of Business, University of Wisconsin-Milwaukee, 2022.
 
-15. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
+15. Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. McCombs School of Business, University of Texas at Austin, 2022.
 
-16. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
+16. Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. IDSc Departmental Friday Seminar, 2022.
 
-17. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
+17. Understanding Federated Learning in Healthcare via Iterated Prisoner's Dilemma. Carlson School Summer Applied Economics Seminar Series, 2021.
 
-18. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
+18. Analyzing User-Generated Content on Firms' Social Media Pages. Twin Cities Knowledge Management Forum, 2019.
 
-19. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
+19. Achieving Reliable Causal Inference with Data-Mined Variables: A Random Forest Approach to the Measurement Error Problem. George Washington University School of Business, George Washington University, Washington, D.C., 2019.
 
-20. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
+20. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. School of Economics and Management, Tsinghua University, Beijing, China, 2018.
 
-21. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (***FARCON***), MinneAnalytics, 2017.
+21. Seeing the Forest for the Trees: Generating Instrumental Variables with Random Forest for Bias Correction in Statistical Inferences. INFORMS Session - Business Applications of Artificial Intelligence, Phoenix, Arizona, 2018.
 
-22. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (***SOBACO***) Symposium, Carlson School of Management, 2015.
+22. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. University of Georgia, Terry College of Business, Athens, Georgia, 2017 (Job Talk).
+
+23. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, 2017 (Job Talk).
+
+24. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. Indiana University, Kelley School of Business, Bloomington, Indiana, 2017 (Job Talk).
+
+25. Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining. New York University, Stern School of Business, New York, 2017 (Job Talk).
+
+26. Analyzing User-Generated Content on Firm-Hosted Social Media Pages. Financial and Retail Conference (***FARCON***), MinneAnalytics, 2017.
+
+27. Understanding Word-of-Mouth and Customer Engagement on Facebook Business Pages. Social Media and Business Analytics Collaborative (***SOBACO***) Symposium, Carlson School of Management, 2015.
 
 \hrulefill
 
@@ -278,6 +288,7 @@ urlcolor: blue
 
 **Teaching at University of Minnesota**
 
+-   IDSC 4504: Machine Learning and Responsible AI for Business Applications
 -   MSBA 6131: Introduction to Business Analytics in R
 -   MSBA 6461: Advanced AI for Natural Language Processing
 -   MSBA 6341: Responsible AI
@@ -365,12 +376,14 @@ urlcolor: blue
 
 **Editorial Appointments**
 
+-   Guest Associate Editor, Management Science, 2025-
 -   Associate Editor, Information Systems Research, 2025-2027
 -   Editorial Review Board, Information Systems Research, 2022-2024
 -   Associate Editor, INFORMS Journal on Data Science, 2023-2026
 
 **Conference / Workshop Organization**
 
+-   Summer Workshop on AI for Business (SWAIB), 2025, Program Committee Co-Chair
 -   Workshop on Information Technologies and Systems, 2024, Program Committee Co-Chair
 -   INFORMS Workshop on Data Science, 2023, Program Committee Co-Chair
 -   INFORMS Annual Meeting, 2022, Session Chair (IS Cluster)
