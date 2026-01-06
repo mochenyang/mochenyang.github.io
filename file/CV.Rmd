@@ -376,10 +376,10 @@ urlcolor: blue
 
 **Editorial Appointments**
 
--   Guest Associate Editor, Management Science, 2025-
+-   Guest Associate Editor, Management Science, 2026-
 -   Associate Editor, Information Systems Research, 2025-2027
 -   Editorial Review Board, Information Systems Research, 2022-2024
--   Associate Editor, INFORMS Journal on Data Science, 2023-2026
+-   Associate Editor, INFORMS Journal on Data Science, 2023-2025
 
 **Conference / Workshop Organization**
 
