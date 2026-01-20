@@ -376,7 +376,7 @@ urlcolor: blue
 
 **Editorial Appointments**
 
--   Guest Associate Editor, Management Science, 2026-
+-   Associate Editor, Management Science, 2026-
 -   Associate Editor, Information Systems Research, 2025-2027
 -   Editorial Review Board, Information Systems Research, 2022-2024
 -   Associate Editor, INFORMS Journal on Data Science, 2023-2025
@@ -401,22 +401,9 @@ urlcolor: blue
 -   Workshop on Information Technologies and Systems
 -   Pacific Asia Conference on Information Systems
 
-**Reviewer**
+**Ad-Hoc Reviewer**
 
--   Information Systems Research
--   MIS Quarterly
--   Management Science
--   Organization Science
--   Production and Operations Management Journal
--   INFORMS Journal on Data Science
--   European Journal of Information Systems
--   ACM Transactions on Management Information Systems
--   Journal of Strategic Information Systems
--   Information Systems Journal
--   International Conference on Information Systems
--   Conference on Information Systems and Technology
--   Pacific Asia Conference on Information Systems
--   Hawaii International Conference on System Sciences
+-   Information Systems Research, MIS Quarterly, Management Science, Organization Science, Production and Operations Management Journal, INFORMS Journal on Data Science, European Journal of Information Systems, ACM Transactions on Management Information Systems, Journal of Strategic Information Systems, Information Systems Journal, International Conference on Information Systems, Conference on Information Systems and Technology, Pacific Asia Conference on Information Systems, Hawaii International Conference on System Sciences
 
 **Departmental Services**
 
