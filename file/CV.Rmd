@@ -23,15 +23,11 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# ACADEMIC APPOINTMENTS
+# ACADEMIC AND INDUSTRY POSITIONS
 
-**Carlson School of Management, University of Minnesota**
-
+- Research Collaborator, Meta Central Applied Science (via Magnit) \hfill 2026 - present
 - Associate Professor, Department of Information and Decision Sciences \hfill 2023 - present
 - Assistant Professor, Department of Information and Decision Sciences \hfill 2019 - 2023
-
-**Kelley School of Business, Indiana University**
-
 - Assistant Professor, Department of Operations & Decision Technologies \hfill 2018 - 2019
 
 \hrulefill
