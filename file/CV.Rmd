@@ -52,15 +52,15 @@ urlcolor: blue
 
 # JOURNAL PUBLICATIONS
 
-1.  Liu H, Yang M, Adomavicius G. Robustness is Important: Limitations of LLMs for Data Fitting. ***PNAS Nexus**,* forthcoming.
+1.  Liu H, Yang M, Adomavicius G (2026). Robustness is Important: Limitations of LLMs for Data Fitting. ***PNAS Nexus**,* 5(6), pgag197.
 
-2.  Burtch G, Yang M, McFowland E, Adomavicius G. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference. ***Management Science**,* forthcoming.
+2.  Burtch G, Yang M, McFowland E, Adomavicius G (2026). EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference. ***Management Science**,* forthcoming.
 
-3.  Zhang J, Qiao D, Yang M, Wei Q. Regurgitative Training: The Value of Real Data in Training Large Language Models. ***Management Science**,* forthcoming.
+3.  Zhang J, Qiao D, Yang M, Wei Q (2026). Regurgitative Training: The Value of Real Data in Training Large Language Models. ***Management Science**,* forthcoming.
 
-4.  Shi B, Mao X, Yang M, Li B. What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning. ***Information Systems Research***, forthcoming.
+4.  Shi B, Mao X, Yang M, Li B (2026). What, Why, and How: An Empiricist's Guide to Double/Debiased Machine Learning. ***Information Systems Research***, 37(2), 1259-1275.
 
-5.  Yang M, Bi X. Cost-Aware Calibration of Classifiers (2025). ***INFORMS Journal on Data Science (IJDS)***, 4(2), 101-113.
+5.  Yang M, Bi X (2025). Cost-Aware Calibration of Classifiers. ***INFORMS Journal on Data Science (IJDS)***, 4(2), 101-113.
 
 6.  Bi X, Gupta A, Yang M (2024). Understanding Partnership Formation and Repeated Contributions in Federated Learning: An Analytical Investigation. ***Management Science**,* 70(8), 4974-4994.
 
@@ -116,7 +116,7 @@ urlcolor: blue
 
 (presentations marked by [$\checkmark$])
 
-1.  Cho M, Gupta A, Yang M. "We can know more than we can tell,"" but can LLMs tell it? Using LLMs for Tacit Knowledge Transfer.
+1.  Cho M, Gupta A, Yang M. "We can know more than we can tell," but can LLMs tell it? Using LLMs for Tacit Knowledge Transfer.
 
     - Conference on Information Systems and Technology (***CIST***), Atlanta, Georgia, 2025.
 
@@ -374,7 +374,7 @@ urlcolor: blue
 **Editorial Appointments**
 
 - Associate Editor, Management Science, 2026-
-- Associate Editor, Information Systems Research, 2025-2027
+- Associate Editor, Information Systems Research, 2025.1-2026.5
 - Editorial Review Board, Information Systems Research, 2022-2024
 - Associate Editor, INFORMS Journal on Data Science, 2023-2025
 
@@ -404,6 +404,7 @@ urlcolor: blue
 
 **Departmental Services**
 
+- MSBA Academic Director, University of Minnesota, 2026-present
 - Ph.D. Recruiting Committee, University of Minnesota, 2021
 - Junior Faculty Brownbag Organization, University of Minnesota, 2021-2022
 - Faculty Recruiting Committee, University of Minnesota, 2020
