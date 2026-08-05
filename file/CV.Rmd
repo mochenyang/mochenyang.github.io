@@ -110,6 +110,14 @@ urlcolor: blue
 
 2.  Adomavicius G, Gupta A, Yang M. Improving Convergence of Flexible Combinatorial Auctions with Rationality-Based Ask Prices.
 
+3.  Cho, M, Curley, S, Yang, M. The Past Tense of “Feel” is “Feeled”: The Effect of a Algorithmic Decision Aid on Conformity.
+
+4.  Chen, L, Yang, M, Adomavicius, G. Self-Consistent Machine Learning: An Ensemble Smoothing Approach Based on Prediction Confidence.
+
+5.  Cho, M, Funk, R, Gupta, A, Yang, M. Large Language Models Explain Experts Better Than Experts Themselves.
+
+6.  Zhang X, Dou Y, Bi X, Yang M. (2026). Prompt Engineering vs. Fine-Tuning: Managing Revenue Sharing and Technology Configuration on Foundation Model Platforms.
+
 \hrulefill
 
 # CONFERENCE PAPERS AND PRESENTATIONS
@@ -380,7 +388,7 @@ urlcolor: blue
 
 **Conference / Workshop Organization**
 
-- Summer Workshop on AI for Business (SWAIB), 2025, Program Committee Co-Chair
+- Summer Workshop on AI for Business (SWAIB), 2026, Program Committee Co-Chair
 - Workshop on Information Technologies and Systems, 2024, Program Committee Co-Chair
 - INFORMS Workshop on Data Science, 2023, Program Committee Co-Chair
 - INFORMS Annual Meeting, 2022, Session Chair (IS Cluster)
