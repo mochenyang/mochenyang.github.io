@@ -319,6 +319,7 @@ urlcolor: blue
 
 **Honors and Awards**
 
+- INFORMS Information Systems Society (ISS) Sandy Slaughter Early Career Award, 2026
 - Global DBA Faculty Teaching Award, 2026
 - MSBA Outsanding Faculty Award (Foundation Course), 2026
 - Poets&Quants 40-Under-40 Graduate Business Professors, 2026
@@ -408,9 +409,9 @@ urlcolor: blue
 - Workshop on Information Technologies and Systems
 - Pacific Asia Conference on Information Systems
 
-**Ad-Hoc Reviewer**
+**Ad-Hoc Editor / Reviewer**
 
-- Information Systems Research, MIS Quarterly, Management Science, Organization Science, Production and Operations Management Journal, INFORMS Journal on Data Science, European Journal of Information Systems, ACM Transactions on Management Information Systems, Journal of Strategic Information Systems, Information Systems Journal, International Conference on Information Systems, Conference on Information Systems and Technology, Pacific Asia Conference on Information Systems, Hawaii International Conference on System Sciences
+- PNAS Nexus, Information Systems Research, MIS Quarterly, Management Science, Organization Science, Production and Operations Management Journal, INFORMS Journal on Data Science, European Journal of Information Systems, ACM Transactions on Management Information Systems, Journal of Strategic Information Systems, Information Systems Journal, International Conference on Information Systems, Conference on Information Systems and Technology, Pacific Asia Conference on Information Systems, Hawaii International Conference on System Sciences
 
 **Departmental Services**
 
