@@ -6,6 +6,9 @@ title: Research
 ## Working Papers
 
 1. Improving Convergence of Flexible Combinatorial Auctions with Rationality-Based Ask Prices. Gediminas Adomavicius, Alok Gupta, Mochen Yang. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148135)
+1. Managing Competing Customization Channels on Foundation Model Platforms: Revenue Sharing and Technology Configuration. Xu Zhang, Xuan Bi, Mochen Yang, Yifan Dou. 
+1. Large Language Models Can Explain Experts Better Than Experts Themselves. Mina Cho, Russell Funk, Alok Gupta, Mochen Yang.
+1. Agentic AI and Managers’ Analytics Capabilities: An Exploration. Sofia Bapna, Jinny Zhang, Mochen Yang, Ravi Bapna, Akhmed Umyarov, Vandith Pamuru, Pankaj Kumar.
 1. Algorithmic Governance via Recommender Systems: The Case of Short Video Platform. Jinghui Zhang, Mochen Yang, Xuan Bi, Qiang Wei. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4572513)
 
 
