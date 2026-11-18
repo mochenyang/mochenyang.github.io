@@ -9,7 +9,7 @@ title: "`r format(Sys.time(), '%B %Y')`"
 author: Mochen Yang
 
 jobtitle: "Associate Professor, Carlson School of Management, University of Minnesota"
-address: "CSOM 3-151, 321 19th Ave S, Minneapolis, MN"
+address: "CSOM 3-312, 321 19th Ave S, Minneapolis, MN"
 #fontawesome: yes
 email: yang3653@umn.edu
 #github: mochenyang
