@@ -14,6 +14,7 @@ title: Research
 
 ## Publications
 
+1. Cho, M, Curley, S, Yang, M. The Past Tense of "Feel" is "Feeled": The Effect of a Algorithmic Decision Aid on Conformity. **Journal of Behavioral Decision Making**, forthcoming.
 1. Robustness is Important: Limitations of LLMs for Data Fitting. Hejia Liu, Mochen Yang, Gediminas Adomavicius. **PNAS Nexus**, forthcoming. [[Journal]](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgag197/8699520) [[arXiv]](https://arxiv.org/pdf/2508.19563)
 1. EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference. Gordon Burtch, Edward McFowland III, Mochen Yang, Gediminas Adomavicius. **Management Science**, forthcoming. [[Journal]](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.08999) [[ArXiv]](https://arxiv.org/abs/2303.02820)
 1. Regurgitative Training: The Value of Real Data in Training Large Language Models. Jinghui Zhang, Dandan Qiao, Mochen Yang, Qiang Wei. **Management Science**, forthcoming. [[Journal Link]](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.07005) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4870843) [[ArXiv]](http://arxiv.org/abs/2407.12835)
